@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 2,
-  "updatedAt": "2026-09-16T06:14:48.892Z",
+  "totalPulls": 3,
+  "updatedAt": "2026-09-16T11:36:50.324Z",
   "lastPull": {
-    "id": 249,
-    "name": "lugia",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/249.png",
+    "id": 304,
+    "name": "aron",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/304.png",
     "types": [
-      "psychic",
-      "flying"
+      "steel",
+      "rock"
     ],
-    "totalStats": 680,
-    "grade": "SSR",
-    "pulledAt": "2026-09-16T06:14:48.892Z"
+    "totalStats": 330,
+    "grade": "N",
+    "pulledAt": "2026-09-16T11:36:50.324Z"
   },
   "pulls": [
+    {
+      "id": 304,
+      "name": "aron",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/304.png",
+      "types": [
+        "steel",
+        "rock"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-09-16T11:36:50.324Z"
+    },
     {
       "id": 249,
       "name": "lugia",
@@ -55,6 +67,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T06:14:48.892Z",
       "lastPulledAt": "2026-09-16T06:14:48.892Z"
+    },
+    "304": {
+      "id": 304,
+      "name": "aron",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/304.png",
+      "types": [
+        "steel",
+        "rock"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-09-16T11:36:50.324Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T11:36:50.324Z",
+      "lastPulledAt": "2026-09-16T11:36:50.324Z"
     },
     "386": {
       "id": 386,
