@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 1,
-  "updatedAt": "2026-09-16T01:39:14.389Z",
+  "totalPulls": 2,
+  "updatedAt": "2026-09-16T06:14:48.892Z",
   "lastPull": {
-    "id": 386,
-    "name": "deoxys-normal",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/386.png",
+    "id": 249,
+    "name": "lugia",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/249.png",
     "types": [
-      "psychic"
+      "psychic",
+      "flying"
     ],
-    "totalStats": 600,
+    "totalStats": 680,
     "grade": "SSR",
-    "pulledAt": "2026-09-16T01:39:14.389Z"
+    "pulledAt": "2026-09-16T06:14:48.892Z"
   },
   "pulls": [
+    {
+      "id": 249,
+      "name": "lugia",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/249.png",
+      "types": [
+        "psychic",
+        "flying"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-09-16T06:14:48.892Z"
+    },
     {
       "id": 386,
       "name": "deoxys-normal",
@@ -27,6 +40,22 @@
     }
   ],
   "pokemon": {
+    "249": {
+      "id": 249,
+      "name": "lugia",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/249.png",
+      "types": [
+        "psychic",
+        "flying"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-09-16T06:14:48.892Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T06:14:48.892Z",
+      "lastPulledAt": "2026-09-16T06:14:48.892Z"
+    },
     "386": {
       "id": 386,
       "name": "deoxys-normal",
