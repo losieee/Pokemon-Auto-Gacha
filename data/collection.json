@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 7,
-  "updatedAt": "2026-09-17T00:21:04.178Z",
+  "totalPulls": 8,
+  "updatedAt": "2026-09-17T05:02:59.163Z",
   "lastPull": {
-    "id": 541,
-    "name": "swadloon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/541.png",
+    "id": 483,
+    "name": "dialga",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png",
     "types": [
-      "bug",
-      "grass"
+      "steel",
+      "dragon"
     ],
-    "totalStats": 380,
-    "grade": "N",
-    "pulledAt": "2026-09-17T00:21:04.178Z"
+    "totalStats": 680,
+    "grade": "SSR",
+    "pulledAt": "2026-09-17T05:02:59.163Z"
   },
   "pulls": [
+    {
+      "id": 483,
+      "name": "dialga",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png",
+      "types": [
+        "steel",
+        "dragon"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-09-17T05:02:59.163Z"
+    },
     {
       "id": 541,
       "name": "swadloon",
@@ -162,6 +174,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:39:14.389Z",
       "lastPulledAt": "2026-09-16T01:39:14.389Z"
+    },
+    "483": {
+      "id": 483,
+      "name": "dialga",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png",
+      "types": [
+        "steel",
+        "dragon"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-09-17T05:02:59.163Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-17T05:02:59.163Z",
+      "lastPulledAt": "2026-09-17T05:02:59.163Z"
     },
     "541": {
       "id": 541,
