@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 9,
-  "updatedAt": "2026-09-17T09:56:25.442Z",
+  "totalPulls": 10,
+  "updatedAt": "2026-09-17T14:33:59.866Z",
   "lastPull": {
-    "id": 370,
-    "name": "luvdisc",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/370.png",
+    "id": 685,
+    "name": "slurpuff",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/685.png",
     "types": [
-      "water"
+      "fairy"
     ],
-    "totalStats": 330,
-    "grade": "N",
-    "pulledAt": "2026-09-17T09:56:25.442Z"
+    "totalStats": 480,
+    "grade": "R",
+    "pulledAt": "2026-09-17T14:33:59.866Z"
   },
   "pulls": [
+    {
+      "id": 685,
+      "name": "slurpuff",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/685.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-09-17T14:33:59.866Z"
+    },
     {
       "id": 370,
       "name": "luvdisc",
@@ -231,6 +242,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T00:21:04.178Z",
       "lastPulledAt": "2026-09-17T00:21:04.178Z"
+    },
+    "685": {
+      "id": 685,
+      "name": "slurpuff",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/685.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-09-17T14:33:59.866Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-17T14:33:59.866Z",
+      "lastPulledAt": "2026-09-17T14:33:59.866Z"
     },
     "862": {
       "id": 862,
