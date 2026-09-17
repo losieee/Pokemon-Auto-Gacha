@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 12,
-  "updatedAt": "2026-09-17T21:41:27.486Z",
+  "totalPulls": 13,
+  "updatedAt": "2026-09-17T23:42:27.760Z",
   "lastPull": {
-    "id": 175,
-    "name": "togepi",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/175.png",
+    "id": 587,
+    "name": "emolga",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/587.png",
     "types": [
-      "fairy"
+      "electric",
+      "flying"
     ],
-    "totalStats": 245,
-    "grade": "N",
-    "pulledAt": "2026-09-17T21:41:27.486Z"
+    "totalStats": 428,
+    "grade": "R",
+    "pulledAt": "2026-09-17T23:42:27.760Z"
   },
   "pulls": [
+    {
+      "id": 587,
+      "name": "emolga",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/587.png",
+      "types": [
+        "electric",
+        "flying"
+      ],
+      "totalStats": 428,
+      "grade": "R",
+      "pulledAt": "2026-09-17T23:42:27.760Z"
+    },
     {
       "id": 175,
       "name": "togepi",
@@ -117,18 +130,6 @@
       "totalStats": 520,
       "grade": "SR",
       "pulledAt": "2026-09-16T15:31:17.015Z"
-    },
-    {
-      "id": 304,
-      "name": "aron",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/304.png",
-      "types": [
-        "steel",
-        "rock"
-      ],
-      "totalStats": 330,
-      "grade": "N",
-      "pulledAt": "2026-09-16T11:36:50.324Z"
     }
   ],
   "pokemon": {
@@ -271,6 +272,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T00:21:04.178Z",
       "lastPulledAt": "2026-09-17T00:21:04.178Z"
+    },
+    "587": {
+      "id": 587,
+      "name": "emolga",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/587.png",
+      "types": [
+        "electric",
+        "flying"
+      ],
+      "totalStats": 428,
+      "grade": "R",
+      "pulledAt": "2026-09-17T23:42:27.760Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-17T23:42:27.760Z",
+      "lastPulledAt": "2026-09-17T23:42:27.760Z"
     },
     "685": {
       "id": 685,
