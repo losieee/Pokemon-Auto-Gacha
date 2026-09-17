@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 10,
-  "updatedAt": "2026-09-17T14:33:59.866Z",
+  "totalPulls": 11,
+  "updatedAt": "2026-09-17T18:30:13.418Z",
   "lastPull": {
-    "id": 685,
-    "name": "slurpuff",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/685.png",
+    "id": 420,
+    "name": "cherubi",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/420.png",
     "types": [
-      "fairy"
+      "grass"
     ],
-    "totalStats": 480,
-    "grade": "R",
-    "pulledAt": "2026-09-17T14:33:59.866Z"
+    "totalStats": 275,
+    "grade": "N",
+    "pulledAt": "2026-09-17T18:30:13.418Z"
   },
   "pulls": [
+    {
+      "id": 420,
+      "name": "cherubi",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/420.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 275,
+      "grade": "N",
+      "pulledAt": "2026-09-17T18:30:13.418Z"
+    },
     {
       "id": 685,
       "name": "slurpuff",
@@ -119,17 +130,6 @@
       "totalStats": 680,
       "grade": "SSR",
       "pulledAt": "2026-09-16T06:14:48.892Z"
-    },
-    {
-      "id": 386,
-      "name": "deoxys-normal",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/386.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-09-16T01:39:14.389Z"
     }
   ],
   "pokemon": {
@@ -210,6 +210,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:39:14.389Z",
       "lastPulledAt": "2026-09-16T01:39:14.389Z"
+    },
+    "420": {
+      "id": 420,
+      "name": "cherubi",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/420.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 275,
+      "grade": "N",
+      "pulledAt": "2026-09-17T18:30:13.418Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-17T18:30:13.418Z",
+      "lastPulledAt": "2026-09-17T18:30:13.418Z"
     },
     "483": {
       "id": 483,
