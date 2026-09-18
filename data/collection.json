@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 15,
-  "updatedAt": "2026-09-18T06:34:26.939Z",
+  "totalPulls": 16,
+  "updatedAt": "2026-09-18T11:43:39.506Z",
   "lastPull": {
-    "id": 842,
-    "name": "appletun",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/842.png",
+    "id": 837,
+    "name": "rolycoly",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/837.png",
     "types": [
-      "grass",
-      "dragon"
+      "rock"
     ],
-    "totalStats": 485,
-    "grade": "R",
-    "pulledAt": "2026-09-18T06:34:26.939Z"
+    "totalStats": 240,
+    "grade": "N",
+    "pulledAt": "2026-09-18T11:43:39.506Z"
   },
   "pulls": [
+    {
+      "id": 837,
+      "name": "rolycoly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/837.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 240,
+      "grade": "N",
+      "pulledAt": "2026-09-18T11:43:39.506Z"
+    },
     {
       "id": 842,
       "name": "appletun",
@@ -117,18 +127,6 @@
       "totalStats": 380,
       "grade": "N",
       "pulledAt": "2026-09-17T00:21:04.178Z"
-    },
-    {
-      "id": 994,
-      "name": "iron-moth",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/994.png",
-      "types": [
-        "fire",
-        "poison"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-09-16T22:04:07.533Z"
     }
   ],
   "pokemon": {
@@ -302,6 +300,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T14:33:59.866Z",
       "lastPulledAt": "2026-09-17T14:33:59.866Z"
+    },
+    "837": {
+      "id": 837,
+      "name": "rolycoly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/837.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 240,
+      "grade": "N",
+      "pulledAt": "2026-09-18T11:43:39.506Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-18T11:43:39.506Z",
+      "lastPulledAt": "2026-09-18T11:43:39.506Z"
     },
     "842": {
       "id": 842,
