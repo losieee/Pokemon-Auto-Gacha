@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 14,
-  "updatedAt": "2026-09-18T01:32:54.908Z",
+  "totalPulls": 15,
+  "updatedAt": "2026-09-18T06:34:26.939Z",
   "lastPull": {
-    "id": 927,
-    "name": "dachsbun",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/927.png",
+    "id": 842,
+    "name": "appletun",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/842.png",
     "types": [
-      "fairy"
+      "grass",
+      "dragon"
     ],
-    "totalStats": 477,
+    "totalStats": 485,
     "grade": "R",
-    "pulledAt": "2026-09-18T01:32:54.908Z"
+    "pulledAt": "2026-09-18T06:34:26.939Z"
   },
   "pulls": [
+    {
+      "id": 842,
+      "name": "appletun",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/842.png",
+      "types": [
+        "grass",
+        "dragon"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-09-18T06:34:26.939Z"
+    },
     {
       "id": 927,
       "name": "dachsbun",
@@ -116,18 +129,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-09-16T22:04:07.533Z"
-    },
-    {
-      "id": 862,
-      "name": "obstagoon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/862.png",
-      "types": [
-        "dark",
-        "normal"
-      ],
-      "totalStats": 520,
-      "grade": "SR",
-      "pulledAt": "2026-09-16T19:02:43.082Z"
     }
   ],
   "pokemon": {
@@ -301,6 +302,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T14:33:59.866Z",
       "lastPulledAt": "2026-09-17T14:33:59.866Z"
+    },
+    "842": {
+      "id": 842,
+      "name": "appletun",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/842.png",
+      "types": [
+        "grass",
+        "dragon"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-09-18T06:34:26.939Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-18T06:34:26.939Z",
+      "lastPulledAt": "2026-09-18T06:34:26.939Z"
     },
     "862": {
       "id": 862,
