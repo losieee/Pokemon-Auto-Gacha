@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 22,
-  "updatedAt": "2026-09-19T05:54:48.903Z",
+  "totalPulls": 23,
+  "updatedAt": "2026-09-19T09:53:08.665Z",
   "lastPull": {
-    "id": 866,
-    "name": "mr-rime",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/866.png",
+    "id": 939,
+    "name": "bellibolt",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/939.png",
     "types": [
-      "ice",
-      "psychic"
+      "electric"
     ],
-    "totalStats": 520,
-    "grade": "SR",
-    "pulledAt": "2026-09-19T05:54:48.903Z"
+    "totalStats": 495,
+    "grade": "R",
+    "pulledAt": "2026-09-19T09:53:08.665Z"
   },
   "pulls": [
+    {
+      "id": 939,
+      "name": "bellibolt",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/939.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-09-19T09:53:08.665Z"
+    },
     {
       "id": 866,
       "name": "mr-rime",
@@ -118,18 +128,6 @@
       "totalStats": 477,
       "grade": "R",
       "pulledAt": "2026-09-18T01:32:54.908Z"
-    },
-    {
-      "id": 587,
-      "name": "emolga",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/587.png",
-      "types": [
-        "electric",
-        "flying"
-      ],
-      "totalStats": 428,
-      "grade": "R",
-      "pulledAt": "2026-09-17T23:42:27.760Z"
     }
   ],
   "pokemon": {
@@ -459,6 +457,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T01:32:54.908Z",
       "lastPulledAt": "2026-09-18T01:32:54.908Z"
+    },
+    "939": {
+      "id": 939,
+      "name": "bellibolt",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/939.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-09-19T09:53:08.665Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T09:53:08.665Z",
+      "lastPulledAt": "2026-09-19T09:53:08.665Z"
     },
     "994": {
       "id": 994,
