@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 24,
-  "updatedAt": "2026-09-19T13:33:02.520Z",
+  "totalPulls": 25,
+  "updatedAt": "2026-09-19T16:46:05.158Z",
   "lastPull": {
-    "id": 838,
-    "name": "carkol",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/838.png",
+    "id": 320,
+    "name": "wailmer",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/320.png",
     "types": [
-      "rock",
-      "fire"
+      "water"
     ],
-    "totalStats": 410,
+    "totalStats": 400,
     "grade": "R",
-    "pulledAt": "2026-09-19T13:33:02.520Z"
+    "pulledAt": "2026-09-19T16:46:05.158Z"
   },
   "pulls": [
+    {
+      "id": 320,
+      "name": "wailmer",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/320.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 400,
+      "grade": "R",
+      "pulledAt": "2026-09-19T16:46:05.158Z"
+    },
     {
       "id": 838,
       "name": "carkol",
@@ -118,18 +128,6 @@
       "totalStats": 240,
       "grade": "N",
       "pulledAt": "2026-09-18T11:43:39.506Z"
-    },
-    {
-      "id": 842,
-      "name": "appletun",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/842.png",
-      "types": [
-        "grass",
-        "dragon"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-09-18T06:34:26.939Z"
     }
   ],
   "pokemon": {
@@ -226,6 +224,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T11:36:50.324Z",
       "lastPulledAt": "2026-09-16T11:36:50.324Z"
+    },
+    "320": {
+      "id": 320,
+      "name": "wailmer",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/320.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 400,
+      "grade": "R",
+      "pulledAt": "2026-09-19T16:46:05.158Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T16:46:05.158Z",
+      "lastPulledAt": "2026-09-19T16:46:05.158Z"
     },
     "370": {
       "id": 370,
