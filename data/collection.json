@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 21,
-  "updatedAt": "2026-09-19T01:11:02.580Z",
+  "totalPulls": 22,
+  "updatedAt": "2026-09-19T05:54:48.903Z",
   "lastPull": {
-    "id": 131,
-    "name": "lapras",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png",
+    "id": 866,
+    "name": "mr-rime",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/866.png",
     "types": [
-      "water",
-      "ice"
+      "ice",
+      "psychic"
     ],
-    "totalStats": 535,
+    "totalStats": 520,
     "grade": "SR",
-    "pulledAt": "2026-09-19T01:11:02.580Z"
+    "pulledAt": "2026-09-19T05:54:48.903Z"
   },
   "pulls": [
+    {
+      "id": 866,
+      "name": "mr-rime",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/866.png",
+      "types": [
+        "ice",
+        "psychic"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-09-19T05:54:48.903Z"
+    },
     {
       "id": 131,
       "name": "lapras",
@@ -118,17 +130,6 @@
       "totalStats": 428,
       "grade": "R",
       "pulledAt": "2026-09-17T23:42:27.760Z"
-    },
-    {
-      "id": 175,
-      "name": "togepi",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/175.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 245,
-      "grade": "N",
-      "pulledAt": "2026-09-17T21:41:27.486Z"
     }
   ],
   "pokemon": {
@@ -427,6 +428,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T19:02:43.082Z",
       "lastPulledAt": "2026-09-16T19:02:43.082Z"
+    },
+    "866": {
+      "id": 866,
+      "name": "mr-rime",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/866.png",
+      "types": [
+        "ice",
+        "psychic"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-09-19T05:54:48.903Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T05:54:48.903Z",
+      "lastPulledAt": "2026-09-19T05:54:48.903Z"
     },
     "927": {
       "id": 927,
