@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 20,
-  "updatedAt": "2026-09-18T23:14:55.743Z",
+  "totalPulls": 21,
+  "updatedAt": "2026-09-19T01:11:02.580Z",
   "lastPull": {
-    "id": 637,
-    "name": "volcarona",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/637.png",
+    "id": 131,
+    "name": "lapras",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png",
     "types": [
-      "bug",
-      "fire"
+      "water",
+      "ice"
     ],
-    "totalStats": 550,
+    "totalStats": 535,
     "grade": "SR",
-    "pulledAt": "2026-09-18T23:14:55.743Z"
+    "pulledAt": "2026-09-19T01:11:02.580Z"
   },
   "pulls": [
+    {
+      "id": 131,
+      "name": "lapras",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png",
+      "types": [
+        "water",
+        "ice"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-09-19T01:11:02.580Z"
+    },
     {
       "id": 637,
       "name": "volcarona",
@@ -117,17 +129,6 @@
       "totalStats": 245,
       "grade": "N",
       "pulledAt": "2026-09-17T21:41:27.486Z"
-    },
-    {
-      "id": 420,
-      "name": "cherubi",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/420.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 275,
-      "grade": "N",
-      "pulledAt": "2026-09-17T18:30:13.418Z"
     }
   ],
   "pokemon": {
@@ -146,6 +147,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T15:31:17.015Z",
       "lastPulledAt": "2026-09-16T15:31:17.015Z"
+    },
+    "131": {
+      "id": 131,
+      "name": "lapras",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png",
+      "types": [
+        "water",
+        "ice"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-09-19T01:11:02.580Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T01:11:02.580Z",
+      "lastPulledAt": "2026-09-19T01:11:02.580Z"
     },
     "175": {
       "id": 175,
