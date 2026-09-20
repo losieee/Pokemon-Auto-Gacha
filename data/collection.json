@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 34,
-  "updatedAt": "2026-09-20T19:46:05.882Z",
+  "totalPulls": 35,
+  "updatedAt": "2026-09-20T21:52:37.284Z",
   "lastPull": {
-    "id": 382,
-    "name": "kyogre",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/382.png",
+    "id": 411,
+    "name": "bastiodon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/411.png",
     "types": [
-      "water"
+      "rock",
+      "steel"
     ],
-    "totalStats": 670,
-    "grade": "SSR",
-    "pulledAt": "2026-09-20T19:46:05.882Z"
+    "totalStats": 495,
+    "grade": "R",
+    "pulledAt": "2026-09-20T21:52:37.284Z"
   },
   "pulls": [
+    {
+      "id": 411,
+      "name": "bastiodon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/411.png",
+      "types": [
+        "rock",
+        "steel"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-09-20T21:52:37.284Z"
+    },
     {
       "id": 382,
       "name": "kyogre",
@@ -114,17 +127,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-09-19T18:57:30.254Z"
-    },
-    {
-      "id": 320,
-      "name": "wailmer",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/320.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 400,
-      "grade": "R",
-      "pulledAt": "2026-09-19T16:46:05.158Z"
     }
   ],
   "pokemon": {
@@ -388,6 +390,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T21:07:45.417Z",
       "lastPulledAt": "2026-09-18T21:07:45.417Z"
+    },
+    "411": {
+      "id": 411,
+      "name": "bastiodon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/411.png",
+      "types": [
+        "rock",
+        "steel"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-09-20T21:52:37.284Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T21:52:37.284Z",
+      "lastPulledAt": "2026-09-20T21:52:37.284Z"
     },
     "420": {
       "id": 420,
