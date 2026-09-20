@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 31,
-  "updatedAt": "2026-09-20T11:13:45.362Z",
+  "totalPulls": 32,
+  "updatedAt": "2026-09-20T14:42:06.074Z",
   "lastPull": {
-    "id": 942,
-    "name": "maschiff",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/942.png",
+    "id": 495,
+    "name": "snivy",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/495.png",
     "types": [
-      "dark"
+      "grass"
     ],
-    "totalStats": 340,
+    "totalStats": 308,
     "grade": "N",
-    "pulledAt": "2026-09-20T11:13:45.362Z"
+    "pulledAt": "2026-09-20T14:42:06.074Z"
   },
   "pulls": [
+    {
+      "id": 495,
+      "name": "snivy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/495.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 308,
+      "grade": "N",
+      "pulledAt": "2026-09-20T14:42:06.074Z"
+    },
     {
       "id": 942,
       "name": "maschiff",
@@ -115,18 +126,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-09-19T09:53:08.665Z"
-    },
-    {
-      "id": 866,
-      "name": "mr-rime",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/866.png",
-      "types": [
-        "ice",
-        "psychic"
-      ],
-      "totalStats": 520,
-      "grade": "SR",
-      "pulledAt": "2026-09-19T05:54:48.903Z"
     }
   ],
   "pokemon": {
@@ -391,6 +390,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T05:02:59.163Z",
       "lastPulledAt": "2026-09-17T05:02:59.163Z"
+    },
+    "495": {
+      "id": 495,
+      "name": "snivy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/495.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 308,
+      "grade": "N",
+      "pulledAt": "2026-09-20T14:42:06.074Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T14:42:06.074Z",
+      "lastPulledAt": "2026-09-20T14:42:06.074Z"
     },
     "541": {
       "id": 541,
