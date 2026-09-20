@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 30,
-  "updatedAt": "2026-09-20T06:05:38.138Z",
+  "totalPulls": 31,
+  "updatedAt": "2026-09-20T11:13:45.362Z",
   "lastPull": {
-    "id": 774,
-    "name": "minior-red-meteor",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/774.png",
+    "id": 942,
+    "name": "maschiff",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/942.png",
     "types": [
-      "rock",
-      "flying"
+      "dark"
     ],
-    "totalStats": 440,
-    "grade": "R",
-    "pulledAt": "2026-09-20T06:05:38.138Z"
+    "totalStats": 340,
+    "grade": "N",
+    "pulledAt": "2026-09-20T11:13:45.362Z"
   },
   "pulls": [
+    {
+      "id": 942,
+      "name": "maschiff",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/942.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-09-20T11:13:45.362Z"
+    },
     {
       "id": 774,
       "name": "minior-red-meteor",
@@ -117,18 +127,6 @@
       "totalStats": 520,
       "grade": "SR",
       "pulledAt": "2026-09-19T05:54:48.903Z"
-    },
-    {
-      "id": 131,
-      "name": "lapras",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png",
-      "types": [
-        "water",
-        "ice"
-      ],
-      "totalStats": 535,
-      "grade": "SR",
-      "pulledAt": "2026-09-19T01:11:02.580Z"
     }
   ],
   "pokemon": {
@@ -581,6 +579,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T09:53:08.665Z",
       "lastPulledAt": "2026-09-19T09:53:08.665Z"
+    },
+    "942": {
+      "id": 942,
+      "name": "maschiff",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/942.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-09-20T11:13:45.362Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T11:13:45.362Z",
+      "lastPulledAt": "2026-09-20T11:13:45.362Z"
     },
     "994": {
       "id": 994,
