@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 28,
-  "updatedAt": "2026-09-19T23:07:46.329Z",
+  "totalPulls": 29,
+  "updatedAt": "2026-09-20T01:02:17.927Z",
   "lastPull": {
-    "id": 394,
-    "name": "prinplup",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/394.png",
+    "id": 330,
+    "name": "flygon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/330.png",
     "types": [
-      "water"
+      "ground",
+      "dragon"
     ],
-    "totalStats": 405,
-    "grade": "R",
-    "pulledAt": "2026-09-19T23:07:46.329Z"
+    "totalStats": 520,
+    "grade": "SR",
+    "pulledAt": "2026-09-20T01:02:17.927Z"
   },
   "pulls": [
+    {
+      "id": 330,
+      "name": "flygon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/330.png",
+      "types": [
+        "ground",
+        "dragon"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-09-20T01:02:17.927Z"
+    },
     {
       "id": 394,
       "name": "prinplup",
@@ -116,17 +129,6 @@
       "totalStats": 550,
       "grade": "SR",
       "pulledAt": "2026-09-18T23:14:55.743Z"
-    },
-    {
-      "id": 409,
-      "name": "rampardos",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/409.png",
-      "types": [
-        "rock"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-09-18T21:07:45.417Z"
     }
   ],
   "pokemon": {
@@ -268,6 +270,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T16:46:05.158Z",
       "lastPulledAt": "2026-09-19T16:46:05.158Z"
+    },
+    "330": {
+      "id": 330,
+      "name": "flygon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/330.png",
+      "types": [
+        "ground",
+        "dragon"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-09-20T01:02:17.927Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T01:02:17.927Z",
+      "lastPulledAt": "2026-09-20T01:02:17.927Z"
     },
     "370": {
       "id": 370,
