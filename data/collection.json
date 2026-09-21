@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 36,
-  "updatedAt": "2026-09-20T23:40:56.454Z",
+  "totalPulls": 37,
+  "updatedAt": "2026-09-21T01:42:20.349Z",
   "lastPull": {
-    "id": 510,
-    "name": "liepard",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/510.png",
+    "id": 901,
+    "name": "ursaluna",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/901.png",
     "types": [
-      "dark"
+      "ground",
+      "normal"
     ],
-    "totalStats": 446,
-    "grade": "R",
-    "pulledAt": "2026-09-20T23:40:56.454Z"
+    "totalStats": 550,
+    "grade": "SR",
+    "pulledAt": "2026-09-21T01:42:20.349Z"
   },
   "pulls": [
+    {
+      "id": 901,
+      "name": "ursaluna",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/901.png",
+      "types": [
+        "ground",
+        "normal"
+      ],
+      "totalStats": 550,
+      "grade": "SR",
+      "pulledAt": "2026-09-21T01:42:20.349Z"
+    },
     {
       "id": 510,
       "name": "liepard",
@@ -115,17 +128,6 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-09-19T23:07:46.329Z"
-    },
-    {
-      "id": 65,
-      "name": "alakazam",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-09-19T21:14:22.085Z"
     }
   ],
   "pokemon": {
@@ -624,6 +626,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T05:54:48.903Z",
       "lastPulledAt": "2026-09-19T05:54:48.903Z"
+    },
+    "901": {
+      "id": 901,
+      "name": "ursaluna",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/901.png",
+      "types": [
+        "ground",
+        "normal"
+      ],
+      "totalStats": 550,
+      "grade": "SR",
+      "pulledAt": "2026-09-21T01:42:20.349Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-21T01:42:20.349Z",
+      "lastPulledAt": "2026-09-21T01:42:20.349Z"
     },
     "927": {
       "id": 927,
