@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 40,
-  "updatedAt": "2026-09-21T19:29:02.060Z",
+  "totalPulls": 41,
+  "updatedAt": "2026-09-21T22:43:26.172Z",
   "lastPull": {
-    "id": 273,
-    "name": "seedot",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/273.png",
+    "id": 603,
+    "name": "eelektrik",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/603.png",
     "types": [
-      "grass"
+      "electric"
     ],
-    "totalStats": 220,
-    "grade": "N",
-    "pulledAt": "2026-09-21T19:29:02.060Z"
+    "totalStats": 405,
+    "grade": "R",
+    "pulledAt": "2026-09-21T22:43:26.172Z"
   },
   "pulls": [
+    {
+      "id": 603,
+      "name": "eelektrik",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/603.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-09-21T22:43:26.172Z"
+    },
     {
       "id": 273,
       "name": "seedot",
@@ -116,17 +127,6 @@
       "totalStats": 308,
       "grade": "N",
       "pulledAt": "2026-09-20T14:42:06.074Z"
-    },
-    {
-      "id": 942,
-      "name": "maschiff",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/942.png",
-      "types": [
-        "dark"
-      ],
-      "totalStats": 340,
-      "grade": "N",
-      "pulledAt": "2026-09-20T11:13:45.362Z"
     }
   ],
   "pokemon": {
@@ -546,6 +546,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T23:42:27.760Z",
       "lastPulledAt": "2026-09-17T23:42:27.760Z"
+    },
+    "603": {
+      "id": 603,
+      "name": "eelektrik",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/603.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-09-21T22:43:26.172Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-21T22:43:26.172Z",
+      "lastPulledAt": "2026-09-21T22:43:26.172Z"
     },
     "637": {
       "id": 637,
