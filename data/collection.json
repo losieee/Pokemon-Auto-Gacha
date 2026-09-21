@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 37,
-  "updatedAt": "2026-09-21T01:42:20.349Z",
+  "totalPulls": 38,
+  "updatedAt": "2026-09-21T07:12:52.781Z",
   "lastPull": {
-    "id": 901,
-    "name": "ursaluna",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/901.png",
+    "id": 558,
+    "name": "crustle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/558.png",
     "types": [
-      "ground",
-      "normal"
+      "bug",
+      "rock"
     ],
-    "totalStats": 550,
-    "grade": "SR",
-    "pulledAt": "2026-09-21T01:42:20.349Z"
+    "totalStats": 485,
+    "grade": "R",
+    "pulledAt": "2026-09-21T07:12:52.781Z"
   },
   "pulls": [
+    {
+      "id": 558,
+      "name": "crustle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/558.png",
+      "types": [
+        "bug",
+        "rock"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-09-21T07:12:52.781Z"
+    },
     {
       "id": 901,
       "name": "ursaluna",
@@ -117,17 +129,6 @@
       "totalStats": 520,
       "grade": "SR",
       "pulledAt": "2026-09-20T01:02:17.927Z"
-    },
-    {
-      "id": 394,
-      "name": "prinplup",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/394.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-09-19T23:07:46.329Z"
     }
   ],
   "pokemon": {
@@ -484,6 +485,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T00:21:04.178Z",
       "lastPulledAt": "2026-09-17T00:21:04.178Z"
+    },
+    "558": {
+      "id": 558,
+      "name": "crustle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/558.png",
+      "types": [
+        "bug",
+        "rock"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-09-21T07:12:52.781Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-21T07:12:52.781Z",
+      "lastPulledAt": "2026-09-21T07:12:52.781Z"
     },
     "587": {
       "id": 587,
