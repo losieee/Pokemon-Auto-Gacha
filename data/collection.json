@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 45,
-  "updatedAt": "2026-09-22T15:43:31.799Z",
+  "totalPulls": 46,
+  "updatedAt": "2026-09-22T19:12:53.835Z",
   "lastPull": {
-    "id": 705,
-    "name": "sliggoo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/705.png",
+    "id": 337,
+    "name": "lunatone",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/337.png",
     "types": [
-      "dragon"
+      "rock",
+      "psychic"
     ],
-    "totalStats": 452,
+    "totalStats": 460,
     "grade": "R",
-    "pulledAt": "2026-09-22T15:43:31.799Z"
+    "pulledAt": "2026-09-22T19:12:53.835Z"
   },
   "pulls": [
+    {
+      "id": 337,
+      "name": "lunatone",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/337.png",
+      "types": [
+        "rock",
+        "psychic"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-09-22T19:12:53.835Z"
+    },
     {
       "id": 705,
       "name": "sliggoo",
@@ -117,17 +130,6 @@
       "totalStats": 550,
       "grade": "SR",
       "pulledAt": "2026-09-21T01:42:20.349Z"
-    },
-    {
-      "id": 510,
-      "name": "liepard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/510.png",
-      "types": [
-        "dark"
-      ],
-      "totalStats": 446,
-      "grade": "R",
-      "pulledAt": "2026-09-20T23:40:56.454Z"
     }
   ],
   "pokemon": {
@@ -346,6 +348,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T01:02:17.927Z",
       "lastPulledAt": "2026-09-20T01:02:17.927Z"
+    },
+    "337": {
+      "id": 337,
+      "name": "lunatone",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/337.png",
+      "types": [
+        "rock",
+        "psychic"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-09-22T19:12:53.835Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-22T19:12:53.835Z",
+      "lastPulledAt": "2026-09-22T19:12:53.835Z"
     },
     "370": {
       "id": 370,
