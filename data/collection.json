@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 46,
-  "updatedAt": "2026-09-22T19:12:53.835Z",
+  "totalPulls": 47,
+  "updatedAt": "2026-09-22T22:10:25.489Z",
   "lastPull": {
-    "id": 337,
-    "name": "lunatone",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/337.png",
+    "id": 575,
+    "name": "gothorita",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/575.png",
     "types": [
-      "rock",
       "psychic"
     ],
-    "totalStats": 460,
-    "grade": "R",
-    "pulledAt": "2026-09-22T19:12:53.835Z"
+    "totalStats": 390,
+    "grade": "N",
+    "pulledAt": "2026-09-22T22:10:25.489Z"
   },
   "pulls": [
+    {
+      "id": 575,
+      "name": "gothorita",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/575.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 390,
+      "grade": "N",
+      "pulledAt": "2026-09-22T22:10:25.489Z"
+    },
     {
       "id": 337,
       "name": "lunatone",
@@ -118,18 +128,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-09-21T07:12:52.781Z"
-    },
-    {
-      "id": 901,
-      "name": "ursaluna",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/901.png",
-      "types": [
-        "ground",
-        "normal"
-      ],
-      "totalStats": 550,
-      "grade": "SR",
-      "pulledAt": "2026-09-21T01:42:20.349Z"
     }
   ],
   "pokemon": {
@@ -580,6 +578,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T07:12:52.781Z",
       "lastPulledAt": "2026-09-21T07:12:52.781Z"
+    },
+    "575": {
+      "id": 575,
+      "name": "gothorita",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/575.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 390,
+      "grade": "N",
+      "pulledAt": "2026-09-22T22:10:25.489Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-22T22:10:25.489Z",
+      "lastPulledAt": "2026-09-22T22:10:25.489Z"
     },
     "587": {
       "id": 587,
