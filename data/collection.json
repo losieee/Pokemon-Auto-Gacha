@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 43,
-  "updatedAt": "2026-09-22T06:16:09.878Z",
+  "totalPulls": 44,
+  "updatedAt": "2026-09-22T11:42:44.153Z",
   "lastPull": {
-    "id": 206,
-    "name": "dunsparce",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/206.png",
+    "id": 166,
+    "name": "ledian",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/166.png",
     "types": [
-      "normal"
+      "bug",
+      "flying"
     ],
-    "totalStats": 415,
-    "grade": "R",
-    "pulledAt": "2026-09-22T06:16:09.878Z"
+    "totalStats": 390,
+    "grade": "N",
+    "pulledAt": "2026-09-22T11:42:44.153Z"
   },
   "pulls": [
+    {
+      "id": 166,
+      "name": "ledian",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/166.png",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "totalStats": 390,
+      "grade": "N",
+      "pulledAt": "2026-09-22T11:42:44.153Z"
+    },
     {
       "id": 206,
       "name": "dunsparce",
@@ -117,17 +130,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-09-20T21:52:37.284Z"
-    },
-    {
-      "id": 382,
-      "name": "kyogre",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/382.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 670,
-      "grade": "SSR",
-      "pulledAt": "2026-09-20T19:46:05.882Z"
     }
   ],
   "pokemon": {
@@ -192,6 +194,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T01:11:02.580Z",
       "lastPulledAt": "2026-09-19T01:11:02.580Z"
+    },
+    "166": {
+      "id": 166,
+      "name": "ledian",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/166.png",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "totalStats": 390,
+      "grade": "N",
+      "pulledAt": "2026-09-22T11:42:44.153Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-22T11:42:44.153Z",
+      "lastPulledAt": "2026-09-22T11:42:44.153Z"
     },
     "175": {
       "id": 175,
