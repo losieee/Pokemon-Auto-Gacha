@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 41,
-  "updatedAt": "2026-09-21T22:43:26.172Z",
+  "totalPulls": 42,
+  "updatedAt": "2026-09-22T01:12:00.316Z",
   "lastPull": {
-    "id": 603,
-    "name": "eelektrik",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/603.png",
+    "id": 850,
+    "name": "sizzlipede",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/850.png",
     "types": [
-      "electric"
+      "fire",
+      "bug"
     ],
-    "totalStats": 405,
-    "grade": "R",
-    "pulledAt": "2026-09-21T22:43:26.172Z"
+    "totalStats": 305,
+    "grade": "N",
+    "pulledAt": "2026-09-22T01:12:00.316Z"
   },
   "pulls": [
+    {
+      "id": 850,
+      "name": "sizzlipede",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/850.png",
+      "types": [
+        "fire",
+        "bug"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-09-22T01:12:00.316Z"
+    },
     {
       "id": 603,
       "name": "eelektrik",
@@ -116,17 +129,6 @@
       "totalStats": 400,
       "grade": "R",
       "pulledAt": "2026-09-20T17:40:48.952Z"
-    },
-    {
-      "id": 495,
-      "name": "snivy",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/495.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 308,
-      "grade": "N",
-      "pulledAt": "2026-09-20T14:42:06.074Z"
     }
   ],
   "pokemon": {
@@ -655,6 +657,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T06:34:26.939Z",
       "lastPulledAt": "2026-09-18T06:34:26.939Z"
+    },
+    "850": {
+      "id": 850,
+      "name": "sizzlipede",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/850.png",
+      "types": [
+        "fire",
+        "bug"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-09-22T01:12:00.316Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-22T01:12:00.316Z",
+      "lastPulledAt": "2026-09-22T01:12:00.316Z"
     },
     "862": {
       "id": 862,
