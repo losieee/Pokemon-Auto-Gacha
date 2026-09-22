@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 42,
-  "updatedAt": "2026-09-22T01:12:00.316Z",
+  "totalPulls": 43,
+  "updatedAt": "2026-09-22T06:16:09.878Z",
   "lastPull": {
-    "id": 850,
-    "name": "sizzlipede",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/850.png",
+    "id": 206,
+    "name": "dunsparce",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/206.png",
     "types": [
-      "fire",
-      "bug"
+      "normal"
     ],
-    "totalStats": 305,
-    "grade": "N",
-    "pulledAt": "2026-09-22T01:12:00.316Z"
+    "totalStats": 415,
+    "grade": "R",
+    "pulledAt": "2026-09-22T06:16:09.878Z"
   },
   "pulls": [
+    {
+      "id": 206,
+      "name": "dunsparce",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/206.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 415,
+      "grade": "R",
+      "pulledAt": "2026-09-22T06:16:09.878Z"
+    },
     {
       "id": 850,
       "name": "sizzlipede",
@@ -118,17 +128,6 @@
       "totalStats": 670,
       "grade": "SSR",
       "pulledAt": "2026-09-20T19:46:05.882Z"
-    },
-    {
-      "id": 301,
-      "name": "delcatty",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/301.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 400,
-      "grade": "R",
-      "pulledAt": "2026-09-20T17:40:48.952Z"
     }
   ],
   "pokemon": {
@@ -208,6 +207,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T21:41:27.486Z",
       "lastPulledAt": "2026-09-17T21:41:27.486Z"
+    },
+    "206": {
+      "id": 206,
+      "name": "dunsparce",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/206.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 415,
+      "grade": "R",
+      "pulledAt": "2026-09-22T06:16:09.878Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-22T06:16:09.878Z",
+      "lastPulledAt": "2026-09-22T06:16:09.878Z"
     },
     "249": {
       "id": 249,
