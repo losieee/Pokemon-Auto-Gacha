@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 50,
-  "updatedAt": "2026-09-23T09:53:29.488Z",
+  "totalPulls": 51,
+  "updatedAt": "2026-09-23T14:30:51.916Z",
   "lastPull": {
-    "id": 172,
-    "name": "pichu",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/172.png",
+    "id": 376,
+    "name": "metagross",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/376.png",
     "types": [
-      "electric"
+      "steel",
+      "psychic"
     ],
-    "totalStats": 205,
-    "grade": "N",
-    "pulledAt": "2026-09-23T09:53:29.488Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-09-23T14:30:51.916Z"
   },
   "pulls": [
+    {
+      "id": 376,
+      "name": "metagross",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/376.png",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-23T14:30:51.916Z"
+    },
     {
       "id": 172,
       "name": "pichu",
@@ -117,17 +130,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-09-22T01:12:00.316Z"
-    },
-    {
-      "id": 603,
-      "name": "eelektrik",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/603.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-09-21T22:43:26.172Z"
     }
   ],
   "pokemon": {
@@ -408,6 +410,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T09:56:25.442Z",
       "lastPulledAt": "2026-09-17T09:56:25.442Z"
+    },
+    "376": {
+      "id": 376,
+      "name": "metagross",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/376.png",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-23T14:30:51.916Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-23T14:30:51.916Z",
+      "lastPulledAt": "2026-09-23T14:30:51.916Z"
     },
     "382": {
       "id": 382,
