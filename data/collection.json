@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 48,
-  "updatedAt": "2026-09-23T00:34:51.728Z",
+  "totalPulls": 49,
+  "updatedAt": "2026-09-23T05:05:48.874Z",
   "lastPull": {
-    "id": 1023,
-    "name": "iron-crown",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1023.png",
+    "id": 225,
+    "name": "delibird",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/225.png",
     "types": [
-      "steel",
-      "psychic"
+      "ice",
+      "flying"
     ],
-    "totalStats": 590,
-    "grade": "SR",
-    "pulledAt": "2026-09-23T00:34:51.728Z"
+    "totalStats": 330,
+    "grade": "N",
+    "pulledAt": "2026-09-23T05:05:48.874Z"
   },
   "pulls": [
+    {
+      "id": 225,
+      "name": "delibird",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/225.png",
+      "types": [
+        "ice",
+        "flying"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-09-23T05:05:48.874Z"
+    },
     {
       "id": 1023,
       "name": "iron-crown",
@@ -117,18 +129,6 @@
       "totalStats": 220,
       "grade": "N",
       "pulledAt": "2026-09-21T19:29:02.060Z"
-    },
-    {
-      "id": 443,
-      "name": "gible",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/443.png",
-      "types": [
-        "dragon",
-        "ground"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-09-21T14:10:46.068Z"
     }
   ],
   "pokemon": {
@@ -239,6 +239,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T06:16:09.878Z",
       "lastPulledAt": "2026-09-22T06:16:09.878Z"
+    },
+    "225": {
+      "id": 225,
+      "name": "delibird",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/225.png",
+      "types": [
+        "ice",
+        "flying"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-09-23T05:05:48.874Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-23T05:05:48.874Z",
+      "lastPulledAt": "2026-09-23T05:05:48.874Z"
     },
     "249": {
       "id": 249,
