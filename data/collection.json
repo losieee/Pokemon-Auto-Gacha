@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 51,
-  "updatedAt": "2026-09-23T14:30:51.916Z",
+  "totalPulls": 52,
+  "updatedAt": "2026-09-23T18:35:05.394Z",
   "lastPull": {
-    "id": 376,
-    "name": "metagross",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/376.png",
+    "id": 165,
+    "name": "ledyba",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/165.png",
     "types": [
-      "steel",
-      "psychic"
+      "bug",
+      "flying"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-09-23T14:30:51.916Z"
+    "totalStats": 265,
+    "grade": "N",
+    "pulledAt": "2026-09-23T18:35:05.394Z"
   },
   "pulls": [
+    {
+      "id": 165,
+      "name": "ledyba",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/165.png",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "totalStats": 265,
+      "grade": "N",
+      "pulledAt": "2026-09-23T18:35:05.394Z"
+    },
     {
       "id": 376,
       "name": "metagross",
@@ -118,18 +130,6 @@
       "totalStats": 415,
       "grade": "R",
       "pulledAt": "2026-09-22T06:16:09.878Z"
-    },
-    {
-      "id": 850,
-      "name": "sizzlipede",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/850.png",
-      "types": [
-        "fire",
-        "bug"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-09-22T01:12:00.316Z"
     }
   ],
   "pokemon": {
@@ -194,6 +194,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T01:11:02.580Z",
       "lastPulledAt": "2026-09-19T01:11:02.580Z"
+    },
+    "165": {
+      "id": 165,
+      "name": "ledyba",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/165.png",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "totalStats": 265,
+      "grade": "N",
+      "pulledAt": "2026-09-23T18:35:05.394Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-23T18:35:05.394Z",
+      "lastPulledAt": "2026-09-23T18:35:05.394Z"
     },
     "166": {
       "id": 166,
