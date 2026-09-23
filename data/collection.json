@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 47,
-  "updatedAt": "2026-09-22T22:10:25.489Z",
+  "totalPulls": 48,
+  "updatedAt": "2026-09-23T00:34:51.728Z",
   "lastPull": {
-    "id": 575,
-    "name": "gothorita",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/575.png",
+    "id": 1023,
+    "name": "iron-crown",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1023.png",
     "types": [
+      "steel",
       "psychic"
     ],
-    "totalStats": 390,
-    "grade": "N",
-    "pulledAt": "2026-09-22T22:10:25.489Z"
+    "totalStats": 590,
+    "grade": "SR",
+    "pulledAt": "2026-09-23T00:34:51.728Z"
   },
   "pulls": [
+    {
+      "id": 1023,
+      "name": "iron-crown",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1023.png",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "totalStats": 590,
+      "grade": "SR",
+      "pulledAt": "2026-09-23T00:34:51.728Z"
+    },
     {
       "id": 575,
       "name": "gothorita",
@@ -116,18 +129,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-09-21T14:10:46.068Z"
-    },
-    {
-      "id": 558,
-      "name": "crustle",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/558.png",
-      "types": [
-        "bug",
-        "rock"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-09-21T07:12:52.781Z"
     }
   ],
   "pokemon": {
@@ -858,6 +859,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T22:04:07.533Z",
       "lastPulledAt": "2026-09-16T22:04:07.533Z"
+    },
+    "1023": {
+      "id": 1023,
+      "name": "iron-crown",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1023.png",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "totalStats": 590,
+      "grade": "SR",
+      "pulledAt": "2026-09-23T00:34:51.728Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-23T00:34:51.728Z",
+      "lastPulledAt": "2026-09-23T00:34:51.728Z"
     }
   },
   "typeTotals": {
