@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 53,
-  "updatedAt": "2026-09-23T21:43:19.408Z",
+  "totalPulls": 54,
+  "updatedAt": "2026-09-23T23:58:41.584Z",
   "lastPull": {
-    "id": 901,
-    "name": "ursaluna",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/901.png",
+    "id": 232,
+    "name": "donphan",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/232.png",
     "types": [
-      "ground",
-      "normal"
+      "ground"
     ],
-    "totalStats": 550,
+    "totalStats": 500,
     "grade": "SR",
-    "pulledAt": "2026-09-23T21:43:19.408Z"
+    "pulledAt": "2026-09-23T23:58:41.584Z"
   },
   "pulls": [
+    {
+      "id": 232,
+      "name": "donphan",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/232.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-23T23:58:41.584Z"
+    },
     {
       "id": 901,
       "name": "ursaluna",
@@ -119,18 +129,6 @@
       "totalStats": 452,
       "grade": "R",
       "pulledAt": "2026-09-22T15:43:31.799Z"
-    },
-    {
-      "id": 166,
-      "name": "ledian",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/166.png",
-      "types": [
-        "bug",
-        "flying"
-      ],
-      "totalStats": 390,
-      "grade": "N",
-      "pulledAt": "2026-09-22T11:42:44.153Z"
     }
   ],
   "pokemon": {
@@ -288,6 +286,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T05:05:48.874Z",
       "lastPulledAt": "2026-09-23T05:05:48.874Z"
+    },
+    "232": {
+      "id": 232,
+      "name": "donphan",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/232.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-23T23:58:41.584Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-23T23:58:41.584Z",
+      "lastPulledAt": "2026-09-23T23:58:41.584Z"
     },
     "249": {
       "id": 249,
