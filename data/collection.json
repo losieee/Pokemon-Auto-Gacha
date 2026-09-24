@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 56,
-  "updatedAt": "2026-09-24T08:29:21.478Z",
+  "totalPulls": 57,
+  "updatedAt": "2026-09-24T13:42:18.000Z",
   "lastPull": {
-    "id": 986,
-    "name": "brute-bonnet",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/986.png",
+    "id": 850,
+    "name": "sizzlipede",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/850.png",
     "types": [
-      "grass",
-      "dark"
+      "fire",
+      "bug"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-09-24T08:29:21.478Z"
+    "totalStats": 305,
+    "grade": "N",
+    "pulledAt": "2026-09-24T13:42:18.000Z"
   },
   "pulls": [
+    {
+      "id": 850,
+      "name": "sizzlipede",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/850.png",
+      "types": [
+        "fire",
+        "bug"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-09-24T13:42:18.000Z"
+    },
     {
       "id": 986,
       "name": "brute-bonnet",
@@ -119,17 +131,6 @@
       "totalStats": 590,
       "grade": "SR",
       "pulledAt": "2026-09-23T00:34:51.728Z"
-    },
-    {
-      "id": 575,
-      "name": "gothorita",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/575.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 390,
-      "grade": "N",
-      "pulledAt": "2026-09-22T22:10:25.489Z"
     }
   ],
   "pokemon": {
@@ -840,10 +841,10 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-09-22T01:12:00.316Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T01:12:00.316Z",
-      "lastPulledAt": "2026-09-22T01:12:00.316Z"
+      "lastPulledAt": "2026-09-24T13:42:18.000Z"
     },
     "862": {
       "id": 862,
