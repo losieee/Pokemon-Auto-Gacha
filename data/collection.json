@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 58,
-  "updatedAt": "2026-09-24T17:58:03.715Z",
+  "totalPulls": 59,
+  "updatedAt": "2026-09-24T21:06:55.815Z",
   "lastPull": {
-    "id": 262,
-    "name": "mightyena",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/262.png",
+    "id": 472,
+    "name": "gliscor",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/472.png",
     "types": [
-      "dark"
+      "ground",
+      "flying"
     ],
-    "totalStats": 420,
-    "grade": "R",
-    "pulledAt": "2026-09-24T17:58:03.715Z"
+    "totalStats": 510,
+    "grade": "SR",
+    "pulledAt": "2026-09-24T21:06:55.815Z"
   },
   "pulls": [
+    {
+      "id": 472,
+      "name": "gliscor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/472.png",
+      "types": [
+        "ground",
+        "flying"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-09-24T21:06:55.815Z"
+    },
     {
       "id": 262,
       "name": "mightyena",
@@ -117,18 +130,6 @@
       "totalStats": 205,
       "grade": "N",
       "pulledAt": "2026-09-23T09:53:29.488Z"
-    },
-    {
-      "id": 225,
-      "name": "delibird",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/225.png",
-      "types": [
-        "ice",
-        "flying"
-      ],
-      "totalStats": 330,
-      "grade": "N",
-      "pulledAt": "2026-09-23T05:05:48.874Z"
     }
   ],
   "pokemon": {
@@ -594,6 +595,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T14:10:46.068Z",
       "lastPulledAt": "2026-09-21T14:10:46.068Z"
+    },
+    "472": {
+      "id": 472,
+      "name": "gliscor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/472.png",
+      "types": [
+        "ground",
+        "flying"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-09-24T21:06:55.815Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-24T21:06:55.815Z",
+      "lastPulledAt": "2026-09-24T21:06:55.815Z"
     },
     "483": {
       "id": 483,
