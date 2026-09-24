@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 54,
-  "updatedAt": "2026-09-23T23:58:41.584Z",
+  "totalPulls": 55,
+  "updatedAt": "2026-09-24T03:15:20.116Z",
   "lastPull": {
-    "id": 232,
-    "name": "donphan",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/232.png",
+    "id": 514,
+    "name": "simisear",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/514.png",
     "types": [
-      "ground"
+      "fire"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-09-23T23:58:41.584Z"
+    "totalStats": 498,
+    "grade": "R",
+    "pulledAt": "2026-09-24T03:15:20.116Z"
   },
   "pulls": [
+    {
+      "id": 514,
+      "name": "simisear",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/514.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 498,
+      "grade": "R",
+      "pulledAt": "2026-09-24T03:15:20.116Z"
+    },
     {
       "id": 232,
       "name": "donphan",
@@ -118,17 +129,6 @@
       "totalStats": 460,
       "grade": "R",
       "pulledAt": "2026-09-22T19:12:53.835Z"
-    },
-    {
-      "id": 705,
-      "name": "sliggoo",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/705.png",
-      "types": [
-        "dragon"
-      ],
-      "totalStats": 452,
-      "grade": "R",
-      "pulledAt": "2026-09-22T15:43:31.799Z"
     }
   ],
   "pokemon": {
@@ -625,6 +625,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T23:40:56.454Z",
       "lastPulledAt": "2026-09-20T23:40:56.454Z"
+    },
+    "514": {
+      "id": 514,
+      "name": "simisear",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/514.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 498,
+      "grade": "R",
+      "pulledAt": "2026-09-24T03:15:20.116Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-24T03:15:20.116Z",
+      "lastPulledAt": "2026-09-24T03:15:20.116Z"
     },
     "541": {
       "id": 541,
