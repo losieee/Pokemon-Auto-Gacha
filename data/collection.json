@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 57,
-  "updatedAt": "2026-09-24T13:42:18.000Z",
+  "totalPulls": 58,
+  "updatedAt": "2026-09-24T17:58:03.715Z",
   "lastPull": {
-    "id": 850,
-    "name": "sizzlipede",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/850.png",
+    "id": 262,
+    "name": "mightyena",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/262.png",
     "types": [
-      "fire",
-      "bug"
+      "dark"
     ],
-    "totalStats": 305,
-    "grade": "N",
-    "pulledAt": "2026-09-24T13:42:18.000Z"
+    "totalStats": 420,
+    "grade": "R",
+    "pulledAt": "2026-09-24T17:58:03.715Z"
   },
   "pulls": [
+    {
+      "id": 262,
+      "name": "mightyena",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/262.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-09-24T17:58:03.715Z"
+    },
     {
       "id": 850,
       "name": "sizzlipede",
@@ -119,18 +129,6 @@
       "totalStats": 330,
       "grade": "N",
       "pulledAt": "2026-09-23T05:05:48.874Z"
-    },
-    {
-      "id": 1023,
-      "name": "iron-crown",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1023.png",
-      "types": [
-        "steel",
-        "psychic"
-      ],
-      "totalStats": 590,
-      "grade": "SR",
-      "pulledAt": "2026-09-23T00:34:51.728Z"
     }
   ],
   "pokemon": {
@@ -319,6 +317,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T06:14:48.892Z",
       "lastPulledAt": "2026-09-16T06:14:48.892Z"
+    },
+    "262": {
+      "id": 262,
+      "name": "mightyena",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/262.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-09-24T17:58:03.715Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-24T17:58:03.715Z",
+      "lastPulledAt": "2026-09-24T17:58:03.715Z"
     },
     "273": {
       "id": 273,
