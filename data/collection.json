@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 63,
-  "updatedAt": "2026-09-25T13:38:39.136Z",
+  "totalPulls": 64,
+  "updatedAt": "2026-09-25T18:03:27.251Z",
   "lastPull": {
-    "id": 387,
-    "name": "turtwig",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/387.png",
+    "id": 811,
+    "name": "thwackey",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/811.png",
     "types": [
       "grass"
     ],
-    "totalStats": 318,
-    "grade": "N",
-    "pulledAt": "2026-09-25T13:38:39.136Z"
+    "totalStats": 420,
+    "grade": "R",
+    "pulledAt": "2026-09-25T18:03:27.251Z"
   },
   "pulls": [
+    {
+      "id": 811,
+      "name": "thwackey",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/811.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-09-25T18:03:27.251Z"
+    },
     {
       "id": 387,
       "name": "turtwig",
@@ -116,17 +127,6 @@
       "totalStats": 498,
       "grade": "R",
       "pulledAt": "2026-09-24T03:15:20.116Z"
-    },
-    {
-      "id": 232,
-      "name": "donphan",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/232.png",
-      "types": [
-        "ground"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-09-23T23:58:41.584Z"
     }
   ],
   "pokemon": {
@@ -854,6 +854,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T06:05:38.138Z",
       "lastPulledAt": "2026-09-20T06:05:38.138Z"
+    },
+    "811": {
+      "id": 811,
+      "name": "thwackey",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/811.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-09-25T18:03:27.251Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-25T18:03:27.251Z",
+      "lastPulledAt": "2026-09-25T18:03:27.251Z"
     },
     "837": {
       "id": 837,
