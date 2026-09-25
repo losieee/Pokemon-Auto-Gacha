@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 64,
-  "updatedAt": "2026-09-25T18:03:27.251Z",
+  "totalPulls": 65,
+  "updatedAt": "2026-09-25T21:28:48.610Z",
   "lastPull": {
-    "id": 811,
-    "name": "thwackey",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/811.png",
+    "id": 336,
+    "name": "seviper",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/336.png",
     "types": [
-      "grass"
+      "poison"
     ],
-    "totalStats": 420,
+    "totalStats": 458,
     "grade": "R",
-    "pulledAt": "2026-09-25T18:03:27.251Z"
+    "pulledAt": "2026-09-25T21:28:48.610Z"
   },
   "pulls": [
+    {
+      "id": 336,
+      "name": "seviper",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/336.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 458,
+      "grade": "R",
+      "pulledAt": "2026-09-25T21:28:48.610Z"
+    },
     {
       "id": 811,
       "name": "thwackey",
@@ -116,17 +127,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-09-24T08:29:21.478Z"
-    },
-    {
-      "id": 514,
-      "name": "simisear",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/514.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 498,
-      "grade": "R",
-      "pulledAt": "2026-09-24T03:15:20.116Z"
     }
   ],
   "pokemon": {
@@ -437,6 +437,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T01:02:17.927Z",
       "lastPulledAt": "2026-09-20T01:02:17.927Z"
+    },
+    "336": {
+      "id": 336,
+      "name": "seviper",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/336.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 458,
+      "grade": "R",
+      "pulledAt": "2026-09-25T21:28:48.610Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-25T21:28:48.610Z",
+      "lastPulledAt": "2026-09-25T21:28:48.610Z"
     },
     "337": {
       "id": 337,
