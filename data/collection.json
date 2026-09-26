@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 65,
-  "updatedAt": "2026-09-25T21:28:48.610Z",
+  "totalPulls": 66,
+  "updatedAt": "2026-09-26T00:00:09.873Z",
   "lastPull": {
-    "id": 336,
-    "name": "seviper",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/336.png",
+    "id": 993,
+    "name": "iron-jugulis",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/993.png",
     "types": [
-      "poison"
+      "dark",
+      "flying"
     ],
-    "totalStats": 458,
-    "grade": "R",
-    "pulledAt": "2026-09-25T21:28:48.610Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-09-26T00:00:09.873Z"
   },
   "pulls": [
+    {
+      "id": 993,
+      "name": "iron-jugulis",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/993.png",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-09-26T00:00:09.873Z"
+    },
     {
       "id": 336,
       "name": "seviper",
@@ -115,18 +128,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-09-24T13:42:18.000Z"
-    },
-    {
-      "id": 986,
-      "name": "brute-bonnet",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/986.png",
-      "types": [
-        "grass",
-        "dark"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-09-24T08:29:21.478Z"
     }
   ],
   "pokemon": {
@@ -1072,6 +1073,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T08:29:21.478Z",
       "lastPulledAt": "2026-09-24T08:29:21.478Z"
+    },
+    "993": {
+      "id": 993,
+      "name": "iron-jugulis",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/993.png",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-09-26T00:00:09.873Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-26T00:00:09.873Z",
+      "lastPulledAt": "2026-09-26T00:00:09.873Z"
     },
     "994": {
       "id": 994,
