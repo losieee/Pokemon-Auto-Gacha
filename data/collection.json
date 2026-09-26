@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 67,
-  "updatedAt": "2026-09-26T04:07:47.149Z",
+  "totalPulls": 68,
+  "updatedAt": "2026-09-26T09:18:44.377Z",
   "lastPull": {
-    "id": 476,
-    "name": "probopass",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/476.png",
+    "id": 412,
+    "name": "burmy",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/412.png",
     "types": [
-      "rock",
-      "steel"
+      "bug"
     ],
-    "totalStats": 525,
-    "grade": "SR",
-    "pulledAt": "2026-09-26T04:07:47.149Z"
+    "totalStats": 224,
+    "grade": "N",
+    "pulledAt": "2026-09-26T09:18:44.377Z"
   },
   "pulls": [
+    {
+      "id": 412,
+      "name": "burmy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/412.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 224,
+      "grade": "N",
+      "pulledAt": "2026-09-26T09:18:44.377Z"
+    },
     {
       "id": 476,
       "name": "probopass",
@@ -117,17 +127,6 @@
       "totalStats": 510,
       "grade": "SR",
       "pulledAt": "2026-09-24T21:06:55.815Z"
-    },
-    {
-      "id": 262,
-      "name": "mightyena",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/262.png",
-      "types": [
-        "dark"
-      ],
-      "totalStats": 420,
-      "grade": "R",
-      "pulledAt": "2026-09-24T17:58:03.715Z"
     }
   ],
   "pokemon": {
@@ -607,6 +606,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T21:52:37.284Z",
       "lastPulledAt": "2026-09-20T21:52:37.284Z"
+    },
+    "412": {
+      "id": 412,
+      "name": "burmy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/412.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 224,
+      "grade": "N",
+      "pulledAt": "2026-09-26T09:18:44.377Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-26T09:18:44.377Z",
+      "lastPulledAt": "2026-09-26T09:18:44.377Z"
     },
     "420": {
       "id": 420,
