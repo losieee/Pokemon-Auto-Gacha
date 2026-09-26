@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 71,
-  "updatedAt": "2026-09-26T19:59:55.567Z",
+  "totalPulls": 72,
+  "updatedAt": "2026-09-26T22:28:10.671Z",
   "lastPull": {
-    "id": 744,
-    "name": "rockruff",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/744.png",
+    "id": 605,
+    "name": "elgyem",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/605.png",
     "types": [
-      "rock"
+      "psychic"
     ],
-    "totalStats": 280,
+    "totalStats": 335,
     "grade": "N",
-    "pulledAt": "2026-09-26T19:59:55.567Z"
+    "pulledAt": "2026-09-26T22:28:10.671Z"
   },
   "pulls": [
+    {
+      "id": 605,
+      "name": "elgyem",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/605.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 335,
+      "grade": "N",
+      "pulledAt": "2026-09-26T22:28:10.671Z"
+    },
     {
       "id": 744,
       "name": "rockruff",
@@ -116,17 +127,6 @@
       "totalStats": 318,
       "grade": "N",
       "pulledAt": "2026-09-25T13:38:39.136Z"
-    },
-    {
-      "id": 656,
-      "name": "froakie",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/656.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 314,
-      "grade": "N",
-      "pulledAt": "2026-09-25T08:00:49.722Z"
     }
   ],
   "pokemon": {
@@ -839,6 +839,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T22:43:26.172Z",
       "lastPulledAt": "2026-09-21T22:43:26.172Z"
+    },
+    "605": {
+      "id": 605,
+      "name": "elgyem",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/605.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 335,
+      "grade": "N",
+      "pulledAt": "2026-09-26T22:28:10.671Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-26T22:28:10.671Z",
+      "lastPulledAt": "2026-09-26T22:28:10.671Z"
     },
     "637": {
       "id": 637,
