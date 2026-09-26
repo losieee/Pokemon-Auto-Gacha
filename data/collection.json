@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 66,
-  "updatedAt": "2026-09-26T00:00:09.873Z",
+  "totalPulls": 67,
+  "updatedAt": "2026-09-26T04:07:47.149Z",
   "lastPull": {
-    "id": 993,
-    "name": "iron-jugulis",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/993.png",
+    "id": 476,
+    "name": "probopass",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/476.png",
     "types": [
-      "dark",
-      "flying"
+      "rock",
+      "steel"
     ],
-    "totalStats": 570,
+    "totalStats": 525,
     "grade": "SR",
-    "pulledAt": "2026-09-26T00:00:09.873Z"
+    "pulledAt": "2026-09-26T04:07:47.149Z"
   },
   "pulls": [
+    {
+      "id": 476,
+      "name": "probopass",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/476.png",
+      "types": [
+        "rock",
+        "steel"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-09-26T04:07:47.149Z"
+    },
     {
       "id": 993,
       "name": "iron-jugulis",
@@ -116,18 +128,6 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-09-24T17:58:03.715Z"
-    },
-    {
-      "id": 850,
-      "name": "sizzlipede",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/850.png",
-      "types": [
-        "fire",
-        "bug"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-09-24T13:42:18.000Z"
     }
   ],
   "pokemon": {
@@ -654,6 +654,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T21:06:55.815Z",
       "lastPulledAt": "2026-09-24T21:06:55.815Z"
+    },
+    "476": {
+      "id": 476,
+      "name": "probopass",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/476.png",
+      "types": [
+        "rock",
+        "steel"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-09-26T04:07:47.149Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-26T04:07:47.149Z",
+      "lastPulledAt": "2026-09-26T04:07:47.149Z"
     },
     "483": {
       "id": 483,
