@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 75,
-  "updatedAt": "2026-09-27T10:58:48.434Z",
+  "totalPulls": 76,
+  "updatedAt": "2026-09-27T15:31:45.764Z",
   "lastPull": {
-    "id": 923,
-    "name": "pawmot",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/923.png",
+    "id": 293,
+    "name": "whismur",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/293.png",
     "types": [
-      "electric",
-      "fighting"
+      "normal"
     ],
-    "totalStats": 490,
-    "grade": "R",
-    "pulledAt": "2026-09-27T10:58:48.434Z"
+    "totalStats": 240,
+    "grade": "N",
+    "pulledAt": "2026-09-27T15:31:45.764Z"
   },
   "pulls": [
+    {
+      "id": 293,
+      "name": "whismur",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/293.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 240,
+      "grade": "N",
+      "pulledAt": "2026-09-27T15:31:45.764Z"
+    },
     {
       "id": 923,
       "name": "pawmot",
@@ -118,18 +128,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-09-26T04:07:47.149Z"
-    },
-    {
-      "id": 993,
-      "name": "iron-jugulis",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/993.png",
-      "types": [
-        "dark",
-        "flying"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-09-26T00:00:09.873Z"
     }
   ],
   "pokemon": {
@@ -363,6 +361,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T19:29:02.060Z",
       "lastPulledAt": "2026-09-21T19:29:02.060Z"
+    },
+    "293": {
+      "id": 293,
+      "name": "whismur",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/293.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 240,
+      "grade": "N",
+      "pulledAt": "2026-09-27T15:31:45.764Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-27T15:31:45.764Z",
+      "lastPulledAt": "2026-09-27T15:31:45.764Z"
     },
     "295": {
       "id": 295,
