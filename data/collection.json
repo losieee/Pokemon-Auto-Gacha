@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 72,
-  "updatedAt": "2026-09-26T22:28:10.671Z",
+  "totalPulls": 73,
+  "updatedAt": "2026-09-27T00:45:38.663Z",
   "lastPull": {
-    "id": 605,
-    "name": "elgyem",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/605.png",
+    "id": 1000,
+    "name": "gholdengo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1000.png",
     "types": [
-      "psychic"
+      "steel",
+      "ghost"
     ],
-    "totalStats": 335,
-    "grade": "N",
-    "pulledAt": "2026-09-26T22:28:10.671Z"
+    "totalStats": 550,
+    "grade": "SR",
+    "pulledAt": "2026-09-27T00:45:38.663Z"
   },
   "pulls": [
+    {
+      "id": 1000,
+      "name": "gholdengo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1000.png",
+      "types": [
+        "steel",
+        "ghost"
+      ],
+      "totalStats": 550,
+      "grade": "SR",
+      "pulledAt": "2026-09-27T00:45:38.663Z"
+    },
     {
       "id": 605,
       "name": "elgyem",
@@ -116,17 +129,6 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-09-25T18:03:27.251Z"
-    },
-    {
-      "id": 387,
-      "name": "turtwig",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/387.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 318,
-      "grade": "N",
-      "pulledAt": "2026-09-25T13:38:39.136Z"
     }
   ],
   "pokemon": {
@@ -1181,6 +1183,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T22:04:07.533Z",
       "lastPulledAt": "2026-09-16T22:04:07.533Z"
+    },
+    "1000": {
+      "id": 1000,
+      "name": "gholdengo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1000.png",
+      "types": [
+        "steel",
+        "ghost"
+      ],
+      "totalStats": 550,
+      "grade": "SR",
+      "pulledAt": "2026-09-27T00:45:38.663Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-27T00:45:38.663Z",
+      "lastPulledAt": "2026-09-27T00:45:38.663Z"
     },
     "1014": {
       "id": 1014,
