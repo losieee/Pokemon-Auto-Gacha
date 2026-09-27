@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 73,
-  "updatedAt": "2026-09-27T00:45:38.663Z",
+  "totalPulls": 74,
+  "updatedAt": "2026-09-27T05:50:45.233Z",
   "lastPull": {
-    "id": 1000,
-    "name": "gholdengo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1000.png",
+    "id": 653,
+    "name": "fennekin",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/653.png",
     "types": [
-      "steel",
-      "ghost"
+      "fire"
     ],
-    "totalStats": 550,
-    "grade": "SR",
-    "pulledAt": "2026-09-27T00:45:38.663Z"
+    "totalStats": 307,
+    "grade": "N",
+    "pulledAt": "2026-09-27T05:50:45.233Z"
   },
   "pulls": [
+    {
+      "id": 653,
+      "name": "fennekin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/653.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 307,
+      "grade": "N",
+      "pulledAt": "2026-09-27T05:50:45.233Z"
+    },
     {
       "id": 1000,
       "name": "gholdengo",
@@ -118,17 +128,6 @@
       "totalStats": 458,
       "grade": "R",
       "pulledAt": "2026-09-25T21:28:48.610Z"
-    },
-    {
-      "id": 811,
-      "name": "thwackey",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/811.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 420,
-      "grade": "R",
-      "pulledAt": "2026-09-25T18:03:27.251Z"
     }
   ],
   "pokemon": {
@@ -872,6 +871,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T23:14:55.743Z",
       "lastPulledAt": "2026-09-18T23:14:55.743Z"
+    },
+    "653": {
+      "id": 653,
+      "name": "fennekin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/653.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 307,
+      "grade": "N",
+      "pulledAt": "2026-09-27T05:50:45.233Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-27T05:50:45.233Z",
+      "lastPulledAt": "2026-09-27T05:50:45.233Z"
     },
     "656": {
       "id": 656,
