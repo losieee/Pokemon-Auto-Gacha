@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 78,
-  "updatedAt": "2026-09-27T22:12:56.207Z",
+  "totalPulls": 79,
+  "updatedAt": "2026-09-28T00:47:46.931Z",
   "lastPull": {
-    "id": 745,
-    "name": "lycanroc-midday",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/745.png",
+    "id": 429,
+    "name": "mismagius",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/429.png",
     "types": [
-      "rock"
+      "ghost"
     ],
-    "totalStats": 487,
+    "totalStats": 495,
     "grade": "R",
-    "pulledAt": "2026-09-27T22:12:56.207Z"
+    "pulledAt": "2026-09-28T00:47:46.931Z"
   },
   "pulls": [
+    {
+      "id": 429,
+      "name": "mismagius",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/429.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-09-28T00:47:46.931Z"
+    },
     {
       "id": 745,
       "name": "lycanroc-midday",
@@ -115,18 +126,6 @@
       "totalStats": 555,
       "grade": "SR",
       "pulledAt": "2026-09-26T17:23:38.105Z"
-    },
-    {
-      "id": 499,
-      "name": "pignite",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/499.png",
-      "types": [
-        "fire",
-        "fighting"
-      ],
-      "totalStats": 418,
-      "grade": "R",
-      "pulledAt": "2026-09-26T13:46:23.800Z"
     }
   ],
   "pokemon": {
@@ -666,6 +665,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T18:30:13.418Z",
       "lastPulledAt": "2026-09-17T18:30:13.418Z"
+    },
+    "429": {
+      "id": 429,
+      "name": "mismagius",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/429.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-09-28T00:47:46.931Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-28T00:47:46.931Z",
+      "lastPulledAt": "2026-09-28T00:47:46.931Z"
     },
     "443": {
       "id": 443,
