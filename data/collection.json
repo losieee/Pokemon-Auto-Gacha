@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 83,
-  "updatedAt": "2026-09-28T23:57:54.784Z",
+  "totalPulls": 84,
+  "updatedAt": "2026-09-29T04:03:28.807Z",
   "lastPull": {
-    "id": 669,
-    "name": "flabebe",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/669.png",
+    "id": 445,
+    "name": "garchomp",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/445.png",
     "types": [
-      "fairy"
+      "dragon",
+      "ground"
     ],
-    "totalStats": 303,
-    "grade": "N",
-    "pulledAt": "2026-09-28T23:57:54.784Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-09-29T04:03:28.807Z"
   },
   "pulls": [
+    {
+      "id": 445,
+      "name": "garchomp",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/445.png",
+      "types": [
+        "dragon",
+        "ground"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-29T04:03:28.807Z"
+    },
     {
       "id": 669,
       "name": "flabebe",
@@ -114,17 +127,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-09-27T10:58:48.434Z"
-    },
-    {
-      "id": 653,
-      "name": "fennekin",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/653.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 307,
-      "grade": "N",
-      "pulledAt": "2026-09-27T05:50:45.233Z"
     }
   ],
   "pokemon": {
@@ -710,6 +712,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T14:10:46.068Z",
       "lastPulledAt": "2026-09-21T14:10:46.068Z"
+    },
+    "445": {
+      "id": 445,
+      "name": "garchomp",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/445.png",
+      "types": [
+        "dragon",
+        "ground"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-29T04:03:28.807Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-29T04:03:28.807Z",
+      "lastPulledAt": "2026-09-29T04:03:28.807Z"
     },
     "463": {
       "id": 463,
