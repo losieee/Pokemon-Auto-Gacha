@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 87,
-  "updatedAt": "2026-09-29T21:00:23.332Z",
+  "totalPulls": 88,
+  "updatedAt": "2026-09-30T00:19:50.346Z",
   "lastPull": {
-    "id": 397,
-    "name": "staravia",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/397.png",
+    "id": 870,
+    "name": "falinks",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/870.png",
     "types": [
-      "normal",
-      "flying"
+      "fighting"
     ],
-    "totalStats": 340,
-    "grade": "N",
-    "pulledAt": "2026-09-29T21:00:23.332Z"
+    "totalStats": 470,
+    "grade": "R",
+    "pulledAt": "2026-09-30T00:19:50.346Z"
   },
   "pulls": [
+    {
+      "id": 870,
+      "name": "falinks",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/870.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-09-30T00:19:50.346Z"
+    },
     {
       "id": 397,
       "name": "staravia",
@@ -117,17 +127,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-09-28T00:47:46.931Z"
-    },
-    {
-      "id": 745,
-      "name": "lycanroc-midday",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/745.png",
-      "types": [
-        "rock"
-      ],
-      "totalStats": 487,
-      "grade": "R",
-      "pulledAt": "2026-09-27T22:12:56.207Z"
     }
   ],
   "pokemon": {
@@ -1272,6 +1271,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T05:54:48.903Z",
       "lastPulledAt": "2026-09-19T05:54:48.903Z"
+    },
+    "870": {
+      "id": 870,
+      "name": "falinks",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/870.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-09-30T00:19:50.346Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-30T00:19:50.346Z",
+      "lastPulledAt": "2026-09-30T00:19:50.346Z"
     },
     "901": {
       "id": 901,
