@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 91,
-  "updatedAt": "2026-09-30T16:53:06.260Z",
+  "totalPulls": 92,
+  "updatedAt": "2026-09-30T21:05:16.641Z",
   "lastPull": {
-    "id": 599,
-    "name": "klink",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/599.png",
+    "id": 195,
+    "name": "quagsire",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/195.png",
     "types": [
-      "steel"
+      "water",
+      "ground"
     ],
-    "totalStats": 300,
-    "grade": "N",
-    "pulledAt": "2026-09-30T16:53:06.260Z"
+    "totalStats": 430,
+    "grade": "R",
+    "pulledAt": "2026-09-30T21:05:16.641Z"
   },
   "pulls": [
+    {
+      "id": 195,
+      "name": "quagsire",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/195.png",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "totalStats": 430,
+      "grade": "R",
+      "pulledAt": "2026-09-30T21:05:16.641Z"
+    },
     {
       "id": 599,
       "name": "klink",
@@ -116,17 +129,6 @@
       "totalStats": 303,
       "grade": "N",
       "pulledAt": "2026-09-28T23:57:54.784Z"
-    },
-    {
-      "id": 463,
-      "name": "lickilicky",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/463.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 515,
-      "grade": "SR",
-      "pulledAt": "2026-09-28T19:45:49.434Z"
     }
   ],
   "pokemon": {
@@ -299,6 +301,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T21:41:27.486Z",
       "lastPulledAt": "2026-09-17T21:41:27.486Z"
+    },
+    "195": {
+      "id": 195,
+      "name": "quagsire",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/195.png",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "totalStats": 430,
+      "grade": "R",
+      "pulledAt": "2026-09-30T21:05:16.641Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-30T21:05:16.641Z",
+      "lastPulledAt": "2026-09-30T21:05:16.641Z"
     },
     "204": {
       "id": 204,
