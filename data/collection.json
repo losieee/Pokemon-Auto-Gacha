@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 88,
-  "updatedAt": "2026-09-30T00:19:50.346Z",
+  "totalPulls": 89,
+  "updatedAt": "2026-09-30T05:42:01.185Z",
   "lastPull": {
-    "id": 870,
-    "name": "falinks",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/870.png",
+    "id": 91,
+    "name": "cloyster",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/91.png",
     "types": [
-      "fighting"
+      "water",
+      "ice"
     ],
-    "totalStats": 470,
-    "grade": "R",
-    "pulledAt": "2026-09-30T00:19:50.346Z"
+    "totalStats": 525,
+    "grade": "SR",
+    "pulledAt": "2026-09-30T05:42:01.185Z"
   },
   "pulls": [
+    {
+      "id": 91,
+      "name": "cloyster",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/91.png",
+      "types": [
+        "water",
+        "ice"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-09-30T05:42:01.185Z"
+    },
     {
       "id": 870,
       "name": "falinks",
@@ -116,17 +129,6 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-09-28T05:56:03.293Z"
-    },
-    {
-      "id": 429,
-      "name": "mismagius",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/429.png",
-      "types": [
-        "ghost"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-09-28T00:47:46.931Z"
     }
   ],
   "pokemon": {
@@ -174,6 +176,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T02:20:20.379Z",
       "lastPulledAt": "2026-09-25T02:20:20.379Z"
+    },
+    "91": {
+      "id": 91,
+      "name": "cloyster",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/91.png",
+      "types": [
+        "water",
+        "ice"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-09-30T05:42:01.185Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-30T05:42:01.185Z",
+      "lastPulledAt": "2026-09-30T05:42:01.185Z"
     },
     "113": {
       "id": 113,
