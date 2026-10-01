@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 92,
-  "updatedAt": "2026-09-30T21:05:16.641Z",
+  "totalPulls": 93,
+  "updatedAt": "2026-10-01T00:30:04.594Z",
   "lastPull": {
-    "id": 195,
-    "name": "quagsire",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/195.png",
+    "id": 313,
+    "name": "volbeat",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/313.png",
     "types": [
-      "water",
-      "ground"
+      "bug"
     ],
     "totalStats": 430,
     "grade": "R",
-    "pulledAt": "2026-09-30T21:05:16.641Z"
+    "pulledAt": "2026-10-01T00:30:04.594Z"
   },
   "pulls": [
+    {
+      "id": 313,
+      "name": "volbeat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/313.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 430,
+      "grade": "R",
+      "pulledAt": "2026-10-01T00:30:04.594Z"
+    },
     {
       "id": 195,
       "name": "quagsire",
@@ -118,17 +128,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-09-29T04:03:28.807Z"
-    },
-    {
-      "id": 669,
-      "name": "flabebe",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/669.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 303,
-      "grade": "N",
-      "pulledAt": "2026-09-28T23:57:54.784Z"
     }
   ],
   "pokemon": {
@@ -500,6 +499,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T11:36:50.324Z",
       "lastPulledAt": "2026-09-16T11:36:50.324Z"
+    },
+    "313": {
+      "id": 313,
+      "name": "volbeat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/313.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 430,
+      "grade": "R",
+      "pulledAt": "2026-10-01T00:30:04.594Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-01T00:30:04.594Z",
+      "lastPulledAt": "2026-10-01T00:30:04.594Z"
     },
     "320": {
       "id": 320,
