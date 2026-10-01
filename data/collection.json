@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 95,
-  "updatedAt": "2026-10-01T13:36:10.530Z",
+  "totalPulls": 96,
+  "updatedAt": "2026-10-01T19:00:16.837Z",
   "lastPull": {
-    "id": 776,
-    "name": "turtonator",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/776.png",
+    "id": 509,
+    "name": "purrloin",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/509.png",
     "types": [
-      "fire",
-      "dragon"
+      "dark"
     ],
-    "totalStats": 485,
-    "grade": "R",
-    "pulledAt": "2026-10-01T13:36:10.530Z"
+    "totalStats": 281,
+    "grade": "N",
+    "pulledAt": "2026-10-01T19:00:16.837Z"
   },
   "pulls": [
+    {
+      "id": 509,
+      "name": "purrloin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/509.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 281,
+      "grade": "N",
+      "pulledAt": "2026-10-01T19:00:16.837Z"
+    },
     {
       "id": 776,
       "name": "turtonator",
@@ -118,18 +128,6 @@
       "totalStats": 340,
       "grade": "N",
       "pulledAt": "2026-09-29T21:00:23.332Z"
-    },
-    {
-      "id": 547,
-      "name": "whimsicott",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/547.png",
-      "types": [
-        "grass",
-        "fairy"
-      ],
-      "totalStats": 480,
-      "grade": "R",
-      "pulledAt": "2026-09-29T16:37:12.023Z"
     }
   ],
   "pokemon": {
@@ -903,6 +901,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T13:46:23.800Z",
       "lastPulledAt": "2026-09-26T13:46:23.800Z"
+    },
+    "509": {
+      "id": 509,
+      "name": "purrloin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/509.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 281,
+      "grade": "N",
+      "pulledAt": "2026-10-01T19:00:16.837Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-01T19:00:16.837Z",
+      "lastPulledAt": "2026-10-01T19:00:16.837Z"
     },
     "510": {
       "id": 510,
