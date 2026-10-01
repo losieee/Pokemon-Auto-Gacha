@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 94,
-  "updatedAt": "2026-10-01T06:23:05.889Z",
+  "totalPulls": 95,
+  "updatedAt": "2026-10-01T13:36:10.530Z",
   "lastPull": {
-    "id": 546,
-    "name": "cottonee",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/546.png",
+    "id": 776,
+    "name": "turtonator",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/776.png",
     "types": [
-      "grass",
-      "fairy"
+      "fire",
+      "dragon"
     ],
-    "totalStats": 280,
-    "grade": "N",
-    "pulledAt": "2026-10-01T06:23:05.889Z"
+    "totalStats": 485,
+    "grade": "R",
+    "pulledAt": "2026-10-01T13:36:10.530Z"
   },
   "pulls": [
+    {
+      "id": 776,
+      "name": "turtonator",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/776.png",
+      "types": [
+        "fire",
+        "dragon"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-10-01T13:36:10.530Z"
+    },
     {
       "id": 546,
       "name": "cottonee",
@@ -118,17 +130,6 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-09-29T16:37:12.023Z"
-    },
-    {
-      "id": 113,
-      "name": "chansey",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 450,
-      "grade": "R",
-      "pulledAt": "2026-09-29T10:36:28.730Z"
     }
   ],
   "pokemon": {
@@ -1225,6 +1226,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T06:05:38.138Z",
       "lastPulledAt": "2026-09-20T06:05:38.138Z"
+    },
+    "776": {
+      "id": 776,
+      "name": "turtonator",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/776.png",
+      "types": [
+        "fire",
+        "dragon"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-10-01T13:36:10.530Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-01T13:36:10.530Z",
+      "lastPulledAt": "2026-10-01T13:36:10.530Z"
     },
     "811": {
       "id": 811,
