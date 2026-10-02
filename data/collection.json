@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 97,
-  "updatedAt": "2026-10-01T23:05:34.797Z",
+  "totalPulls": 98,
+  "updatedAt": "2026-10-02T02:08:20.219Z",
   "lastPull": {
-    "id": 814,
-    "name": "raboot",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/814.png",
+    "id": 390,
+    "name": "chimchar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/390.png",
     "types": [
       "fire"
     ],
-    "totalStats": 420,
-    "grade": "R",
-    "pulledAt": "2026-10-01T23:05:34.797Z"
+    "totalStats": 309,
+    "grade": "N",
+    "pulledAt": "2026-10-02T02:08:20.219Z"
   },
   "pulls": [
+    {
+      "id": 390,
+      "name": "chimchar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/390.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 309,
+      "grade": "N",
+      "pulledAt": "2026-10-02T02:08:20.219Z"
+    },
     {
       "id": 814,
       "name": "raboot",
@@ -116,17 +127,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-09-30T05:42:01.185Z"
-    },
-    {
-      "id": 870,
-      "name": "falinks",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/870.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 470,
-      "grade": "R",
-      "pulledAt": "2026-09-30T00:19:50.346Z"
     }
   ],
   "pokemon": {
@@ -651,6 +651,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T13:38:39.136Z",
       "lastPulledAt": "2026-09-25T13:38:39.136Z"
+    },
+    "390": {
+      "id": 390,
+      "name": "chimchar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/390.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 309,
+      "grade": "N",
+      "pulledAt": "2026-10-02T02:08:20.219Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-02T02:08:20.219Z",
+      "lastPulledAt": "2026-10-02T02:08:20.219Z"
     },
     "394": {
       "id": 394,
