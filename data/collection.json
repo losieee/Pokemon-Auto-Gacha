@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 104,
-  "updatedAt": "2026-10-03T07:39:45.864Z",
+  "totalPulls": 105,
+  "updatedAt": "2026-10-03T12:43:06.168Z",
   "lastPull": {
-    "id": 115,
-    "name": "kangaskhan",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
+    "id": 430,
+    "name": "honchkrow",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/430.png",
     "types": [
-      "normal"
+      "dark",
+      "flying"
     ],
-    "totalStats": 490,
-    "grade": "R",
-    "pulledAt": "2026-10-03T07:39:45.864Z"
+    "totalStats": 505,
+    "grade": "SR",
+    "pulledAt": "2026-10-03T12:43:06.168Z"
   },
   "pulls": [
+    {
+      "id": 430,
+      "name": "honchkrow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/430.png",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-10-03T12:43:06.168Z"
+    },
     {
       "id": 115,
       "name": "kangaskhan",
@@ -114,18 +127,6 @@
       "totalStats": 281,
       "grade": "N",
       "pulledAt": "2026-10-01T19:00:16.837Z"
-    },
-    {
-      "id": 776,
-      "name": "turtonator",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/776.png",
-      "types": [
-        "fire",
-        "dragon"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-10-01T13:36:10.530Z"
     }
   ],
   "pokemon": {
@@ -849,6 +850,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-28T00:47:46.931Z",
       "lastPulledAt": "2026-09-28T00:47:46.931Z"
+    },
+    "430": {
+      "id": 430,
+      "name": "honchkrow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/430.png",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-10-03T12:43:06.168Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-03T12:43:06.168Z",
+      "lastPulledAt": "2026-10-03T12:43:06.168Z"
     },
     "443": {
       "id": 443,
