@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 103,
-  "updatedAt": "2026-10-03T01:59:05.099Z",
+  "totalPulls": 104,
+  "updatedAt": "2026-10-03T07:39:45.864Z",
   "lastPull": {
-    "id": 416,
-    "name": "vespiquen",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/416.png",
+    "id": 115,
+    "name": "kangaskhan",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
     "types": [
-      "bug",
-      "flying"
+      "normal"
     ],
-    "totalStats": 474,
+    "totalStats": 490,
     "grade": "R",
-    "pulledAt": "2026-10-03T01:59:05.099Z"
+    "pulledAt": "2026-10-03T07:39:45.864Z"
   },
   "pulls": [
+    {
+      "id": 115,
+      "name": "kangaskhan",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-10-03T07:39:45.864Z"
+    },
     {
       "id": 416,
       "name": "vespiquen",
@@ -116,18 +126,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-10-01T13:36:10.530Z"
-    },
-    {
-      "id": 546,
-      "name": "cottonee",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/546.png",
-      "types": [
-        "grass",
-        "fairy"
-      ],
-      "totalStats": 280,
-      "grade": "N",
-      "pulledAt": "2026-10-01T06:23:05.889Z"
     }
   ],
   "pokemon": {
@@ -221,6 +219,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T10:36:28.730Z",
       "lastPulledAt": "2026-09-29T10:36:28.730Z"
+    },
+    "115": {
+      "id": 115,
+      "name": "kangaskhan",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-10-03T07:39:45.864Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-03T07:39:45.864Z",
+      "lastPulledAt": "2026-10-03T07:39:45.864Z"
     },
     "121": {
       "id": 121,
