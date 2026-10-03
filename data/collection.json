@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 105,
-  "updatedAt": "2026-10-03T12:43:06.168Z",
+  "totalPulls": 106,
+  "updatedAt": "2026-10-03T16:45:46.354Z",
   "lastPull": {
-    "id": 430,
-    "name": "honchkrow",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/430.png",
+    "id": 687,
+    "name": "malamar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/687.png",
     "types": [
       "dark",
-      "flying"
+      "psychic"
     ],
-    "totalStats": 505,
-    "grade": "SR",
-    "pulledAt": "2026-10-03T12:43:06.168Z"
+    "totalStats": 482,
+    "grade": "R",
+    "pulledAt": "2026-10-03T16:45:46.354Z"
   },
   "pulls": [
+    {
+      "id": 687,
+      "name": "malamar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/687.png",
+      "types": [
+        "dark",
+        "psychic"
+      ],
+      "totalStats": 482,
+      "grade": "R",
+      "pulledAt": "2026-10-03T16:45:46.354Z"
+    },
     {
       "id": 430,
       "name": "honchkrow",
@@ -116,17 +128,6 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-10-01T23:05:34.797Z"
-    },
-    {
-      "id": 509,
-      "name": "purrloin",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/509.png",
-      "types": [
-        "dark"
-      ],
-      "totalStats": 281,
-      "grade": "N",
-      "pulledAt": "2026-10-01T19:00:16.837Z"
     }
   ],
   "pokemon": {
@@ -1285,6 +1286,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T14:33:59.866Z",
       "lastPulledAt": "2026-09-17T14:33:59.866Z"
+    },
+    "687": {
+      "id": 687,
+      "name": "malamar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/687.png",
+      "types": [
+        "dark",
+        "psychic"
+      ],
+      "totalStats": 482,
+      "grade": "R",
+      "pulledAt": "2026-10-03T16:45:46.354Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-03T16:45:46.354Z",
+      "lastPulledAt": "2026-10-03T16:45:46.354Z"
     },
     "705": {
       "id": 705,
