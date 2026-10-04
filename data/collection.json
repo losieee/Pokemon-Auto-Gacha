@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 112,
-  "updatedAt": "2026-10-04T16:58:35.811Z",
+  "totalPulls": 113,
+  "updatedAt": "2026-10-04T19:54:07.281Z",
   "lastPull": {
-    "id": 537,
-    "name": "seismitoad",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/537.png",
+    "id": 76,
+    "name": "golem",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png",
     "types": [
-      "water",
+      "rock",
       "ground"
     ],
-    "totalStats": 509,
-    "grade": "SR",
-    "pulledAt": "2026-10-04T16:58:35.811Z"
+    "totalStats": 495,
+    "grade": "R",
+    "pulledAt": "2026-10-04T19:54:07.281Z"
   },
   "pulls": [
+    {
+      "id": 76,
+      "name": "golem",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-10-04T19:54:07.281Z"
+    },
     {
       "id": 537,
       "name": "seismitoad",
@@ -119,18 +131,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-10-03T07:39:45.864Z"
-    },
-    {
-      "id": 416,
-      "name": "vespiquen",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/416.png",
-      "types": [
-        "bug",
-        "flying"
-      ],
-      "totalStats": 474,
-      "grade": "R",
-      "pulledAt": "2026-10-03T01:59:05.099Z"
     }
   ],
   "pokemon": {
@@ -208,6 +208,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T02:20:20.379Z",
       "lastPulledAt": "2026-09-25T02:20:20.379Z"
+    },
+    "76": {
+      "id": 76,
+      "name": "golem",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-10-04T19:54:07.281Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-04T19:54:07.281Z",
+      "lastPulledAt": "2026-10-04T19:54:07.281Z"
     },
     "91": {
       "id": 91,
