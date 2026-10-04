@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 110,
-  "updatedAt": "2026-10-04T06:22:41.913Z",
+  "totalPulls": 111,
+  "updatedAt": "2026-10-04T12:36:18.569Z",
   "lastPull": {
-    "id": 644,
-    "name": "zekrom",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/644.png",
+    "id": 932,
+    "name": "nacli",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/932.png",
     "types": [
-      "dragon",
-      "electric"
+      "rock"
     ],
-    "totalStats": 680,
-    "grade": "SSR",
-    "pulledAt": "2026-10-04T06:22:41.913Z"
+    "totalStats": 280,
+    "grade": "N",
+    "pulledAt": "2026-10-04T12:36:18.569Z"
   },
   "pulls": [
+    {
+      "id": 932,
+      "name": "nacli",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/932.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 280,
+      "grade": "N",
+      "pulledAt": "2026-10-04T12:36:18.569Z"
+    },
     {
       "id": 644,
       "name": "zekrom",
@@ -119,17 +129,6 @@
       "totalStats": 336,
       "grade": "N",
       "pulledAt": "2026-10-02T23:12:43.216Z"
-    },
-    {
-      "id": 510,
-      "name": "liepard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/510.png",
-      "types": [
-        "dark"
-      ],
-      "totalStats": 446,
-      "grade": "R",
-      "pulledAt": "2026-10-02T19:34:04.000Z"
     }
   ],
   "pokemon": {
@@ -1662,6 +1661,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T01:32:54.908Z",
       "lastPulledAt": "2026-09-18T01:32:54.908Z"
+    },
+    "932": {
+      "id": 932,
+      "name": "nacli",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/932.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 280,
+      "grade": "N",
+      "pulledAt": "2026-10-04T12:36:18.569Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-04T12:36:18.569Z",
+      "lastPulledAt": "2026-10-04T12:36:18.569Z"
     },
     "939": {
       "id": 939,
