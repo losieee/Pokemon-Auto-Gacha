@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 113,
-  "updatedAt": "2026-10-04T19:54:07.281Z",
+  "totalPulls": 114,
+  "updatedAt": "2026-10-04T22:35:47.478Z",
   "lastPull": {
-    "id": 76,
-    "name": "golem",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png",
+    "id": 712,
+    "name": "bergmite",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/712.png",
     "types": [
-      "rock",
-      "ground"
+      "ice"
     ],
-    "totalStats": 495,
-    "grade": "R",
-    "pulledAt": "2026-10-04T19:54:07.281Z"
+    "totalStats": 304,
+    "grade": "N",
+    "pulledAt": "2026-10-04T22:35:47.478Z"
   },
   "pulls": [
+    {
+      "id": 712,
+      "name": "bergmite",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/712.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 304,
+      "grade": "N",
+      "pulledAt": "2026-10-04T22:35:47.478Z"
+    },
     {
       "id": 76,
       "name": "golem",
@@ -120,17 +130,6 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-10-03T12:43:06.168Z"
-    },
-    {
-      "id": 115,
-      "name": "kangaskhan",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-10-03T07:39:45.864Z"
     }
   ],
   "pokemon": {
@@ -1399,6 +1398,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T15:43:31.799Z",
       "lastPulledAt": "2026-09-22T15:43:31.799Z"
+    },
+    "712": {
+      "id": 712,
+      "name": "bergmite",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/712.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 304,
+      "grade": "N",
+      "pulledAt": "2026-10-04T22:35:47.478Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-04T22:35:47.478Z",
+      "lastPulledAt": "2026-10-04T22:35:47.478Z"
     },
     "744": {
       "id": 744,
