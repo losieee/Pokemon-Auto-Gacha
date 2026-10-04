@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 109,
-  "updatedAt": "2026-10-04T00:41:48.179Z",
+  "totalPulls": 110,
+  "updatedAt": "2026-10-04T06:22:41.913Z",
   "lastPull": {
-    "id": 903,
-    "name": "sneasler",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/903.png",
+    "id": 644,
+    "name": "zekrom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/644.png",
     "types": [
-      "fighting",
-      "poison"
+      "dragon",
+      "electric"
     ],
-    "totalStats": 510,
-    "grade": "SR",
-    "pulledAt": "2026-10-04T00:41:48.179Z"
+    "totalStats": 680,
+    "grade": "SSR",
+    "pulledAt": "2026-10-04T06:22:41.913Z"
   },
   "pulls": [
+    {
+      "id": 644,
+      "name": "zekrom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/644.png",
+      "types": [
+        "dragon",
+        "electric"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-10-04T06:22:41.913Z"
+    },
     {
       "id": 903,
       "name": "sneasler",
@@ -118,17 +130,6 @@
       "totalStats": 446,
       "grade": "R",
       "pulledAt": "2026-10-02T19:34:04.000Z"
-    },
-    {
-      "id": 57,
-      "name": "primeape",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/57.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 455,
-      "grade": "R",
-      "pulledAt": "2026-10-02T14:49:37.999Z"
     }
   ],
   "pokemon": {
@@ -1242,6 +1243,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T23:14:55.743Z",
       "lastPulledAt": "2026-09-18T23:14:55.743Z"
+    },
+    "644": {
+      "id": 644,
+      "name": "zekrom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/644.png",
+      "types": [
+        "dragon",
+        "electric"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-10-04T06:22:41.913Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-04T06:22:41.913Z",
+      "lastPulledAt": "2026-10-04T06:22:41.913Z"
     },
     "653": {
       "id": 653,
