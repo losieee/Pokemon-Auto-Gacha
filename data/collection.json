@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 108,
-  "updatedAt": "2026-10-03T22:17:27.667Z",
+  "totalPulls": 109,
+  "updatedAt": "2026-10-04T00:41:48.179Z",
   "lastPull": {
-    "id": 251,
-    "name": "celebi",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/251.png",
+    "id": 903,
+    "name": "sneasler",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/903.png",
     "types": [
-      "psychic",
-      "grass"
+      "fighting",
+      "poison"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-10-03T22:17:27.667Z"
+    "totalStats": 510,
+    "grade": "SR",
+    "pulledAt": "2026-10-04T00:41:48.179Z"
   },
   "pulls": [
+    {
+      "id": 903,
+      "name": "sneasler",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/903.png",
+      "types": [
+        "fighting",
+        "poison"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-10-04T00:41:48.179Z"
+    },
     {
       "id": 251,
       "name": "celebi",
@@ -117,18 +129,6 @@
       "totalStats": 455,
       "grade": "R",
       "pulledAt": "2026-10-02T14:49:37.999Z"
-    },
-    {
-      "id": 536,
-      "name": "palpitoad",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/536.png",
-      "types": [
-        "water",
-        "ground"
-      ],
-      "totalStats": 384,
-      "grade": "N",
-      "pulledAt": "2026-10-02T08:25:19.674Z"
     }
   ],
   "pokemon": {
@@ -1598,6 +1598,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T01:42:20.349Z",
       "lastPulledAt": "2026-09-23T21:43:19.408Z"
+    },
+    "903": {
+      "id": 903,
+      "name": "sneasler",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/903.png",
+      "types": [
+        "fighting",
+        "poison"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-10-04T00:41:48.179Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-04T00:41:48.179Z",
+      "lastPulledAt": "2026-10-04T00:41:48.179Z"
     },
     "923": {
       "id": 923,
