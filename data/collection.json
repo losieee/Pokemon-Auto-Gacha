@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 117,
-  "updatedAt": "2026-10-05T15:53:50.106Z",
+  "totalPulls": 118,
+  "updatedAt": "2026-10-05T22:14:32.632Z",
   "lastPull": {
-    "id": 18,
-    "name": "pidgeot",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png",
+    "id": 142,
+    "name": "aerodactyl",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/142.png",
     "types": [
-      "normal",
+      "rock",
       "flying"
     ],
-    "totalStats": 479,
-    "grade": "R",
-    "pulledAt": "2026-10-05T15:53:50.106Z"
+    "totalStats": 515,
+    "grade": "SR",
+    "pulledAt": "2026-10-05T22:14:32.632Z"
   },
   "pulls": [
+    {
+      "id": 142,
+      "name": "aerodactyl",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/142.png",
+      "types": [
+        "rock",
+        "flying"
+      ],
+      "totalStats": 515,
+      "grade": "SR",
+      "pulledAt": "2026-10-05T22:14:32.632Z"
+    },
     {
       "id": 18,
       "name": "pidgeot",
@@ -118,18 +130,6 @@
       "totalStats": 510,
       "grade": "SR",
       "pulledAt": "2026-10-04T00:41:48.179Z"
-    },
-    {
-      "id": 251,
-      "name": "celebi",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/251.png",
-      "types": [
-        "psychic",
-        "grass"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-10-03T22:17:27.667Z"
     }
   ],
   "pokemon": {
@@ -317,6 +317,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T01:11:02.580Z",
       "lastPulledAt": "2026-09-19T01:11:02.580Z"
+    },
+    "142": {
+      "id": 142,
+      "name": "aerodactyl",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/142.png",
+      "types": [
+        "rock",
+        "flying"
+      ],
+      "totalStats": 515,
+      "grade": "SR",
+      "pulledAt": "2026-10-05T22:14:32.632Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-05T22:14:32.632Z",
+      "lastPulledAt": "2026-10-05T22:14:32.632Z"
     },
     "165": {
       "id": 165,
