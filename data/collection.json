@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 114,
-  "updatedAt": "2026-10-04T22:35:47.478Z",
+  "totalPulls": 115,
+  "updatedAt": "2026-10-05T01:13:28.193Z",
   "lastPull": {
-    "id": 712,
-    "name": "bergmite",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/712.png",
+    "id": 870,
+    "name": "falinks",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/870.png",
     "types": [
-      "ice"
+      "fighting"
     ],
-    "totalStats": 304,
-    "grade": "N",
-    "pulledAt": "2026-10-04T22:35:47.478Z"
+    "totalStats": 470,
+    "grade": "R",
+    "pulledAt": "2026-10-05T01:13:28.193Z"
   },
   "pulls": [
+    {
+      "id": 870,
+      "name": "falinks",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/870.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-10-05T01:13:28.193Z"
+    },
     {
       "id": 712,
       "name": "bergmite",
@@ -118,18 +129,6 @@
       "totalStats": 482,
       "grade": "R",
       "pulledAt": "2026-10-03T16:45:46.354Z"
-    },
-    {
-      "id": 430,
-      "name": "honchkrow",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/430.png",
-      "types": [
-        "dark",
-        "flying"
-      ],
-      "totalStats": 505,
-      "grade": "SR",
-      "pulledAt": "2026-10-03T12:43:06.168Z"
     }
   ],
   "pokemon": {
@@ -1642,10 +1641,10 @@
       "totalStats": 470,
       "grade": "R",
       "pulledAt": "2026-09-30T00:19:50.346Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-30T00:19:50.346Z",
-      "lastPulledAt": "2026-09-30T00:19:50.346Z"
+      "lastPulledAt": "2026-10-05T01:13:28.193Z"
     },
     "901": {
       "id": 901,
