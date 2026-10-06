@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 118,
-  "updatedAt": "2026-10-05T22:14:32.632Z",
+  "totalPulls": 119,
+  "updatedAt": "2026-10-06T02:18:49.897Z",
   "lastPull": {
-    "id": 142,
-    "name": "aerodactyl",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/142.png",
+    "id": 679,
+    "name": "honedge",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/679.png",
     "types": [
-      "rock",
-      "flying"
+      "steel",
+      "ghost"
     ],
-    "totalStats": 515,
-    "grade": "SR",
-    "pulledAt": "2026-10-05T22:14:32.632Z"
+    "totalStats": 325,
+    "grade": "N",
+    "pulledAt": "2026-10-06T02:18:49.897Z"
   },
   "pulls": [
+    {
+      "id": 679,
+      "name": "honedge",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/679.png",
+      "types": [
+        "steel",
+        "ghost"
+      ],
+      "totalStats": 325,
+      "grade": "N",
+      "pulledAt": "2026-10-06T02:18:49.897Z"
+    },
     {
       "id": 142,
       "name": "aerodactyl",
@@ -118,18 +130,6 @@
       "totalStats": 680,
       "grade": "SSR",
       "pulledAt": "2026-10-04T06:22:41.913Z"
-    },
-    {
-      "id": 903,
-      "name": "sneasler",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/903.png",
-      "types": [
-        "fighting",
-        "poison"
-      ],
-      "totalStats": 510,
-      "grade": "SR",
-      "pulledAt": "2026-10-04T00:41:48.179Z"
     }
   ],
   "pokemon": {
@@ -1384,6 +1384,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-28T12:26:18.102Z",
       "lastPulledAt": "2026-09-28T12:26:18.102Z"
+    },
+    "679": {
+      "id": 679,
+      "name": "honedge",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/679.png",
+      "types": [
+        "steel",
+        "ghost"
+      ],
+      "totalStats": 325,
+      "grade": "N",
+      "pulledAt": "2026-10-06T02:18:49.897Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-06T02:18:49.897Z",
+      "lastPulledAt": "2026-10-06T02:18:49.897Z"
     },
     "685": {
       "id": 685,
