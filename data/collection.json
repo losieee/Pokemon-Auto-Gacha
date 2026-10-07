@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 123,
-  "updatedAt": "2026-10-07T00:05:16.627Z",
+  "totalPulls": 124,
+  "updatedAt": "2026-10-07T05:45:45.858Z",
   "lastPull": {
-    "id": 13,
-    "name": "weedle",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png",
+    "id": 48,
+    "name": "venonat",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/48.png",
     "types": [
       "bug",
       "poison"
     ],
-    "totalStats": 195,
+    "totalStats": 305,
     "grade": "N",
-    "pulledAt": "2026-10-07T00:05:16.627Z"
+    "pulledAt": "2026-10-07T05:45:45.858Z"
   },
   "pulls": [
+    {
+      "id": 48,
+      "name": "venonat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/48.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-10-07T05:45:45.858Z"
+    },
     {
       "id": 13,
       "name": "weedle",
@@ -119,17 +131,6 @@
       "totalStats": 470,
       "grade": "R",
       "pulledAt": "2026-10-05T01:13:28.193Z"
-    },
-    {
-      "id": 712,
-      "name": "bergmite",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/712.png",
-      "types": [
-        "ice"
-      ],
-      "totalStats": 304,
-      "grade": "N",
-      "pulledAt": "2026-10-04T22:35:47.478Z"
     }
   ],
   "pokemon": {
@@ -194,6 +195,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T19:28:16.874Z",
       "lastPulledAt": "2026-10-03T19:28:16.874Z"
+    },
+    "48": {
+      "id": 48,
+      "name": "venonat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/48.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-10-07T05:45:45.858Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-07T05:45:45.858Z",
+      "lastPulledAt": "2026-10-07T05:45:45.858Z"
     },
     "57": {
       "id": 57,
