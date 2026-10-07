@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 124,
-  "updatedAt": "2026-10-07T05:45:45.858Z",
+  "totalPulls": 125,
+  "updatedAt": "2026-10-07T12:02:13.541Z",
   "lastPull": {
-    "id": 48,
-    "name": "venonat",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/48.png",
+    "id": 357,
+    "name": "tropius",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/357.png",
     "types": [
-      "bug",
-      "poison"
+      "grass",
+      "flying"
     ],
-    "totalStats": 305,
-    "grade": "N",
-    "pulledAt": "2026-10-07T05:45:45.858Z"
+    "totalStats": 460,
+    "grade": "R",
+    "pulledAt": "2026-10-07T12:02:13.541Z"
   },
   "pulls": [
+    {
+      "id": 357,
+      "name": "tropius",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/357.png",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-10-07T12:02:13.541Z"
+    },
     {
       "id": 48,
       "name": "venonat",
@@ -120,17 +132,6 @@
       "totalStats": 410,
       "grade": "R",
       "pulledAt": "2026-10-05T07:04:12.858Z"
-    },
-    {
-      "id": 870,
-      "name": "falinks",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/870.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 470,
-      "grade": "R",
-      "pulledAt": "2026-10-05T01:13:28.193Z"
     }
   ],
   "pokemon": {
@@ -751,6 +752,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T19:12:53.835Z",
       "lastPulledAt": "2026-09-22T19:12:53.835Z"
+    },
+    "357": {
+      "id": 357,
+      "name": "tropius",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/357.png",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-10-07T12:02:13.541Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-07T12:02:13.541Z",
+      "lastPulledAt": "2026-10-07T12:02:13.541Z"
     },
     "370": {
       "id": 370,
