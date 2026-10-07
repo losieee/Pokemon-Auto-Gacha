@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 126,
-  "updatedAt": "2026-10-07T18:51:02.124Z",
+  "totalPulls": 127,
+  "updatedAt": "2026-10-07T23:22:43.922Z",
   "lastPull": {
-    "id": 776,
-    "name": "turtonator",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/776.png",
+    "id": 134,
+    "name": "vaporeon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png",
     "types": [
-      "fire",
-      "dragon"
+      "water"
     ],
-    "totalStats": 485,
-    "grade": "R",
-    "pulledAt": "2026-10-07T18:51:02.124Z"
+    "totalStats": 525,
+    "grade": "SR",
+    "pulledAt": "2026-10-07T23:22:43.922Z"
   },
   "pulls": [
+    {
+      "id": 134,
+      "name": "vaporeon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-10-07T23:22:43.922Z"
+    },
     {
       "id": 776,
       "name": "turtonator",
@@ -121,18 +131,6 @@
       "totalStats": 515,
       "grade": "SR",
       "pulledAt": "2026-10-05T22:14:32.632Z"
-    },
-    {
-      "id": 18,
-      "name": "pidgeot",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 479,
-      "grade": "R",
-      "pulledAt": "2026-10-05T15:53:50.106Z"
     }
   ],
   "pokemon": {
@@ -352,6 +350,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T01:11:02.580Z",
       "lastPulledAt": "2026-09-19T01:11:02.580Z"
+    },
+    "134": {
+      "id": 134,
+      "name": "vaporeon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-10-07T23:22:43.922Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-07T23:22:43.922Z",
+      "lastPulledAt": "2026-10-07T23:22:43.922Z"
     },
     "142": {
       "id": 142,
