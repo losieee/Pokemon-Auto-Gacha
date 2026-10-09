@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 135,
-  "updatedAt": "2026-10-09T19:42:08.900Z",
+  "totalPulls": 136,
+  "updatedAt": "2026-10-09T23:32:30.837Z",
   "lastPull": {
-    "id": 123,
-    "name": "scyther",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+    "id": 669,
+    "name": "flabebe",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/669.png",
     "types": [
-      "bug",
-      "flying"
+      "fairy"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-10-09T19:42:08.900Z"
+    "totalStats": 303,
+    "grade": "N",
+    "pulledAt": "2026-10-09T23:32:30.837Z"
   },
   "pulls": [
+    {
+      "id": 669,
+      "name": "flabebe",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/669.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 303,
+      "grade": "N",
+      "pulledAt": "2026-10-09T23:32:30.837Z"
+    },
     {
       "id": 123,
       "name": "scyther",
@@ -117,18 +127,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-10-07T23:22:43.922Z"
-    },
-    {
-      "id": 776,
-      "name": "turtonator",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/776.png",
-      "types": [
-        "fire",
-        "dragon"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-10-07T18:51:02.124Z"
     }
   ],
   "pokemon": {
@@ -1489,10 +1487,10 @@
       "totalStats": 303,
       "grade": "N",
       "pulledAt": "2026-09-28T23:57:54.784Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-28T23:57:54.784Z",
-      "lastPulledAt": "2026-09-28T23:57:54.784Z"
+      "lastPulledAt": "2026-10-09T23:32:30.837Z"
     },
     "675": {
       "id": 675,
