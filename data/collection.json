@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 132,
-  "updatedAt": "2026-10-09T01:23:48.321Z",
+  "totalPulls": 133,
+  "updatedAt": "2026-10-09T07:34:16.215Z",
   "lastPull": {
-    "id": 204,
-    "name": "pineco",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/204.png",
+    "id": 956,
+    "name": "espathra",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/956.png",
     "types": [
-      "bug"
+      "psychic"
     ],
-    "totalStats": 290,
-    "grade": "N",
-    "pulledAt": "2026-10-09T01:23:48.321Z"
+    "totalStats": 481,
+    "grade": "R",
+    "pulledAt": "2026-10-09T07:34:16.215Z"
   },
   "pulls": [
+    {
+      "id": 956,
+      "name": "espathra",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/956.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 481,
+      "grade": "R",
+      "pulledAt": "2026-10-09T07:34:16.215Z"
+    },
     {
       "id": 204,
       "name": "pineco",
@@ -118,18 +129,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-10-07T05:45:45.858Z"
-    },
-    {
-      "id": 13,
-      "name": "weedle",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png",
-      "types": [
-        "bug",
-        "poison"
-      ],
-      "totalStats": 195,
-      "grade": "N",
-      "pulledAt": "2026-10-07T00:05:16.627Z"
     }
   ],
   "pokemon": {
@@ -1943,6 +1942,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T11:13:45.362Z",
       "lastPulledAt": "2026-09-20T11:13:45.362Z"
+    },
+    "956": {
+      "id": 956,
+      "name": "espathra",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/956.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 481,
+      "grade": "R",
+      "pulledAt": "2026-10-09T07:34:16.215Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-09T07:34:16.215Z",
+      "lastPulledAt": "2026-10-09T07:34:16.215Z"
     },
     "986": {
       "id": 986,
