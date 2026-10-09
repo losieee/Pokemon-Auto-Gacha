@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 134,
-  "updatedAt": "2026-10-09T14:36:56.092Z",
+  "totalPulls": 135,
+  "updatedAt": "2026-10-09T19:42:08.900Z",
   "lastPull": {
-    "id": 463,
-    "name": "lickilicky",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/463.png",
+    "id": 123,
+    "name": "scyther",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
     "types": [
-      "normal"
+      "bug",
+      "flying"
     ],
-    "totalStats": 515,
+    "totalStats": 500,
     "grade": "SR",
-    "pulledAt": "2026-10-09T14:36:56.092Z"
+    "pulledAt": "2026-10-09T19:42:08.900Z"
   },
   "pulls": [
+    {
+      "id": 123,
+      "name": "scyther",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-09T19:42:08.900Z"
+    },
     {
       "id": 463,
       "name": "lickilicky",
@@ -116,18 +129,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-10-07T18:51:02.124Z"
-    },
-    {
-      "id": 357,
-      "name": "tropius",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/357.png",
-      "types": [
-        "grass",
-        "flying"
-      ],
-      "totalStats": 460,
-      "grade": "R",
-      "pulledAt": "2026-10-07T12:02:13.541Z"
     }
   ],
   "pokemon": {
@@ -346,6 +347,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T15:31:17.015Z",
       "lastPulledAt": "2026-09-16T15:31:17.015Z"
+    },
+    "123": {
+      "id": 123,
+      "name": "scyther",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-09T19:42:08.900Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-09T19:42:08.900Z",
+      "lastPulledAt": "2026-10-09T19:42:08.900Z"
     },
     "131": {
       "id": 131,
