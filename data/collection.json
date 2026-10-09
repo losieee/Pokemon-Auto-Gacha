@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 133,
-  "updatedAt": "2026-10-09T07:34:16.215Z",
+  "totalPulls": 134,
+  "updatedAt": "2026-10-09T14:36:56.092Z",
   "lastPull": {
-    "id": 956,
-    "name": "espathra",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/956.png",
+    "id": 463,
+    "name": "lickilicky",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/463.png",
     "types": [
-      "psychic"
+      "normal"
     ],
-    "totalStats": 481,
-    "grade": "R",
-    "pulledAt": "2026-10-09T07:34:16.215Z"
+    "totalStats": 515,
+    "grade": "SR",
+    "pulledAt": "2026-10-09T14:36:56.092Z"
   },
   "pulls": [
+    {
+      "id": 463,
+      "name": "lickilicky",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/463.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 515,
+      "grade": "SR",
+      "pulledAt": "2026-10-09T14:36:56.092Z"
+    },
     {
       "id": 956,
       "name": "espathra",
@@ -117,18 +128,6 @@
       "totalStats": 460,
       "grade": "R",
       "pulledAt": "2026-10-07T12:02:13.541Z"
-    },
-    {
-      "id": 48,
-      "name": "venonat",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/48.png",
-      "types": [
-        "bug",
-        "poison"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-10-07T05:45:45.858Z"
     }
   ],
   "pokemon": {
@@ -1100,10 +1099,10 @@
       "totalStats": 515,
       "grade": "SR",
       "pulledAt": "2026-09-28T19:45:49.434Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-28T19:45:49.434Z",
-      "lastPulledAt": "2026-09-28T19:45:49.434Z"
+      "lastPulledAt": "2026-10-09T14:36:56.092Z"
     },
     "472": {
       "id": 472,
