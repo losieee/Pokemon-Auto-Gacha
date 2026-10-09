@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 131,
-  "updatedAt": "2026-10-08T21:37:19.595Z",
+  "totalPulls": 132,
+  "updatedAt": "2026-10-09T01:23:48.321Z",
   "lastPull": {
-    "id": 992,
-    "name": "iron-hands",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/992.png",
+    "id": 204,
+    "name": "pineco",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/204.png",
     "types": [
-      "fighting",
-      "electric"
+      "bug"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-10-08T21:37:19.595Z"
+    "totalStats": 290,
+    "grade": "N",
+    "pulledAt": "2026-10-09T01:23:48.321Z"
   },
   "pulls": [
+    {
+      "id": 204,
+      "name": "pineco",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/204.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-10-09T01:23:48.321Z"
+    },
     {
       "id": 992,
       "name": "iron-hands",
@@ -120,18 +130,6 @@
       "totalStats": 195,
       "grade": "N",
       "pulledAt": "2026-10-07T00:05:16.627Z"
-    },
-    {
-      "id": 840,
-      "name": "applin",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/840.png",
-      "types": [
-        "grass",
-        "dragon"
-      ],
-      "totalStats": 260,
-      "grade": "N",
-      "pulledAt": "2026-10-06T20:38:04.638Z"
     }
   ],
   "pokemon": {
@@ -517,10 +515,10 @@
       "totalStats": 290,
       "grade": "N",
       "pulledAt": "2026-09-27T19:14:01.294Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T19:14:01.294Z",
-      "lastPulledAt": "2026-09-27T19:14:01.294Z"
+      "lastPulledAt": "2026-10-09T01:23:48.321Z"
     },
     "206": {
       "id": 206,
