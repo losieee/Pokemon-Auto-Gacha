@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 136,
-  "updatedAt": "2026-10-09T23:32:30.837Z",
+  "totalPulls": 137,
+  "updatedAt": "2026-10-10T02:40:31.990Z",
   "lastPull": {
-    "id": 669,
-    "name": "flabebe",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/669.png",
+    "id": 136,
+    "name": "flareon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png",
     "types": [
-      "fairy"
+      "fire"
     ],
-    "totalStats": 303,
-    "grade": "N",
-    "pulledAt": "2026-10-09T23:32:30.837Z"
+    "totalStats": 525,
+    "grade": "SR",
+    "pulledAt": "2026-10-10T02:40:31.990Z"
   },
   "pulls": [
+    {
+      "id": 136,
+      "name": "flareon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-10-10T02:40:31.990Z"
+    },
     {
       "id": 669,
       "name": "flabebe",
@@ -116,17 +127,6 @@
       "totalStats": 590,
       "grade": "SR",
       "pulledAt": "2026-10-08T02:46:51.621Z"
-    },
-    {
-      "id": 134,
-      "name": "vaporeon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-10-07T23:22:43.922Z"
     }
   ],
   "pokemon": {
@@ -392,6 +392,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-07T23:22:43.922Z",
       "lastPulledAt": "2026-10-07T23:22:43.922Z"
+    },
+    "136": {
+      "id": 136,
+      "name": "flareon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-10-10T02:40:31.990Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-10T02:40:31.990Z",
+      "lastPulledAt": "2026-10-10T02:40:31.990Z"
     },
     "142": {
       "id": 142,
