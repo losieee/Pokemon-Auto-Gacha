@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 138,
-  "updatedAt": "2026-10-10T09:03:27.191Z",
+  "totalPulls": 139,
+  "updatedAt": "2026-10-10T15:15:16.365Z",
   "lastPull": {
-    "id": 342,
-    "name": "crawdaunt",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/342.png",
+    "id": 217,
+    "name": "ursaring",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/217.png",
     "types": [
-      "water",
-      "dark"
+      "normal"
     ],
-    "totalStats": 468,
-    "grade": "R",
-    "pulledAt": "2026-10-10T09:03:27.191Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-10-10T15:15:16.365Z"
   },
   "pulls": [
+    {
+      "id": 217,
+      "name": "ursaring",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/217.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-10T15:15:16.365Z"
+    },
     {
       "id": 342,
       "name": "crawdaunt",
@@ -116,18 +126,6 @@
       "totalStats": 448,
       "grade": "R",
       "pulledAt": "2026-10-08T16:52:34.221Z"
-    },
-    {
-      "id": 187,
-      "name": "hoppip",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/187.png",
-      "types": [
-        "grass",
-        "flying"
-      ],
-      "totalStats": 250,
-      "grade": "N",
-      "pulledAt": "2026-10-08T09:30:35.766Z"
     }
   ],
   "pokemon": {
@@ -563,6 +561,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T06:16:09.878Z",
       "lastPulledAt": "2026-09-22T06:16:09.878Z"
+    },
+    "217": {
+      "id": 217,
+      "name": "ursaring",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/217.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-10T15:15:16.365Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-10T15:15:16.365Z",
+      "lastPulledAt": "2026-10-10T15:15:16.365Z"
     },
     "224": {
       "id": 224,
