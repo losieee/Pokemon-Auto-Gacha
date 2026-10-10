@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 140,
-  "updatedAt": "2026-10-10T19:17:24.897Z",
+  "totalPulls": 141,
+  "updatedAt": "2026-10-10T22:37:19.450Z",
   "lastPull": {
-    "id": 468,
-    "name": "togekiss",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/468.png",
+    "id": 113,
+    "name": "chansey",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png",
     "types": [
-      "fairy",
-      "flying"
+      "normal"
     ],
-    "totalStats": 545,
-    "grade": "SR",
-    "pulledAt": "2026-10-10T19:17:24.897Z"
+    "totalStats": 450,
+    "grade": "R",
+    "pulledAt": "2026-10-10T22:37:19.450Z"
   },
   "pulls": [
+    {
+      "id": 113,
+      "name": "chansey",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-10-10T22:37:19.450Z"
+    },
     {
       "id": 468,
       "name": "togekiss",
@@ -116,18 +126,6 @@
       "totalStats": 290,
       "grade": "N",
       "pulledAt": "2026-10-09T01:23:48.321Z"
-    },
-    {
-      "id": 992,
-      "name": "iron-hands",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/992.png",
-      "types": [
-        "fighting",
-        "electric"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-10-08T21:37:19.595Z"
     }
   ],
   "pokemon": {
@@ -311,10 +309,10 @@
       "totalStats": 450,
       "grade": "R",
       "pulledAt": "2026-09-29T10:36:28.730Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T10:36:28.730Z",
-      "lastPulledAt": "2026-09-29T10:36:28.730Z"
+      "lastPulledAt": "2026-10-10T22:37:19.450Z"
     },
     "115": {
       "id": 115,
