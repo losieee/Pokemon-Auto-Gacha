@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 139,
-  "updatedAt": "2026-10-10T15:15:16.365Z",
+  "totalPulls": 140,
+  "updatedAt": "2026-10-10T19:17:24.897Z",
   "lastPull": {
-    "id": 217,
-    "name": "ursaring",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/217.png",
+    "id": 468,
+    "name": "togekiss",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/468.png",
     "types": [
-      "normal"
+      "fairy",
+      "flying"
     ],
-    "totalStats": 500,
+    "totalStats": 545,
     "grade": "SR",
-    "pulledAt": "2026-10-10T15:15:16.365Z"
+    "pulledAt": "2026-10-10T19:17:24.897Z"
   },
   "pulls": [
+    {
+      "id": 468,
+      "name": "togekiss",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/468.png",
+      "types": [
+        "fairy",
+        "flying"
+      ],
+      "totalStats": 545,
+      "grade": "SR",
+      "pulledAt": "2026-10-10T19:17:24.897Z"
+    },
     {
       "id": 217,
       "name": "ursaring",
@@ -115,17 +128,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-10-08T21:37:19.595Z"
-    },
-    {
-      "id": 24,
-      "name": "arbok",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/24.png",
-      "types": [
-        "poison"
-      ],
-      "totalStats": 448,
-      "grade": "R",
-      "pulledAt": "2026-10-08T16:52:34.221Z"
     }
   ],
   "pokemon": {
@@ -1163,6 +1165,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-28T19:45:49.434Z",
       "lastPulledAt": "2026-10-09T14:36:56.092Z"
+    },
+    "468": {
+      "id": 468,
+      "name": "togekiss",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/468.png",
+      "types": [
+        "fairy",
+        "flying"
+      ],
+      "totalStats": 545,
+      "grade": "SR",
+      "pulledAt": "2026-10-10T19:17:24.897Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-10T19:17:24.897Z",
+      "lastPulledAt": "2026-10-10T19:17:24.897Z"
     },
     "472": {
       "id": 472,
