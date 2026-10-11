@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 143,
-  "updatedAt": "2026-10-11T07:13:32.665Z",
+  "totalPulls": 144,
+  "updatedAt": "2026-10-11T14:03:53.915Z",
   "lastPull": {
-    "id": 500,
-    "name": "emboar",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/500.png",
+    "id": 444,
+    "name": "gabite",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/444.png",
     "types": [
-      "fire",
-      "fighting"
+      "dragon",
+      "ground"
     ],
-    "totalStats": 528,
-    "grade": "SR",
-    "pulledAt": "2026-10-11T07:13:32.665Z"
+    "totalStats": 410,
+    "grade": "R",
+    "pulledAt": "2026-10-11T14:03:53.915Z"
   },
   "pulls": [
+    {
+      "id": 444,
+      "name": "gabite",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/444.png",
+      "types": [
+        "dragon",
+        "ground"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-10-11T14:03:53.915Z"
+    },
     {
       "id": 500,
       "name": "emboar",
@@ -118,17 +130,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-10-09T19:42:08.900Z"
-    },
-    {
-      "id": 463,
-      "name": "lickilicky",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/463.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 515,
-      "grade": "SR",
-      "pulledAt": "2026-10-09T14:36:56.092Z"
     }
   ],
   "pokemon": {
@@ -1135,6 +1136,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T14:10:46.068Z",
       "lastPulledAt": "2026-09-21T14:10:46.068Z"
+    },
+    "444": {
+      "id": 444,
+      "name": "gabite",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/444.png",
+      "types": [
+        "dragon",
+        "ground"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-10-11T14:03:53.915Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-11T14:03:53.915Z",
+      "lastPulledAt": "2026-10-11T14:03:53.915Z"
     },
     "445": {
       "id": 445,
