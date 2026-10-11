@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 142,
-  "updatedAt": "2026-10-11T01:13:16.603Z",
+  "totalPulls": 143,
+  "updatedAt": "2026-10-11T07:13:32.665Z",
   "lastPull": {
-    "id": 688,
-    "name": "binacle",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/688.png",
+    "id": 500,
+    "name": "emboar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/500.png",
     "types": [
-      "rock",
-      "water"
+      "fire",
+      "fighting"
     ],
-    "totalStats": 306,
-    "grade": "N",
-    "pulledAt": "2026-10-11T01:13:16.603Z"
+    "totalStats": 528,
+    "grade": "SR",
+    "pulledAt": "2026-10-11T07:13:32.665Z"
   },
   "pulls": [
+    {
+      "id": 500,
+      "name": "emboar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/500.png",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "totalStats": 528,
+      "grade": "SR",
+      "pulledAt": "2026-10-11T07:13:32.665Z"
+    },
     {
       "id": 688,
       "name": "binacle",
@@ -117,17 +129,6 @@
       "totalStats": 515,
       "grade": "SR",
       "pulledAt": "2026-10-09T14:36:56.092Z"
-    },
-    {
-      "id": 956,
-      "name": "espathra",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/956.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 481,
-      "grade": "R",
-      "pulledAt": "2026-10-09T07:34:16.215Z"
     }
   ],
   "pokemon": {
@@ -1260,6 +1261,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T13:46:23.800Z",
       "lastPulledAt": "2026-09-26T13:46:23.800Z"
+    },
+    "500": {
+      "id": 500,
+      "name": "emboar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/500.png",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "totalStats": 528,
+      "grade": "SR",
+      "pulledAt": "2026-10-11T07:13:32.665Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-11T07:13:32.665Z",
+      "lastPulledAt": "2026-10-11T07:13:32.665Z"
     },
     "509": {
       "id": 509,
