@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 145,
-  "updatedAt": "2026-10-11T18:47:31.827Z",
+  "totalPulls": 146,
+  "updatedAt": "2026-10-11T22:30:15.572Z",
   "lastPull": {
-    "id": 219,
-    "name": "magcargo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/219.png",
+    "id": 259,
+    "name": "marshtomp",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/259.png",
     "types": [
-      "fire",
-      "rock"
+      "water",
+      "ground"
     ],
-    "totalStats": 430,
+    "totalStats": 405,
     "grade": "R",
-    "pulledAt": "2026-10-11T18:47:31.827Z"
+    "pulledAt": "2026-10-11T22:30:15.572Z"
   },
   "pulls": [
+    {
+      "id": 259,
+      "name": "marshtomp",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/259.png",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-10-11T22:30:15.572Z"
+    },
     {
       "id": 219,
       "name": "magcargo",
@@ -119,17 +131,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-10-10T02:40:31.990Z"
-    },
-    {
-      "id": 669,
-      "name": "flabebe",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/669.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 303,
-      "grade": "N",
-      "pulledAt": "2026-10-09T23:32:30.837Z"
     }
   ],
   "pokemon": {
@@ -690,6 +691,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T22:17:27.667Z",
       "lastPulledAt": "2026-10-03T22:17:27.667Z"
+    },
+    "259": {
+      "id": 259,
+      "name": "marshtomp",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/259.png",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-10-11T22:30:15.572Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-11T22:30:15.572Z",
+      "lastPulledAt": "2026-10-11T22:30:15.572Z"
     },
     "262": {
       "id": 262,
