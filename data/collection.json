@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 149,
-  "updatedAt": "2026-10-12T17:46:08.716Z",
+  "totalPulls": 150,
+  "updatedAt": "2026-10-12T23:46:32.612Z",
   "lastPull": {
-    "id": 371,
-    "name": "bagon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/371.png",
+    "id": 755,
+    "name": "morelull",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/755.png",
     "types": [
-      "dragon"
+      "grass",
+      "fairy"
     ],
-    "totalStats": 300,
+    "totalStats": 285,
     "grade": "N",
-    "pulledAt": "2026-10-12T17:46:08.716Z"
+    "pulledAt": "2026-10-12T23:46:32.612Z"
   },
   "pulls": [
+    {
+      "id": 755,
+      "name": "morelull",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/755.png",
+      "types": [
+        "grass",
+        "fairy"
+      ],
+      "totalStats": 285,
+      "grade": "N",
+      "pulledAt": "2026-10-12T23:46:32.612Z"
+    },
     {
       "id": 371,
       "name": "bagon",
@@ -118,18 +131,6 @@
       "totalStats": 450,
       "grade": "R",
       "pulledAt": "2026-10-10T22:37:19.450Z"
-    },
-    {
-      "id": 468,
-      "name": "togekiss",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/468.png",
-      "types": [
-        "fairy",
-        "flying"
-      ],
-      "totalStats": 545,
-      "grade": "SR",
-      "pulledAt": "2026-10-10T19:17:24.897Z"
     }
   ],
   "pokemon": {
@@ -1805,6 +1806,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T22:12:56.207Z",
       "lastPulledAt": "2026-09-27T22:12:56.207Z"
+    },
+    "755": {
+      "id": 755,
+      "name": "morelull",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/755.png",
+      "types": [
+        "grass",
+        "fairy"
+      ],
+      "totalStats": 285,
+      "grade": "N",
+      "pulledAt": "2026-10-12T23:46:32.612Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-12T23:46:32.612Z",
+      "lastPulledAt": "2026-10-12T23:46:32.612Z"
     },
     "774": {
       "id": 774,
