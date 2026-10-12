@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 147,
-  "updatedAt": "2026-10-12T01:41:50.166Z",
+  "totalPulls": 148,
+  "updatedAt": "2026-10-12T08:02:07.369Z",
   "lastPull": {
-    "id": 155,
-    "name": "cyndaquil",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/155.png",
+    "id": 723,
+    "name": "dartrix",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/723.png",
     "types": [
-      "fire"
+      "grass",
+      "flying"
     ],
-    "totalStats": 309,
-    "grade": "N",
-    "pulledAt": "2026-10-12T01:41:50.166Z"
+    "totalStats": 420,
+    "grade": "R",
+    "pulledAt": "2026-10-12T08:02:07.369Z"
   },
   "pulls": [
+    {
+      "id": 723,
+      "name": "dartrix",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/723.png",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-10-12T08:02:07.369Z"
+    },
     {
       "id": 155,
       "name": "cyndaquil",
@@ -118,18 +131,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-10-10T15:15:16.365Z"
-    },
-    {
-      "id": 342,
-      "name": "crawdaunt",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/342.png",
-      "types": [
-        "water",
-        "dark"
-      ],
-      "totalStats": 468,
-      "grade": "R",
-      "pulledAt": "2026-10-10T09:03:27.191Z"
     }
   ],
   "pokemon": {
@@ -1744,6 +1745,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T22:35:47.478Z",
       "lastPulledAt": "2026-10-04T22:35:47.478Z"
+    },
+    "723": {
+      "id": 723,
+      "name": "dartrix",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/723.png",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-10-12T08:02:07.369Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-12T08:02:07.369Z",
+      "lastPulledAt": "2026-10-12T08:02:07.369Z"
     },
     "744": {
       "id": 744,
