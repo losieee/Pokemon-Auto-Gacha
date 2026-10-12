@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 148,
-  "updatedAt": "2026-10-12T08:02:07.369Z",
+  "totalPulls": 149,
+  "updatedAt": "2026-10-12T17:46:08.716Z",
   "lastPull": {
-    "id": 723,
-    "name": "dartrix",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/723.png",
+    "id": 371,
+    "name": "bagon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/371.png",
     "types": [
-      "grass",
-      "flying"
+      "dragon"
     ],
-    "totalStats": 420,
-    "grade": "R",
-    "pulledAt": "2026-10-12T08:02:07.369Z"
+    "totalStats": 300,
+    "grade": "N",
+    "pulledAt": "2026-10-12T17:46:08.716Z"
   },
   "pulls": [
+    {
+      "id": 371,
+      "name": "bagon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/371.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-10-12T17:46:08.716Z"
+    },
     {
       "id": 723,
       "name": "dartrix",
@@ -120,17 +130,6 @@
       "totalStats": 545,
       "grade": "SR",
       "pulledAt": "2026-10-10T19:17:24.897Z"
-    },
-    {
-      "id": 217,
-      "name": "ursaring",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/217.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-10-10T15:15:16.365Z"
     }
   ],
   "pokemon": {
@@ -937,6 +936,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T09:56:25.442Z",
       "lastPulledAt": "2026-09-17T09:56:25.442Z"
+    },
+    "371": {
+      "id": 371,
+      "name": "bagon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/371.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-10-12T17:46:08.716Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-12T17:46:08.716Z",
+      "lastPulledAt": "2026-10-12T17:46:08.716Z"
     },
     "376": {
       "id": 376,
