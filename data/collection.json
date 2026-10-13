@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 151,
-  "updatedAt": "2026-10-13T03:54:35.705Z",
+  "totalPulls": 152,
+  "updatedAt": "2026-10-13T11:15:28.927Z",
   "lastPull": {
-    "id": 892,
-    "name": "urshifu-single-strike",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/892.png",
+    "id": 882,
+    "name": "dracovish",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/882.png",
     "types": [
-      "fighting",
-      "dark"
+      "water",
+      "dragon"
     ],
-    "totalStats": 550,
+    "totalStats": 505,
     "grade": "SR",
-    "pulledAt": "2026-10-13T03:54:35.705Z"
+    "pulledAt": "2026-10-13T11:15:28.927Z"
   },
   "pulls": [
+    {
+      "id": 882,
+      "name": "dracovish",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/882.png",
+      "types": [
+        "water",
+        "dragon"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-10-13T11:15:28.927Z"
+    },
     {
       "id": 892,
       "name": "urshifu-single-strike",
@@ -120,18 +132,6 @@
       "totalStats": 528,
       "grade": "SR",
       "pulledAt": "2026-10-11T07:13:32.665Z"
-    },
-    {
-      "id": 688,
-      "name": "binacle",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/688.png",
-      "types": [
-        "rock",
-        "water"
-      ],
-      "totalStats": 306,
-      "grade": "N",
-      "pulledAt": "2026-10-11T01:13:16.603Z"
     }
   ],
   "pokemon": {
@@ -2042,6 +2042,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-30T00:19:50.346Z",
       "lastPulledAt": "2026-10-05T01:13:28.193Z"
+    },
+    "882": {
+      "id": 882,
+      "name": "dracovish",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/882.png",
+      "types": [
+        "water",
+        "dragon"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-10-13T11:15:28.927Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-13T11:15:28.927Z",
+      "lastPulledAt": "2026-10-13T11:15:28.927Z"
     },
     "892": {
       "id": 892,
