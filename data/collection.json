@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 152,
-  "updatedAt": "2026-10-13T11:15:28.927Z",
+  "totalPulls": 153,
+  "updatedAt": "2026-10-13T18:19:41.193Z",
   "lastPull": {
-    "id": 882,
-    "name": "dracovish",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/882.png",
+    "id": 468,
+    "name": "togekiss",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/468.png",
     "types": [
-      "water",
-      "dragon"
+      "fairy",
+      "flying"
     ],
-    "totalStats": 505,
+    "totalStats": 545,
     "grade": "SR",
-    "pulledAt": "2026-10-13T11:15:28.927Z"
+    "pulledAt": "2026-10-13T18:19:41.193Z"
   },
   "pulls": [
+    {
+      "id": 468,
+      "name": "togekiss",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/468.png",
+      "types": [
+        "fairy",
+        "flying"
+      ],
+      "totalStats": 545,
+      "grade": "SR",
+      "pulledAt": "2026-10-13T18:19:41.193Z"
+    },
     {
       "id": 882,
       "name": "dracovish",
@@ -120,18 +132,6 @@
       "totalStats": 410,
       "grade": "R",
       "pulledAt": "2026-10-11T14:03:53.915Z"
-    },
-    {
-      "id": 500,
-      "name": "emboar",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/500.png",
-      "types": [
-        "fire",
-        "fighting"
-      ],
-      "totalStats": 528,
-      "grade": "SR",
-      "pulledAt": "2026-10-11T07:13:32.665Z"
     }
   ],
   "pokemon": {
@@ -1259,10 +1259,10 @@
       "totalStats": 545,
       "grade": "SR",
       "pulledAt": "2026-10-10T19:17:24.897Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-10T19:17:24.897Z",
-      "lastPulledAt": "2026-10-10T19:17:24.897Z"
+      "lastPulledAt": "2026-10-13T18:19:41.193Z"
     },
     "472": {
       "id": 472,
