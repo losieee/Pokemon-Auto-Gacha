@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 155,
-  "updatedAt": "2026-10-14T01:28:04.575Z",
+  "totalPulls": 156,
+  "updatedAt": "2026-10-14T06:27:31.505Z",
   "lastPull": {
-    "id": 977,
-    "name": "dondozo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/977.png",
+    "id": 695,
+    "name": "heliolisk",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/695.png",
     "types": [
-      "water"
+      "electric",
+      "normal"
     ],
-    "totalStats": 530,
-    "grade": "SR",
-    "pulledAt": "2026-10-14T01:28:04.575Z"
+    "totalStats": 481,
+    "grade": "R",
+    "pulledAt": "2026-10-14T06:27:31.505Z"
   },
   "pulls": [
+    {
+      "id": 695,
+      "name": "heliolisk",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/695.png",
+      "types": [
+        "electric",
+        "normal"
+      ],
+      "totalStats": 481,
+      "grade": "R",
+      "pulledAt": "2026-10-14T06:27:31.505Z"
+    },
     {
       "id": 977,
       "name": "dondozo",
@@ -117,18 +130,6 @@
       "totalStats": 309,
       "grade": "N",
       "pulledAt": "2026-10-12T01:41:50.166Z"
-    },
-    {
-      "id": 259,
-      "name": "marshtomp",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/259.png",
-      "types": [
-        "water",
-        "ground"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-10-11T22:30:15.572Z"
     }
   ],
   "pokemon": {
@@ -1728,6 +1729,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-11T01:13:16.603Z",
       "lastPulledAt": "2026-10-11T01:13:16.603Z"
+    },
+    "695": {
+      "id": 695,
+      "name": "heliolisk",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/695.png",
+      "types": [
+        "electric",
+        "normal"
+      ],
+      "totalStats": 481,
+      "grade": "R",
+      "pulledAt": "2026-10-14T06:27:31.505Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-14T06:27:31.505Z",
+      "lastPulledAt": "2026-10-14T06:27:31.505Z"
     },
     "705": {
       "id": 705,
