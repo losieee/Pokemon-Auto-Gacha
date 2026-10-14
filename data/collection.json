@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 157,
-  "updatedAt": "2026-10-14T12:13:00.901Z",
+  "totalPulls": 158,
+  "updatedAt": "2026-10-14T17:12:02.170Z",
   "lastPull": {
-    "id": 597,
-    "name": "ferroseed",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/597.png",
+    "id": 545,
+    "name": "scolipede",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/545.png",
     "types": [
-      "grass",
-      "steel"
+      "bug",
+      "poison"
     ],
-    "totalStats": 305,
-    "grade": "N",
-    "pulledAt": "2026-10-14T12:13:00.901Z"
+    "totalStats": 485,
+    "grade": "R",
+    "pulledAt": "2026-10-14T17:12:02.170Z"
   },
   "pulls": [
+    {
+      "id": 545,
+      "name": "scolipede",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/545.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-10-14T17:12:02.170Z"
+    },
     {
       "id": 597,
       "name": "ferroseed",
@@ -119,18 +131,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-10-12T17:46:08.716Z"
-    },
-    {
-      "id": 723,
-      "name": "dartrix",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/723.png",
-      "types": [
-        "grass",
-        "flying"
-      ],
-      "totalStats": 420,
-      "grade": "R",
-      "pulledAt": "2026-10-12T08:02:07.369Z"
     }
   ],
   "pokemon": {
@@ -1450,6 +1450,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T00:21:04.178Z",
       "lastPulledAt": "2026-09-17T00:21:04.178Z"
+    },
+    "545": {
+      "id": 545,
+      "name": "scolipede",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/545.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-10-14T17:12:02.170Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-14T17:12:02.170Z",
+      "lastPulledAt": "2026-10-14T17:12:02.170Z"
     },
     "546": {
       "id": 546,
