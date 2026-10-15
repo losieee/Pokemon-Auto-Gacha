@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 165,
-  "updatedAt": "2026-10-15T19:24:35.248Z",
+  "totalPulls": 166,
+  "updatedAt": "2026-10-15T22:31:36.501Z",
   "lastPull": {
-    "id": 350,
-    "name": "milotic",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/350.png",
+    "id": 926,
+    "name": "fidough",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/926.png",
     "types": [
-      "water"
+      "fairy"
     ],
-    "totalStats": 540,
-    "grade": "SR",
-    "pulledAt": "2026-10-15T19:24:35.248Z"
+    "totalStats": 312,
+    "grade": "N",
+    "pulledAt": "2026-10-15T22:31:36.501Z"
   },
   "pulls": [
+    {
+      "id": 926,
+      "name": "fidough",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/926.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 312,
+      "grade": "N",
+      "pulledAt": "2026-10-15T22:31:36.501Z"
+    },
     {
       "id": 350,
       "name": "milotic",
@@ -117,18 +128,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-10-14T12:13:00.901Z"
-    },
-    {
-      "id": 695,
-      "name": "heliolisk",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/695.png",
-      "types": [
-        "electric",
-        "normal"
-      ],
-      "totalStats": 481,
-      "grade": "R",
-      "pulledAt": "2026-10-14T06:27:31.505Z"
     }
   ],
   "pokemon": {
@@ -2274,6 +2273,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T10:58:48.434Z",
       "lastPulledAt": "2026-09-27T10:58:48.434Z"
+    },
+    "926": {
+      "id": 926,
+      "name": "fidough",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/926.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 312,
+      "grade": "N",
+      "pulledAt": "2026-10-15T22:31:36.501Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-15T22:31:36.501Z",
+      "lastPulledAt": "2026-10-15T22:31:36.501Z"
     },
     "927": {
       "id": 927,
