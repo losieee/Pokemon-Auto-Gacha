@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 160,
-  "updatedAt": "2026-10-14T23:27:38.895Z",
+  "totalPulls": 161,
+  "updatedAt": "2026-10-15T01:38:03.403Z",
   "lastPull": {
-    "id": 442,
-    "name": "spiritomb",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/442.png",
+    "id": 206,
+    "name": "dunsparce",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/206.png",
     "types": [
-      "ghost",
-      "dark"
+      "normal"
     ],
-    "totalStats": 485,
+    "totalStats": 415,
     "grade": "R",
-    "pulledAt": "2026-10-14T23:27:38.895Z"
+    "pulledAt": "2026-10-15T01:38:03.403Z"
   },
   "pulls": [
+    {
+      "id": 206,
+      "name": "dunsparce",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/206.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 415,
+      "grade": "R",
+      "pulledAt": "2026-10-15T01:38:03.403Z"
+    },
     {
       "id": 442,
       "name": "spiritomb",
@@ -119,18 +129,6 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-10-13T11:15:28.927Z"
-    },
-    {
-      "id": 892,
-      "name": "urshifu-single-strike",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/892.png",
-      "types": [
-        "fighting",
-        "dark"
-      ],
-      "totalStats": 550,
-      "grade": "SR",
-      "pulledAt": "2026-10-13T03:54:35.705Z"
     }
   ],
   "pokemon": {
@@ -577,10 +575,10 @@
       "totalStats": 415,
       "grade": "R",
       "pulledAt": "2026-09-22T06:16:09.878Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T06:16:09.878Z",
-      "lastPulledAt": "2026-09-22T06:16:09.878Z"
+      "lastPulledAt": "2026-10-15T01:38:03.403Z"
     },
     "217": {
       "id": 217,
