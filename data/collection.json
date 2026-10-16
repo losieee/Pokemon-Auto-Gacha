@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 166,
-  "updatedAt": "2026-10-15T22:31:36.501Z",
+  "totalPulls": 167,
+  "updatedAt": "2026-10-16T00:41:01.322Z",
   "lastPull": {
-    "id": 926,
-    "name": "fidough",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/926.png",
+    "id": 565,
+    "name": "carracosta",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/565.png",
     "types": [
-      "fairy"
+      "water",
+      "rock"
     ],
-    "totalStats": 312,
-    "grade": "N",
-    "pulledAt": "2026-10-15T22:31:36.501Z"
+    "totalStats": 495,
+    "grade": "R",
+    "pulledAt": "2026-10-16T00:41:01.322Z"
   },
   "pulls": [
+    {
+      "id": 565,
+      "name": "carracosta",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/565.png",
+      "types": [
+        "water",
+        "rock"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-10-16T00:41:01.322Z"
+    },
     {
       "id": 926,
       "name": "fidough",
@@ -116,18 +129,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-10-14T17:12:02.170Z"
-    },
-    {
-      "id": 597,
-      "name": "ferroseed",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/597.png",
-      "types": [
-        "grass",
-        "steel"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-10-14T12:13:00.901Z"
     }
   ],
   "pokemon": {
@@ -1572,6 +1573,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T07:12:52.781Z",
       "lastPulledAt": "2026-09-21T07:12:52.781Z"
+    },
+    "565": {
+      "id": 565,
+      "name": "carracosta",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/565.png",
+      "types": [
+        "water",
+        "rock"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-10-16T00:41:01.322Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-16T00:41:01.322Z",
+      "lastPulledAt": "2026-10-16T00:41:01.322Z"
     },
     "575": {
       "id": 575,
