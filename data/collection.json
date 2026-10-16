@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 171,
-  "updatedAt": "2026-10-16T18:07:21.610Z",
+  "totalPulls": 172,
+  "updatedAt": "2026-10-16T20:59:42.840Z",
   "lastPull": {
-    "id": 316,
-    "name": "gulpin",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/316.png",
+    "id": 581,
+    "name": "swanna",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/581.png",
     "types": [
-      "poison"
+      "water",
+      "flying"
     ],
-    "totalStats": 302,
-    "grade": "N",
-    "pulledAt": "2026-10-16T18:07:21.610Z"
+    "totalStats": 473,
+    "grade": "R",
+    "pulledAt": "2026-10-16T20:59:42.840Z"
   },
   "pulls": [
+    {
+      "id": 581,
+      "name": "swanna",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/581.png",
+      "types": [
+        "water",
+        "flying"
+      ],
+      "totalStats": 473,
+      "grade": "R",
+      "pulledAt": "2026-10-16T20:59:42.840Z"
+    },
     {
       "id": 316,
       "name": "gulpin",
@@ -115,17 +128,6 @@
       "totalStats": 428,
       "grade": "R",
       "pulledAt": "2026-10-15T11:47:37.654Z"
-    },
-    {
-      "id": 106,
-      "name": "hitmonlee",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/106.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 455,
-      "grade": "R",
-      "pulledAt": "2026-10-15T06:23:20.259Z"
     }
   ],
   "pokemon": {
@@ -1661,6 +1663,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T22:10:25.489Z",
       "lastPulledAt": "2026-09-22T22:10:25.489Z"
+    },
+    "581": {
+      "id": 581,
+      "name": "swanna",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/581.png",
+      "types": [
+        "water",
+        "flying"
+      ],
+      "totalStats": 473,
+      "grade": "R",
+      "pulledAt": "2026-10-16T20:59:42.840Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-16T20:59:42.840Z",
+      "lastPulledAt": "2026-10-16T20:59:42.840Z"
     },
     "587": {
       "id": 587,
