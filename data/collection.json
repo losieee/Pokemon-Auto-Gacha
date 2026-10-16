@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 167,
-  "updatedAt": "2026-10-16T00:41:01.322Z",
+  "totalPulls": 168,
+  "updatedAt": "2026-10-16T05:05:22.344Z",
   "lastPull": {
-    "id": 565,
-    "name": "carracosta",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/565.png",
+    "id": 493,
+    "name": "arceus",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png",
     "types": [
-      "water",
-      "rock"
+      "normal"
     ],
-    "totalStats": 495,
-    "grade": "R",
-    "pulledAt": "2026-10-16T00:41:01.322Z"
+    "totalStats": 720,
+    "grade": "SSR",
+    "pulledAt": "2026-10-16T05:05:22.344Z"
   },
   "pulls": [
+    {
+      "id": 493,
+      "name": "arceus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 720,
+      "grade": "SSR",
+      "pulledAt": "2026-10-16T05:05:22.344Z"
+    },
     {
       "id": 565,
       "name": "carracosta",
@@ -117,18 +127,6 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-10-14T20:42:27.673Z"
-    },
-    {
-      "id": 545,
-      "name": "scolipede",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/545.png",
-      "types": [
-        "bug",
-        "poison"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-10-14T17:12:02.170Z"
     }
   ],
   "pokemon": {
@@ -1369,6 +1367,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-14T20:42:27.673Z",
       "lastPulledAt": "2026-10-14T20:42:27.673Z"
+    },
+    "493": {
+      "id": 493,
+      "name": "arceus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 720,
+      "grade": "SSR",
+      "pulledAt": "2026-10-16T05:05:22.344Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-16T05:05:22.344Z",
+      "lastPulledAt": "2026-10-16T05:05:22.344Z"
     },
     "495": {
       "id": 495,
