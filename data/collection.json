@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 170,
-  "updatedAt": "2026-10-16T14:17:31.373Z",
+  "totalPulls": 171,
+  "updatedAt": "2026-10-16T18:07:21.610Z",
   "lastPull": {
-    "id": 568,
-    "name": "trubbish",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/568.png",
+    "id": 316,
+    "name": "gulpin",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/316.png",
     "types": [
       "poison"
     ],
-    "totalStats": 329,
+    "totalStats": 302,
     "grade": "N",
-    "pulledAt": "2026-10-16T14:17:31.373Z"
+    "pulledAt": "2026-10-16T18:07:21.610Z"
   },
   "pulls": [
+    {
+      "id": 316,
+      "name": "gulpin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/316.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 302,
+      "grade": "N",
+      "pulledAt": "2026-10-16T18:07:21.610Z"
+    },
     {
       "id": 568,
       "name": "trubbish",
@@ -115,17 +126,6 @@
       "totalStats": 455,
       "grade": "R",
       "pulledAt": "2026-10-15T06:23:20.259Z"
-    },
-    {
-      "id": 206,
-      "name": "dunsparce",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/206.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 415,
-      "grade": "R",
-      "pulledAt": "2026-10-15T01:38:03.403Z"
     }
   ],
   "pokemon": {
@@ -853,6 +853,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-01T00:30:04.594Z",
       "lastPulledAt": "2026-10-01T00:30:04.594Z"
+    },
+    "316": {
+      "id": 316,
+      "name": "gulpin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/316.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 302,
+      "grade": "N",
+      "pulledAt": "2026-10-16T18:07:21.610Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-16T18:07:21.610Z",
+      "lastPulledAt": "2026-10-16T18:07:21.610Z"
     },
     "320": {
       "id": 320,
