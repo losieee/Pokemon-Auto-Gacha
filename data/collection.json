@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 179,
-  "updatedAt": "2026-10-17T18:39:22.875Z",
+  "totalPulls": 180,
+  "updatedAt": "2026-10-17T20:56:06.243Z",
   "lastPull": {
-    "id": 950,
-    "name": "klawf",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/950.png",
+    "id": 819,
+    "name": "skwovet",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/819.png",
     "types": [
-      "rock"
+      "normal"
     ],
-    "totalStats": 450,
-    "grade": "R",
-    "pulledAt": "2026-10-17T18:39:22.875Z"
+    "totalStats": 275,
+    "grade": "N",
+    "pulledAt": "2026-10-17T20:56:06.243Z"
   },
   "pulls": [
+    {
+      "id": 819,
+      "name": "skwovet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/819.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 275,
+      "grade": "N",
+      "pulledAt": "2026-10-17T20:56:06.243Z"
+    },
     {
       "id": 950,
       "name": "klawf",
@@ -115,17 +126,6 @@
       "totalStats": 302,
       "grade": "N",
       "pulledAt": "2026-10-16T18:07:21.610Z"
-    },
-    {
-      "id": 568,
-      "name": "trubbish",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/568.png",
-      "types": [
-        "poison"
-      ],
-      "totalStats": 329,
-      "grade": "N",
-      "pulledAt": "2026-10-16T14:17:31.373Z"
     }
   ],
   "pokemon": {
@@ -2157,6 +2157,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-01T23:05:34.797Z",
       "lastPulledAt": "2026-10-01T23:05:34.797Z"
+    },
+    "819": {
+      "id": 819,
+      "name": "skwovet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/819.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 275,
+      "grade": "N",
+      "pulledAt": "2026-10-17T20:56:06.243Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-17T20:56:06.243Z",
+      "lastPulledAt": "2026-10-17T20:56:06.243Z"
     },
     "824": {
       "id": 824,
