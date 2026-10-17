@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 178,
-  "updatedAt": "2026-10-17T16:26:07.779Z",
+  "totalPulls": 179,
+  "updatedAt": "2026-10-17T18:39:22.875Z",
   "lastPull": {
-    "id": 615,
-    "name": "cryogonal",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/615.png",
+    "id": 950,
+    "name": "klawf",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/950.png",
     "types": [
-      "ice"
+      "rock"
     ],
-    "totalStats": 515,
-    "grade": "SR",
-    "pulledAt": "2026-10-17T16:26:07.779Z"
+    "totalStats": 450,
+    "grade": "R",
+    "pulledAt": "2026-10-17T18:39:22.875Z"
   },
   "pulls": [
+    {
+      "id": 950,
+      "name": "klawf",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/950.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-10-17T18:39:22.875Z"
+    },
     {
       "id": 615,
       "name": "cryogonal",
@@ -115,17 +126,6 @@
       "totalStats": 329,
       "grade": "N",
       "pulledAt": "2026-10-16T14:17:31.373Z"
-    },
-    {
-      "id": 180,
-      "name": "flaaffy",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/180.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 365,
-      "grade": "N",
-      "pulledAt": "2026-10-16T09:40:35.003Z"
     }
   ],
   "pokemon": {
@@ -2499,6 +2499,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T11:13:45.362Z",
       "lastPulledAt": "2026-09-20T11:13:45.362Z"
+    },
+    "950": {
+      "id": 950,
+      "name": "klawf",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/950.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-10-17T18:39:22.875Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-17T18:39:22.875Z",
+      "lastPulledAt": "2026-10-17T18:39:22.875Z"
     },
     "956": {
       "id": 956,
