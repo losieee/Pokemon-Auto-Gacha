@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 177,
-  "updatedAt": "2026-10-17T13:14:22.228Z",
+  "totalPulls": 178,
+  "updatedAt": "2026-10-17T16:26:07.779Z",
   "lastPull": {
-    "id": 65,
-    "name": "alakazam",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png",
+    "id": 615,
+    "name": "cryogonal",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/615.png",
     "types": [
-      "psychic"
+      "ice"
     ],
-    "totalStats": 500,
+    "totalStats": 515,
     "grade": "SR",
-    "pulledAt": "2026-10-17T13:14:22.228Z"
+    "pulledAt": "2026-10-17T16:26:07.779Z"
   },
   "pulls": [
+    {
+      "id": 615,
+      "name": "cryogonal",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/615.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 515,
+      "grade": "SR",
+      "pulledAt": "2026-10-17T16:26:07.779Z"
+    },
     {
       "id": 65,
       "name": "alakazam",
@@ -115,17 +126,6 @@
       "totalStats": 365,
       "grade": "N",
       "pulledAt": "2026-10-16T09:40:35.003Z"
-    },
-    {
-      "id": 493,
-      "name": "arceus",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 720,
-      "grade": "SSR",
-      "pulledAt": "2026-10-16T05:05:22.344Z"
     }
   ],
   "pokemon": {
@@ -1784,6 +1784,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T22:28:10.671Z",
       "lastPulledAt": "2026-09-26T22:28:10.671Z"
+    },
+    "615": {
+      "id": 615,
+      "name": "cryogonal",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/615.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 515,
+      "grade": "SR",
+      "pulledAt": "2026-10-17T16:26:07.779Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-17T16:26:07.779Z",
+      "lastPulledAt": "2026-10-17T16:26:07.779Z"
     },
     "637": {
       "id": 637,
