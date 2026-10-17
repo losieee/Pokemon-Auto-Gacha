@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 174,
-  "updatedAt": "2026-10-17T01:20:46.444Z",
+  "totalPulls": 175,
+  "updatedAt": "2026-10-17T05:45:41.852Z",
   "lastPull": {
-    "id": 637,
-    "name": "volcarona",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/637.png",
+    "id": 709,
+    "name": "trevenant",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/709.png",
     "types": [
-      "bug",
-      "fire"
+      "ghost",
+      "grass"
     ],
-    "totalStats": 550,
-    "grade": "SR",
-    "pulledAt": "2026-10-17T01:20:46.444Z"
+    "totalStats": 474,
+    "grade": "R",
+    "pulledAt": "2026-10-17T05:45:41.852Z"
   },
   "pulls": [
+    {
+      "id": 709,
+      "name": "trevenant",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/709.png",
+      "types": [
+        "ghost",
+        "grass"
+      ],
+      "totalStats": 474,
+      "grade": "R",
+      "pulledAt": "2026-10-17T05:45:41.852Z"
+    },
     {
       "id": 637,
       "name": "volcarona",
@@ -116,17 +128,6 @@
       "totalStats": 312,
       "grade": "N",
       "pulledAt": "2026-10-15T22:31:36.501Z"
-    },
-    {
-      "id": 350,
-      "name": "milotic",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/350.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 540,
-      "grade": "SR",
-      "pulledAt": "2026-10-15T19:24:35.248Z"
     }
   ],
   "pokemon": {
@@ -1957,6 +1958,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T15:43:31.799Z",
       "lastPulledAt": "2026-09-22T15:43:31.799Z"
+    },
+    "709": {
+      "id": 709,
+      "name": "trevenant",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/709.png",
+      "types": [
+        "ghost",
+        "grass"
+      ],
+      "totalStats": 474,
+      "grade": "R",
+      "pulledAt": "2026-10-17T05:45:41.852Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-17T05:45:41.852Z",
+      "lastPulledAt": "2026-10-17T05:45:41.852Z"
     },
     "712": {
       "id": 712,
