@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 180,
-  "updatedAt": "2026-10-17T20:56:06.243Z",
+  "totalPulls": 181,
+  "updatedAt": "2026-10-17T22:47:20.816Z",
   "lastPull": {
-    "id": 819,
-    "name": "skwovet",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/819.png",
+    "id": 707,
+    "name": "klefki",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/707.png",
     "types": [
-      "normal"
+      "steel",
+      "fairy"
     ],
-    "totalStats": 275,
-    "grade": "N",
-    "pulledAt": "2026-10-17T20:56:06.243Z"
+    "totalStats": 470,
+    "grade": "R",
+    "pulledAt": "2026-10-17T22:47:20.816Z"
   },
   "pulls": [
+    {
+      "id": 707,
+      "name": "klefki",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/707.png",
+      "types": [
+        "steel",
+        "fairy"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-10-17T22:47:20.816Z"
+    },
     {
       "id": 819,
       "name": "skwovet",
@@ -115,17 +128,6 @@
       "totalStats": 473,
       "grade": "R",
       "pulledAt": "2026-10-16T20:59:42.840Z"
-    },
-    {
-      "id": 316,
-      "name": "gulpin",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/316.png",
-      "types": [
-        "poison"
-      ],
-      "totalStats": 302,
-      "grade": "N",
-      "pulledAt": "2026-10-16T18:07:21.610Z"
     }
   ],
   "pokemon": {
@@ -1986,6 +1988,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T15:43:31.799Z",
       "lastPulledAt": "2026-09-22T15:43:31.799Z"
+    },
+    "707": {
+      "id": 707,
+      "name": "klefki",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/707.png",
+      "types": [
+        "steel",
+        "fairy"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-10-17T22:47:20.816Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-17T22:47:20.816Z",
+      "lastPulledAt": "2026-10-17T22:47:20.816Z"
     },
     "709": {
       "id": 709,
