@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 184,
-  "updatedAt": "2026-10-18T09:09:59.411Z",
+  "totalPulls": 185,
+  "updatedAt": "2026-10-18T13:13:58.071Z",
   "lastPull": {
-    "id": 23,
-    "name": "ekans",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/23.png",
+    "id": 519,
+    "name": "pidove",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/519.png",
     "types": [
-      "poison"
+      "normal",
+      "flying"
     ],
-    "totalStats": 288,
+    "totalStats": 264,
     "grade": "N",
-    "pulledAt": "2026-10-18T09:09:59.411Z"
+    "pulledAt": "2026-10-18T13:13:58.071Z"
   },
   "pulls": [
+    {
+      "id": 519,
+      "name": "pidove",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/519.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 264,
+      "grade": "N",
+      "pulledAt": "2026-10-18T13:13:58.071Z"
+    },
     {
       "id": 23,
       "name": "ekans",
@@ -114,18 +127,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-10-17T09:42:21.491Z"
-    },
-    {
-      "id": 709,
-      "name": "trevenant",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/709.png",
-      "types": [
-        "ghost",
-        "grass"
-      ],
-      "totalStats": 474,
-      "grade": "R",
-      "pulledAt": "2026-10-17T05:45:41.852Z"
     }
   ],
   "pokemon": {
@@ -1563,6 +1564,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T03:15:20.116Z",
       "lastPulledAt": "2026-09-24T03:15:20.116Z"
+    },
+    "519": {
+      "id": 519,
+      "name": "pidove",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/519.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 264,
+      "grade": "N",
+      "pulledAt": "2026-10-18T13:13:58.071Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-18T13:13:58.071Z",
+      "lastPulledAt": "2026-10-18T13:13:58.071Z"
     },
     "536": {
       "id": 536,
