@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 188,
-  "updatedAt": "2026-10-18T21:09:22.206Z",
+  "totalPulls": 189,
+  "updatedAt": "2026-10-18T23:06:02.247Z",
   "lastPull": {
-    "id": 5,
-    "name": "charmeleon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png",
+    "id": 326,
+    "name": "grumpig",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/326.png",
     "types": [
-      "fire"
+      "psychic"
     ],
-    "totalStats": 405,
+    "totalStats": 470,
     "grade": "R",
-    "pulledAt": "2026-10-18T21:09:22.206Z"
+    "pulledAt": "2026-10-18T23:06:02.247Z"
   },
   "pulls": [
+    {
+      "id": 326,
+      "name": "grumpig",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/326.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-10-18T23:06:02.247Z"
+    },
     {
       "id": 5,
       "name": "charmeleon",
@@ -116,17 +127,6 @@
       "totalStats": 275,
       "grade": "N",
       "pulledAt": "2026-10-17T20:56:06.243Z"
-    },
-    {
-      "id": 950,
-      "name": "klawf",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/950.png",
-      "types": [
-        "rock"
-      ],
-      "totalStats": 450,
-      "grade": "R",
-      "pulledAt": "2026-10-17T18:39:22.875Z"
     }
   ],
   "pokemon": {
@@ -974,6 +974,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T16:46:05.158Z",
       "lastPulledAt": "2026-09-19T16:46:05.158Z"
+    },
+    "326": {
+      "id": 326,
+      "name": "grumpig",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/326.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-10-18T23:06:02.247Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-18T23:06:02.247Z",
+      "lastPulledAt": "2026-10-18T23:06:02.247Z"
     },
     "330": {
       "id": 330,
