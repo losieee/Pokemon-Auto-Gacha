@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 185,
-  "updatedAt": "2026-10-18T13:13:58.071Z",
+  "totalPulls": 186,
+  "updatedAt": "2026-10-18T16:33:16.419Z",
   "lastPull": {
-    "id": 519,
-    "name": "pidove",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/519.png",
+    "id": 862,
+    "name": "obstagoon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/862.png",
     "types": [
-      "normal",
-      "flying"
+      "dark",
+      "normal"
     ],
-    "totalStats": 264,
-    "grade": "N",
-    "pulledAt": "2026-10-18T13:13:58.071Z"
+    "totalStats": 520,
+    "grade": "SR",
+    "pulledAt": "2026-10-18T16:33:16.419Z"
   },
   "pulls": [
+    {
+      "id": 862,
+      "name": "obstagoon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/862.png",
+      "types": [
+        "dark",
+        "normal"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-10-18T16:33:16.419Z"
+    },
     {
       "id": 519,
       "name": "pidove",
@@ -116,17 +128,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-10-17T13:14:22.228Z"
-    },
-    {
-      "id": 209,
-      "name": "snubbull",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/209.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-10-17T09:42:21.491Z"
     }
   ],
   "pokemon": {
@@ -2388,10 +2389,10 @@
       "totalStats": 520,
       "grade": "SR",
       "pulledAt": "2026-09-16T19:02:43.082Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T19:02:43.082Z",
-      "lastPulledAt": "2026-09-16T19:02:43.082Z"
+      "lastPulledAt": "2026-10-18T16:33:16.419Z"
     },
     "866": {
       "id": 866,
