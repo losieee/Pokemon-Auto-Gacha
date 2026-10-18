@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 186,
-  "updatedAt": "2026-10-18T16:33:16.419Z",
+  "totalPulls": 187,
+  "updatedAt": "2026-10-18T18:52:30.284Z",
   "lastPull": {
-    "id": 862,
-    "name": "obstagoon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/862.png",
+    "id": 120,
+    "name": "staryu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/120.png",
     "types": [
-      "dark",
-      "normal"
+      "water"
     ],
-    "totalStats": 520,
-    "grade": "SR",
-    "pulledAt": "2026-10-18T16:33:16.419Z"
+    "totalStats": 340,
+    "grade": "N",
+    "pulledAt": "2026-10-18T18:52:30.284Z"
   },
   "pulls": [
+    {
+      "id": 120,
+      "name": "staryu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/120.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-10-18T18:52:30.284Z"
+    },
     {
       "id": 862,
       "name": "obstagoon",
@@ -117,17 +127,6 @@
       "totalStats": 515,
       "grade": "SR",
       "pulledAt": "2026-10-17T16:26:07.779Z"
-    },
-    {
-      "id": 65,
-      "name": "alakazam",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-10-17T13:14:22.228Z"
     }
   ],
   "pokemon": {
@@ -375,6 +374,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T07:39:45.864Z",
       "lastPulledAt": "2026-10-03T07:39:45.864Z"
+    },
+    "120": {
+      "id": 120,
+      "name": "staryu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/120.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-10-18T18:52:30.284Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-18T18:52:30.284Z",
+      "lastPulledAt": "2026-10-18T18:52:30.284Z"
     },
     "121": {
       "id": 121,
