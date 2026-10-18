@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 183,
-  "updatedAt": "2026-10-18T04:50:05.330Z",
+  "totalPulls": 184,
+  "updatedAt": "2026-10-18T09:09:59.411Z",
   "lastPull": {
-    "id": 310,
-    "name": "manectric",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/310.png",
+    "id": 23,
+    "name": "ekans",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/23.png",
     "types": [
-      "electric"
+      "poison"
     ],
-    "totalStats": 475,
-    "grade": "R",
-    "pulledAt": "2026-10-18T04:50:05.330Z"
+    "totalStats": 288,
+    "grade": "N",
+    "pulledAt": "2026-10-18T09:09:59.411Z"
   },
   "pulls": [
+    {
+      "id": 23,
+      "name": "ekans",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/23.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 288,
+      "grade": "N",
+      "pulledAt": "2026-10-18T09:09:59.411Z"
+    },
     {
       "id": 310,
       "name": "manectric",
@@ -115,18 +126,6 @@
       "totalStats": 474,
       "grade": "R",
       "pulledAt": "2026-10-17T05:45:41.852Z"
-    },
-    {
-      "id": 637,
-      "name": "volcarona",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/637.png",
-      "types": [
-        "bug",
-        "fire"
-      ],
-      "totalStats": 550,
-      "grade": "SR",
-      "pulledAt": "2026-10-17T01:20:46.444Z"
     }
   ],
   "pokemon": {
@@ -176,6 +175,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-05T15:53:50.106Z",
       "lastPulledAt": "2026-10-05T15:53:50.106Z"
+    },
+    "23": {
+      "id": 23,
+      "name": "ekans",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/23.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 288,
+      "grade": "N",
+      "pulledAt": "2026-10-18T09:09:59.411Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-18T09:09:59.411Z",
+      "lastPulledAt": "2026-10-18T09:09:59.411Z"
     },
     "24": {
       "id": 24,
