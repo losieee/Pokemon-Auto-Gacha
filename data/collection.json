@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 193,
-  "updatedAt": "2026-10-19T18:57:09.908Z",
+  "totalPulls": 194,
+  "updatedAt": "2026-10-19T22:45:14.968Z",
   "lastPull": {
-    "id": 732,
-    "name": "trumbeak",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/732.png",
+    "id": 39,
+    "name": "jigglypuff",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/39.png",
     "types": [
       "normal",
-      "flying"
+      "fairy"
     ],
-    "totalStats": 355,
+    "totalStats": 270,
     "grade": "N",
-    "pulledAt": "2026-10-19T18:57:09.908Z"
+    "pulledAt": "2026-10-19T22:45:14.968Z"
   },
   "pulls": [
+    {
+      "id": 39,
+      "name": "jigglypuff",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/39.png",
+      "types": [
+        "normal",
+        "fairy"
+      ],
+      "totalStats": 270,
+      "grade": "N",
+      "pulledAt": "2026-10-19T22:45:14.968Z"
+    },
     {
       "id": 732,
       "name": "trumbeak",
@@ -117,17 +129,6 @@
       "totalStats": 264,
       "grade": "N",
       "pulledAt": "2026-10-18T13:13:58.071Z"
-    },
-    {
-      "id": 23,
-      "name": "ekans",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/23.png",
-      "types": [
-        "poison"
-      ],
-      "totalStats": 288,
-      "grade": "N",
-      "pulledAt": "2026-10-18T09:09:59.411Z"
     }
   ],
   "pokemon": {
@@ -252,6 +253,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T19:28:16.874Z",
       "lastPulledAt": "2026-10-03T19:28:16.874Z"
+    },
+    "39": {
+      "id": 39,
+      "name": "jigglypuff",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/39.png",
+      "types": [
+        "normal",
+        "fairy"
+      ],
+      "totalStats": 270,
+      "grade": "N",
+      "pulledAt": "2026-10-19T22:45:14.968Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-19T22:45:14.968Z",
+      "lastPulledAt": "2026-10-19T22:45:14.968Z"
     },
     "48": {
       "id": 48,
