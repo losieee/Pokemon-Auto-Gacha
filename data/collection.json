@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 192,
-  "updatedAt": "2026-10-19T12:57:18.013Z",
+  "totalPulls": 193,
+  "updatedAt": "2026-10-19T18:57:09.908Z",
   "lastPull": {
-    "id": 692,
-    "name": "clauncher",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/692.png",
+    "id": 732,
+    "name": "trumbeak",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/732.png",
     "types": [
-      "water"
+      "normal",
+      "flying"
     ],
-    "totalStats": 330,
+    "totalStats": 355,
     "grade": "N",
-    "pulledAt": "2026-10-19T12:57:18.013Z"
+    "pulledAt": "2026-10-19T18:57:09.908Z"
   },
   "pulls": [
+    {
+      "id": 732,
+      "name": "trumbeak",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/732.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 355,
+      "grade": "N",
+      "pulledAt": "2026-10-19T18:57:09.908Z"
+    },
     {
       "id": 692,
       "name": "clauncher",
@@ -115,17 +128,6 @@
       "totalStats": 288,
       "grade": "N",
       "pulledAt": "2026-10-18T09:09:59.411Z"
-    },
-    {
-      "id": 310,
-      "name": "manectric",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/310.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 475,
-      "grade": "R",
-      "pulledAt": "2026-10-18T04:50:05.330Z"
     }
   ],
   "pokemon": {
@@ -2171,6 +2173,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-12T08:02:07.369Z",
       "lastPulledAt": "2026-10-12T08:02:07.369Z"
+    },
+    "732": {
+      "id": 732,
+      "name": "trumbeak",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/732.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 355,
+      "grade": "N",
+      "pulledAt": "2026-10-19T18:57:09.908Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-19T18:57:09.908Z",
+      "lastPulledAt": "2026-10-19T18:57:09.908Z"
     },
     "744": {
       "id": 744,
