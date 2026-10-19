@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 190,
-  "updatedAt": "2026-10-19T01:07:30.443Z",
+  "totalPulls": 191,
+  "updatedAt": "2026-10-19T06:05:11.437Z",
   "lastPull": {
-    "id": 754,
-    "name": "lurantis",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/754.png",
+    "id": 989,
+    "name": "sandy-shocks",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/989.png",
     "types": [
-      "grass"
+      "electric",
+      "ground"
     ],
-    "totalStats": 480,
-    "grade": "R",
-    "pulledAt": "2026-10-19T01:07:30.443Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-10-19T06:05:11.437Z"
   },
   "pulls": [
+    {
+      "id": 989,
+      "name": "sandy-shocks",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/989.png",
+      "types": [
+        "electric",
+        "ground"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-19T06:05:11.437Z"
+    },
     {
       "id": 754,
       "name": "lurantis",
@@ -115,18 +128,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-10-18T00:25:17.219Z"
-    },
-    {
-      "id": 707,
-      "name": "klefki",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/707.png",
-      "types": [
-        "steel",
-        "fairy"
-      ],
-      "totalStats": 470,
-      "grade": "R",
-      "pulledAt": "2026-10-17T22:47:20.816Z"
     }
   ],
   "pokemon": {
@@ -2714,6 +2715,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T08:29:21.478Z",
       "lastPulledAt": "2026-09-24T08:29:21.478Z"
+    },
+    "989": {
+      "id": 989,
+      "name": "sandy-shocks",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/989.png",
+      "types": [
+        "electric",
+        "ground"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-19T06:05:11.437Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-19T06:05:11.437Z",
+      "lastPulledAt": "2026-10-19T06:05:11.437Z"
     },
     "992": {
       "id": 992,
