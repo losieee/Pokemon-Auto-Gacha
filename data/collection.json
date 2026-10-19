@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 191,
-  "updatedAt": "2026-10-19T06:05:11.437Z",
+  "totalPulls": 192,
+  "updatedAt": "2026-10-19T12:57:18.013Z",
   "lastPull": {
-    "id": 989,
-    "name": "sandy-shocks",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/989.png",
+    "id": 692,
+    "name": "clauncher",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/692.png",
     "types": [
-      "electric",
-      "ground"
+      "water"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-10-19T06:05:11.437Z"
+    "totalStats": 330,
+    "grade": "N",
+    "pulledAt": "2026-10-19T12:57:18.013Z"
   },
   "pulls": [
+    {
+      "id": 692,
+      "name": "clauncher",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/692.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-10-19T12:57:18.013Z"
+    },
     {
       "id": 989,
       "name": "sandy-shocks",
@@ -116,18 +126,6 @@
       "totalStats": 475,
       "grade": "R",
       "pulledAt": "2026-10-18T04:50:05.330Z"
-    },
-    {
-      "id": 589,
-      "name": "escavalier",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/589.png",
-      "types": [
-        "bug",
-        "steel"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-10-18T00:25:17.219Z"
     }
   ],
   "pokemon": {
@@ -2064,6 +2062,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-11T01:13:16.603Z",
       "lastPulledAt": "2026-10-11T01:13:16.603Z"
+    },
+    "692": {
+      "id": 692,
+      "name": "clauncher",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/692.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-10-19T12:57:18.013Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-19T12:57:18.013Z",
+      "lastPulledAt": "2026-10-19T12:57:18.013Z"
     },
     "695": {
       "id": 695,
