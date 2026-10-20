@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 198,
-  "updatedAt": "2026-10-20T15:42:41.744Z",
+  "totalPulls": 199,
+  "updatedAt": "2026-10-20T19:37:15.166Z",
   "lastPull": {
-    "id": 396,
-    "name": "starly",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/396.png",
+    "id": 966,
+    "name": "revavroom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/966.png",
     "types": [
-      "normal",
-      "flying"
+      "steel",
+      "poison"
     ],
-    "totalStats": 245,
-    "grade": "N",
-    "pulledAt": "2026-10-20T15:42:41.744Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-10-20T19:37:15.166Z"
   },
   "pulls": [
+    {
+      "id": 966,
+      "name": "revavroom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/966.png",
+      "types": [
+        "steel",
+        "poison"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-20T19:37:15.166Z"
+    },
     {
       "id": 396,
       "name": "starly",
@@ -117,17 +129,6 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-10-19T01:07:30.443Z"
-    },
-    {
-      "id": 326,
-      "name": "grumpig",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/326.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 470,
-      "grade": "R",
-      "pulledAt": "2026-10-18T23:06:02.247Z"
     }
   ],
   "pokemon": {
@@ -2792,6 +2793,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-09T07:34:16.215Z",
       "lastPulledAt": "2026-10-09T07:34:16.215Z"
+    },
+    "966": {
+      "id": 966,
+      "name": "revavroom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/966.png",
+      "types": [
+        "steel",
+        "poison"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-20T19:37:15.166Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-20T19:37:15.166Z",
+      "lastPulledAt": "2026-10-20T19:37:15.166Z"
     },
     "977": {
       "id": 977,
