@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 195,
-  "updatedAt": "2026-10-20T01:17:47.394Z",
+  "totalPulls": 196,
+  "updatedAt": "2026-10-20T06:06:10.363Z",
   "lastPull": {
-    "id": 815,
-    "name": "cinderace",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/815.png",
+    "id": 152,
+    "name": "chikorita",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/152.png",
     "types": [
-      "fire"
+      "grass"
     ],
-    "totalStats": 530,
-    "grade": "SR",
-    "pulledAt": "2026-10-20T01:17:47.394Z"
+    "totalStats": 318,
+    "grade": "N",
+    "pulledAt": "2026-10-20T06:06:10.363Z"
   },
   "pulls": [
+    {
+      "id": 152,
+      "name": "chikorita",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/152.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 318,
+      "grade": "N",
+      "pulledAt": "2026-10-20T06:06:10.363Z"
+    },
     {
       "id": 815,
       "name": "cinderace",
@@ -115,18 +126,6 @@
       "totalStats": 340,
       "grade": "N",
       "pulledAt": "2026-10-18T18:52:30.284Z"
-    },
-    {
-      "id": 862,
-      "name": "obstagoon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/862.png",
-      "types": [
-        "dark",
-        "normal"
-      ],
-      "totalStats": 520,
-      "grade": "SR",
-      "pulledAt": "2026-10-18T16:33:16.419Z"
     }
   ],
   "pokemon": {
@@ -514,6 +513,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-05T22:14:32.632Z",
       "lastPulledAt": "2026-10-05T22:14:32.632Z"
+    },
+    "152": {
+      "id": 152,
+      "name": "chikorita",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/152.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 318,
+      "grade": "N",
+      "pulledAt": "2026-10-20T06:06:10.363Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-20T06:06:10.363Z",
+      "lastPulledAt": "2026-10-20T06:06:10.363Z"
     },
     "155": {
       "id": 155,
