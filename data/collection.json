@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 194,
-  "updatedAt": "2026-10-19T22:45:14.968Z",
+  "totalPulls": 195,
+  "updatedAt": "2026-10-20T01:17:47.394Z",
   "lastPull": {
-    "id": 39,
-    "name": "jigglypuff",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/39.png",
+    "id": 815,
+    "name": "cinderace",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/815.png",
     "types": [
-      "normal",
-      "fairy"
+      "fire"
     ],
-    "totalStats": 270,
-    "grade": "N",
-    "pulledAt": "2026-10-19T22:45:14.968Z"
+    "totalStats": 530,
+    "grade": "SR",
+    "pulledAt": "2026-10-20T01:17:47.394Z"
   },
   "pulls": [
+    {
+      "id": 815,
+      "name": "cinderace",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/815.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-10-20T01:17:47.394Z"
+    },
     {
       "id": 39,
       "name": "jigglypuff",
@@ -117,18 +127,6 @@
       "totalStats": 520,
       "grade": "SR",
       "pulledAt": "2026-10-18T16:33:16.419Z"
-    },
-    {
-      "id": 519,
-      "name": "pidove",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/519.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 264,
-      "grade": "N",
-      "pulledAt": "2026-10-18T13:13:58.071Z"
     }
   ],
   "pokemon": {
@@ -2345,6 +2343,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-01T23:05:34.797Z",
       "lastPulledAt": "2026-10-01T23:05:34.797Z"
+    },
+    "815": {
+      "id": 815,
+      "name": "cinderace",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/815.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-10-20T01:17:47.394Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-20T01:17:47.394Z",
+      "lastPulledAt": "2026-10-20T01:17:47.394Z"
     },
     "819": {
       "id": 819,
