@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 199,
-  "updatedAt": "2026-10-20T19:37:15.166Z",
+  "totalPulls": 200,
+  "updatedAt": "2026-10-20T22:36:49.262Z",
   "lastPull": {
-    "id": 966,
-    "name": "revavroom",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/966.png",
+    "id": 975,
+    "name": "cetitan",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/975.png",
     "types": [
-      "steel",
-      "poison"
+      "ice"
     ],
-    "totalStats": 500,
+    "totalStats": 521,
     "grade": "SR",
-    "pulledAt": "2026-10-20T19:37:15.166Z"
+    "pulledAt": "2026-10-20T22:36:49.262Z"
   },
   "pulls": [
+    {
+      "id": 975,
+      "name": "cetitan",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/975.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 521,
+      "grade": "SR",
+      "pulledAt": "2026-10-20T22:36:49.262Z"
+    },
     {
       "id": 966,
       "name": "revavroom",
@@ -118,17 +128,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-10-19T06:05:11.437Z"
-    },
-    {
-      "id": 754,
-      "name": "lurantis",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/754.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 480,
-      "grade": "R",
-      "pulledAt": "2026-10-19T01:07:30.443Z"
     }
   ],
   "pokemon": {
@@ -2809,6 +2808,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-20T19:37:15.166Z",
       "lastPulledAt": "2026-10-20T19:37:15.166Z"
+    },
+    "975": {
+      "id": 975,
+      "name": "cetitan",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/975.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 521,
+      "grade": "SR",
+      "pulledAt": "2026-10-20T22:36:49.262Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-20T22:36:49.262Z",
+      "lastPulledAt": "2026-10-20T22:36:49.262Z"
     },
     "977": {
       "id": 977,
