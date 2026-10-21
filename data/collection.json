@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 202,
-  "updatedAt": "2026-10-21T05:30:41.609Z",
+  "totalPulls": 203,
+  "updatedAt": "2026-10-21T10:31:39.661Z",
   "lastPull": {
-    "id": 691,
-    "name": "dragalge",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/691.png",
+    "id": 33,
+    "name": "nidorino",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/33.png",
     "types": [
-      "poison",
-      "dragon"
+      "poison"
     ],
-    "totalStats": 494,
-    "grade": "R",
-    "pulledAt": "2026-10-21T05:30:41.609Z"
+    "totalStats": 365,
+    "grade": "N",
+    "pulledAt": "2026-10-21T10:31:39.661Z"
   },
   "pulls": [
+    {
+      "id": 33,
+      "name": "nidorino",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/33.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 365,
+      "grade": "N",
+      "pulledAt": "2026-10-21T10:31:39.661Z"
+    },
     {
       "id": 691,
       "name": "dragalge",
@@ -117,18 +127,6 @@
       "totalStats": 270,
       "grade": "N",
       "pulledAt": "2026-10-19T22:45:14.968Z"
-    },
-    {
-      "id": 732,
-      "name": "trumbeak",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/732.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 355,
-      "grade": "N",
-      "pulledAt": "2026-10-19T18:57:09.908Z"
     }
   ],
   "pokemon": {
@@ -238,6 +236,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T18:57:30.254Z",
       "lastPulledAt": "2026-09-19T18:57:30.254Z"
+    },
+    "33": {
+      "id": 33,
+      "name": "nidorino",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/33.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 365,
+      "grade": "N",
+      "pulledAt": "2026-10-21T10:31:39.661Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-21T10:31:39.661Z",
+      "lastPulledAt": "2026-10-21T10:31:39.661Z"
     },
     "35": {
       "id": 35,
