@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 200,
-  "updatedAt": "2026-10-20T22:36:49.262Z",
+  "totalPulls": 201,
+  "updatedAt": "2026-10-21T00:52:15.210Z",
   "lastPull": {
-    "id": 975,
-    "name": "cetitan",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/975.png",
+    "id": 855,
+    "name": "polteageist",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/855.png",
     "types": [
-      "ice"
+      "ghost"
     ],
-    "totalStats": 521,
+    "totalStats": 508,
     "grade": "SR",
-    "pulledAt": "2026-10-20T22:36:49.262Z"
+    "pulledAt": "2026-10-21T00:52:15.210Z"
   },
   "pulls": [
+    {
+      "id": 855,
+      "name": "polteageist",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/855.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 508,
+      "grade": "SR",
+      "pulledAt": "2026-10-21T00:52:15.210Z"
+    },
     {
       "id": 975,
       "name": "cetitan",
@@ -116,18 +127,6 @@
       "totalStats": 330,
       "grade": "N",
       "pulledAt": "2026-10-19T12:57:18.013Z"
-    },
-    {
-      "id": 989,
-      "name": "sandy-shocks",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/989.png",
-      "types": [
-        "electric",
-        "ground"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-10-19T06:05:11.437Z"
     }
   ],
   "pokemon": {
@@ -2545,6 +2544,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T01:12:00.316Z",
       "lastPulledAt": "2026-09-24T13:42:18.000Z"
+    },
+    "855": {
+      "id": 855,
+      "name": "polteageist",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/855.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 508,
+      "grade": "SR",
+      "pulledAt": "2026-10-21T00:52:15.210Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-21T00:52:15.210Z",
+      "lastPulledAt": "2026-10-21T00:52:15.210Z"
     },
     "862": {
       "id": 862,
