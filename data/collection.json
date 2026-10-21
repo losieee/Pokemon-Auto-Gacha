@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 201,
-  "updatedAt": "2026-10-21T00:52:15.210Z",
+  "totalPulls": 202,
+  "updatedAt": "2026-10-21T05:30:41.609Z",
   "lastPull": {
-    "id": 855,
-    "name": "polteageist",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/855.png",
+    "id": 691,
+    "name": "dragalge",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/691.png",
     "types": [
-      "ghost"
+      "poison",
+      "dragon"
     ],
-    "totalStats": 508,
-    "grade": "SR",
-    "pulledAt": "2026-10-21T00:52:15.210Z"
+    "totalStats": 494,
+    "grade": "R",
+    "pulledAt": "2026-10-21T05:30:41.609Z"
   },
   "pulls": [
+    {
+      "id": 691,
+      "name": "dragalge",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/691.png",
+      "types": [
+        "poison",
+        "dragon"
+      ],
+      "totalStats": 494,
+      "grade": "R",
+      "pulledAt": "2026-10-21T05:30:41.609Z"
+    },
     {
       "id": 855,
       "name": "polteageist",
@@ -116,17 +129,6 @@
       "totalStats": 355,
       "grade": "N",
       "pulledAt": "2026-10-19T18:57:09.908Z"
-    },
-    {
-      "id": 692,
-      "name": "clauncher",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/692.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 330,
-      "grade": "N",
-      "pulledAt": "2026-10-19T12:57:18.013Z"
     }
   ],
   "pokemon": {
@@ -2125,6 +2127,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-11T01:13:16.603Z",
       "lastPulledAt": "2026-10-11T01:13:16.603Z"
+    },
+    "691": {
+      "id": 691,
+      "name": "dragalge",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/691.png",
+      "types": [
+        "poison",
+        "dragon"
+      ],
+      "totalStats": 494,
+      "grade": "R",
+      "pulledAt": "2026-10-21T05:30:41.609Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-21T05:30:41.609Z",
+      "lastPulledAt": "2026-10-21T05:30:41.609Z"
     },
     "692": {
       "id": 692,
