@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 205,
-  "updatedAt": "2026-10-21T19:32:22.356Z",
+  "totalPulls": 206,
+  "updatedAt": "2026-10-21T22:40:47.845Z",
   "lastPull": {
-    "id": 375,
-    "name": "metang",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/375.png",
+    "id": 868,
+    "name": "milcery",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/868.png",
     "types": [
-      "steel",
-      "psychic"
+      "fairy"
     ],
-    "totalStats": 420,
-    "grade": "R",
-    "pulledAt": "2026-10-21T19:32:22.356Z"
+    "totalStats": 270,
+    "grade": "N",
+    "pulledAt": "2026-10-21T22:40:47.845Z"
   },
   "pulls": [
+    {
+      "id": 868,
+      "name": "milcery",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/868.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 270,
+      "grade": "N",
+      "pulledAt": "2026-10-21T22:40:47.845Z"
+    },
     {
       "id": 375,
       "name": "metang",
@@ -117,17 +127,6 @@
       "totalStats": 310,
       "grade": "N",
       "pulledAt": "2026-10-20T11:25:30.608Z"
-    },
-    {
-      "id": 152,
-      "name": "chikorita",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/152.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 318,
-      "grade": "N",
-      "pulledAt": "2026-10-20T06:06:10.363Z"
     }
   ],
   "pokemon": {
@@ -2654,6 +2653,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T05:54:48.903Z",
       "lastPulledAt": "2026-09-19T05:54:48.903Z"
+    },
+    "868": {
+      "id": 868,
+      "name": "milcery",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/868.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 270,
+      "grade": "N",
+      "pulledAt": "2026-10-21T22:40:47.845Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-21T22:40:47.845Z",
+      "lastPulledAt": "2026-10-21T22:40:47.845Z"
     },
     "870": {
       "id": 870,
