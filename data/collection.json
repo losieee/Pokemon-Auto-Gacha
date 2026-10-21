@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 204,
-  "updatedAt": "2026-10-21T15:33:05.572Z",
+  "totalPulls": 205,
+  "updatedAt": "2026-10-21T19:32:22.356Z",
   "lastPull": {
-    "id": 182,
-    "name": "bellossom",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/182.png",
+    "id": 375,
+    "name": "metang",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/375.png",
     "types": [
-      "grass"
+      "steel",
+      "psychic"
     ],
-    "totalStats": 490,
+    "totalStats": 420,
     "grade": "R",
-    "pulledAt": "2026-10-21T15:33:05.572Z"
+    "pulledAt": "2026-10-21T19:32:22.356Z"
   },
   "pulls": [
+    {
+      "id": 375,
+      "name": "metang",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/375.png",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-10-21T19:32:22.356Z"
+    },
     {
       "id": 182,
       "name": "bellossom",
@@ -115,17 +128,6 @@
       "totalStats": 318,
       "grade": "N",
       "pulledAt": "2026-10-20T06:06:10.363Z"
-    },
-    {
-      "id": 815,
-      "name": "cinderace",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/815.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-10-20T01:17:47.394Z"
     }
   ],
   "pokemon": {
@@ -1188,6 +1190,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-12T17:46:08.716Z",
       "lastPulledAt": "2026-10-12T17:46:08.716Z"
+    },
+    "375": {
+      "id": 375,
+      "name": "metang",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/375.png",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-10-21T19:32:22.356Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-21T19:32:22.356Z",
+      "lastPulledAt": "2026-10-21T19:32:22.356Z"
     },
     "376": {
       "id": 376,
