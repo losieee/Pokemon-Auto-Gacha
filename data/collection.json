@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 208,
-  "updatedAt": "2026-10-22T05:36:14.732Z",
+  "totalPulls": 209,
+  "updatedAt": "2026-10-22T10:35:16.174Z",
   "lastPull": {
-    "id": 622,
-    "name": "golett",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/622.png",
+    "id": 120,
+    "name": "staryu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/120.png",
     "types": [
-      "ground",
-      "ghost"
+      "water"
     ],
-    "totalStats": 303,
+    "totalStats": 340,
     "grade": "N",
-    "pulledAt": "2026-10-22T05:36:14.732Z"
+    "pulledAt": "2026-10-22T10:35:16.174Z"
   },
   "pulls": [
+    {
+      "id": 120,
+      "name": "staryu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/120.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-10-22T10:35:16.174Z"
+    },
     {
       "id": 622,
       "name": "golett",
@@ -116,18 +126,6 @@
       "totalStats": 521,
       "grade": "SR",
       "pulledAt": "2026-10-20T22:36:49.262Z"
-    },
-    {
-      "id": 966,
-      "name": "revavroom",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/966.png",
-      "types": [
-        "steel",
-        "poison"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-10-20T19:37:15.166Z"
     }
   ],
   "pokemon": {
@@ -447,10 +445,10 @@
       "totalStats": 340,
       "grade": "N",
       "pulledAt": "2026-10-18T18:52:30.284Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-18T18:52:30.284Z",
-      "lastPulledAt": "2026-10-18T18:52:30.284Z"
+      "lastPulledAt": "2026-10-22T10:35:16.174Z"
     },
     "121": {
       "id": 121,
