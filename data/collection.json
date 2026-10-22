@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 206,
-  "updatedAt": "2026-10-21T22:40:47.845Z",
+  "totalPulls": 207,
+  "updatedAt": "2026-10-22T00:55:37.522Z",
   "lastPull": {
-    "id": 868,
-    "name": "milcery",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/868.png",
+    "id": 529,
+    "name": "drilbur",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/529.png",
     "types": [
-      "fairy"
+      "ground"
     ],
-    "totalStats": 270,
+    "totalStats": 328,
     "grade": "N",
-    "pulledAt": "2026-10-21T22:40:47.845Z"
+    "pulledAt": "2026-10-22T00:55:37.522Z"
   },
   "pulls": [
+    {
+      "id": 529,
+      "name": "drilbur",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/529.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 328,
+      "grade": "N",
+      "pulledAt": "2026-10-22T00:55:37.522Z"
+    },
     {
       "id": 868,
       "name": "milcery",
@@ -116,17 +127,6 @@
       "totalStats": 245,
       "grade": "N",
       "pulledAt": "2026-10-20T15:42:41.744Z"
-    },
-    {
-      "id": 63,
-      "name": "abra",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/63.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 310,
-      "grade": "N",
-      "pulledAt": "2026-10-20T11:25:30.608Z"
     }
   ],
   "pokemon": {
@@ -1733,6 +1733,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-18T13:13:58.071Z",
       "lastPulledAt": "2026-10-18T13:13:58.071Z"
+    },
+    "529": {
+      "id": 529,
+      "name": "drilbur",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/529.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 328,
+      "grade": "N",
+      "pulledAt": "2026-10-22T00:55:37.522Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-22T00:55:37.522Z",
+      "lastPulledAt": "2026-10-22T00:55:37.522Z"
     },
     "536": {
       "id": 536,
