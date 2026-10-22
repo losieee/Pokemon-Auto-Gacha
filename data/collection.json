@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 209,
-  "updatedAt": "2026-10-22T10:35:16.174Z",
+  "totalPulls": 210,
+  "updatedAt": "2026-10-22T15:34:52.758Z",
   "lastPull": {
-    "id": 120,
-    "name": "staryu",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/120.png",
+    "id": 247,
+    "name": "pupitar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/247.png",
     "types": [
-      "water"
+      "rock",
+      "ground"
     ],
-    "totalStats": 340,
-    "grade": "N",
-    "pulledAt": "2026-10-22T10:35:16.174Z"
+    "totalStats": 410,
+    "grade": "R",
+    "pulledAt": "2026-10-22T15:34:52.758Z"
   },
   "pulls": [
+    {
+      "id": 247,
+      "name": "pupitar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/247.png",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-10-22T15:34:52.758Z"
+    },
     {
       "id": 120,
       "name": "staryu",
@@ -115,17 +128,6 @@
       "totalStats": 508,
       "grade": "SR",
       "pulledAt": "2026-10-21T00:52:15.210Z"
-    },
-    {
-      "id": 975,
-      "name": "cetitan",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/975.png",
-      "types": [
-        "ice"
-      ],
-      "totalStats": 521,
-      "grade": "SR",
-      "pulledAt": "2026-10-20T22:36:49.262Z"
     }
   ],
   "pokemon": {
@@ -846,10 +848,10 @@
       "totalStats": 410,
       "grade": "R",
       "pulledAt": "2026-10-06T15:51:39.671Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-06T15:51:39.671Z",
-      "lastPulledAt": "2026-10-06T15:51:39.671Z"
+      "lastPulledAt": "2026-10-22T15:34:52.758Z"
     },
     "249": {
       "id": 249,
