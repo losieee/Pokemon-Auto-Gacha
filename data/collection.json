@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 210,
-  "updatedAt": "2026-10-22T15:34:52.758Z",
+  "totalPulls": 211,
+  "updatedAt": "2026-10-22T19:25:33.410Z",
   "lastPull": {
-    "id": 247,
-    "name": "pupitar",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/247.png",
+    "id": 626,
+    "name": "bouffalant",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/626.png",
     "types": [
-      "rock",
-      "ground"
+      "normal"
     ],
-    "totalStats": 410,
+    "totalStats": 490,
     "grade": "R",
-    "pulledAt": "2026-10-22T15:34:52.758Z"
+    "pulledAt": "2026-10-22T19:25:33.410Z"
   },
   "pulls": [
+    {
+      "id": 626,
+      "name": "bouffalant",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/626.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-10-22T19:25:33.410Z"
+    },
     {
       "id": 247,
       "name": "pupitar",
@@ -117,17 +127,6 @@
       "totalStats": 494,
       "grade": "R",
       "pulledAt": "2026-10-21T05:30:41.609Z"
-    },
-    {
-      "id": 855,
-      "name": "polteageist",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/855.png",
-      "types": [
-        "ghost"
-      ],
-      "totalStats": 508,
-      "grade": "SR",
-      "pulledAt": "2026-10-21T00:52:15.210Z"
     }
   ],
   "pokemon": {
@@ -2047,6 +2046,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-22T05:36:14.732Z",
       "lastPulledAt": "2026-10-22T05:36:14.732Z"
+    },
+    "626": {
+      "id": 626,
+      "name": "bouffalant",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/626.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-10-22T19:25:33.410Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-22T19:25:33.410Z",
+      "lastPulledAt": "2026-10-22T19:25:33.410Z"
     },
     "637": {
       "id": 637,
