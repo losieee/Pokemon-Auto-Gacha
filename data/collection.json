@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 207,
-  "updatedAt": "2026-10-22T00:55:37.522Z",
+  "totalPulls": 208,
+  "updatedAt": "2026-10-22T05:36:14.732Z",
   "lastPull": {
-    "id": 529,
-    "name": "drilbur",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/529.png",
+    "id": 622,
+    "name": "golett",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/622.png",
     "types": [
-      "ground"
+      "ground",
+      "ghost"
     ],
-    "totalStats": 328,
+    "totalStats": 303,
     "grade": "N",
-    "pulledAt": "2026-10-22T00:55:37.522Z"
+    "pulledAt": "2026-10-22T05:36:14.732Z"
   },
   "pulls": [
+    {
+      "id": 622,
+      "name": "golett",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/622.png",
+      "types": [
+        "ground",
+        "ghost"
+      ],
+      "totalStats": 303,
+      "grade": "N",
+      "pulledAt": "2026-10-22T05:36:14.732Z"
+    },
     {
       "id": 529,
       "name": "drilbur",
@@ -115,18 +128,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-10-20T19:37:15.166Z"
-    },
-    {
-      "id": 396,
-      "name": "starly",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/396.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 245,
-      "grade": "N",
-      "pulledAt": "2026-10-20T15:42:41.744Z"
     }
   ],
   "pokemon": {
@@ -2030,6 +2031,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-17T16:26:07.779Z",
       "lastPulledAt": "2026-10-17T16:26:07.779Z"
+    },
+    "622": {
+      "id": 622,
+      "name": "golett",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/622.png",
+      "types": [
+        "ground",
+        "ghost"
+      ],
+      "totalStats": 303,
+      "grade": "N",
+      "pulledAt": "2026-10-22T05:36:14.732Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-22T05:36:14.732Z",
+      "lastPulledAt": "2026-10-22T05:36:14.732Z"
     },
     "637": {
       "id": 637,
