@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 216,
-  "updatedAt": "2026-10-23T15:19:54.961Z",
+  "totalPulls": 217,
+  "updatedAt": "2026-10-23T19:20:26.985Z",
   "lastPull": {
-    "id": 718,
-    "name": "zygarde-50",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/718.png",
+    "id": 902,
+    "name": "basculegion-male",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/902.png",
     "types": [
-      "dragon",
-      "ground"
+      "water",
+      "ghost"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-10-23T15:19:54.961Z"
+    "totalStats": 530,
+    "grade": "SR",
+    "pulledAt": "2026-10-23T19:20:26.985Z"
   },
   "pulls": [
+    {
+      "id": 902,
+      "name": "basculegion-male",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/902.png",
+      "types": [
+        "water",
+        "ghost"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-10-23T19:20:26.985Z"
+    },
     {
       "id": 718,
       "name": "zygarde-50",
@@ -118,17 +130,6 @@
       "totalStats": 303,
       "grade": "N",
       "pulledAt": "2026-10-22T05:36:14.732Z"
-    },
-    {
-      "id": 529,
-      "name": "drilbur",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/529.png",
-      "types": [
-        "ground"
-      ],
-      "totalStats": 328,
-      "grade": "N",
-      "pulledAt": "2026-10-22T00:55:37.522Z"
     }
   ],
   "pokemon": {
@@ -2841,6 +2842,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T01:42:20.349Z",
       "lastPulledAt": "2026-09-23T21:43:19.408Z"
+    },
+    "902": {
+      "id": 902,
+      "name": "basculegion-male",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/902.png",
+      "types": [
+        "water",
+        "ghost"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-10-23T19:20:26.985Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-23T19:20:26.985Z",
+      "lastPulledAt": "2026-10-23T19:20:26.985Z"
     },
     "903": {
       "id": 903,
