@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 213,
-  "updatedAt": "2026-10-23T00:53:16.618Z",
+  "totalPulls": 214,
+  "updatedAt": "2026-10-23T05:32:40.304Z",
   "lastPull": {
-    "id": 578,
-    "name": "duosion",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/578.png",
+    "id": 59,
+    "name": "arcanine",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png",
     "types": [
-      "psychic"
+      "fire"
     ],
-    "totalStats": 370,
-    "grade": "N",
-    "pulledAt": "2026-10-23T00:53:16.618Z"
+    "totalStats": 555,
+    "grade": "SR",
+    "pulledAt": "2026-10-23T05:32:40.304Z"
   },
   "pulls": [
+    {
+      "id": 59,
+      "name": "arcanine",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 555,
+      "grade": "SR",
+      "pulledAt": "2026-10-23T05:32:40.304Z"
+    },
     {
       "id": 578,
       "name": "duosion",
@@ -116,17 +127,6 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-10-21T19:32:22.356Z"
-    },
-    {
-      "id": 182,
-      "name": "bellossom",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/182.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-10-21T15:33:05.572Z"
     }
   ],
   "pokemon": {
@@ -313,6 +313,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-02T14:49:37.999Z",
       "lastPulledAt": "2026-10-02T14:49:37.999Z"
+    },
+    "59": {
+      "id": 59,
+      "name": "arcanine",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 555,
+      "grade": "SR",
+      "pulledAt": "2026-10-23T05:32:40.304Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-23T05:32:40.304Z",
+      "lastPulledAt": "2026-10-23T05:32:40.304Z"
     },
     "63": {
       "id": 63,
