@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 217,
-  "updatedAt": "2026-10-23T19:20:26.985Z",
+  "totalPulls": 218,
+  "updatedAt": "2026-10-23T22:25:20.202Z",
   "lastPull": {
-    "id": 902,
-    "name": "basculegion-male",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/902.png",
+    "id": 293,
+    "name": "whismur",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/293.png",
     "types": [
-      "water",
-      "ghost"
+      "normal"
     ],
-    "totalStats": 530,
-    "grade": "SR",
-    "pulledAt": "2026-10-23T19:20:26.985Z"
+    "totalStats": 240,
+    "grade": "N",
+    "pulledAt": "2026-10-23T22:25:20.202Z"
   },
   "pulls": [
+    {
+      "id": 293,
+      "name": "whismur",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/293.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 240,
+      "grade": "N",
+      "pulledAt": "2026-10-23T22:25:20.202Z"
+    },
     {
       "id": 902,
       "name": "basculegion-male",
@@ -118,18 +128,6 @@
       "totalStats": 340,
       "grade": "N",
       "pulledAt": "2026-10-22T10:35:16.174Z"
-    },
-    {
-      "id": 622,
-      "name": "golett",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/622.png",
-      "types": [
-        "ground",
-        "ghost"
-      ],
-      "totalStats": 303,
-      "grade": "N",
-      "pulledAt": "2026-10-22T05:36:14.732Z"
     }
   ],
   "pokemon": {
@@ -958,10 +956,10 @@
       "totalStats": 240,
       "grade": "N",
       "pulledAt": "2026-09-27T15:31:45.764Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T15:31:45.764Z",
-      "lastPulledAt": "2026-09-27T15:31:45.764Z"
+      "lastPulledAt": "2026-10-23T22:25:20.202Z"
     },
     "295": {
       "id": 295,
