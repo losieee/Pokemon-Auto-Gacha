@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 214,
-  "updatedAt": "2026-10-23T05:32:40.304Z",
+  "totalPulls": 215,
+  "updatedAt": "2026-10-23T10:27:35.626Z",
   "lastPull": {
-    "id": 59,
-    "name": "arcanine",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png",
+    "id": 589,
+    "name": "escavalier",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/589.png",
     "types": [
-      "fire"
+      "bug",
+      "steel"
     ],
-    "totalStats": 555,
-    "grade": "SR",
-    "pulledAt": "2026-10-23T05:32:40.304Z"
+    "totalStats": 495,
+    "grade": "R",
+    "pulledAt": "2026-10-23T10:27:35.626Z"
   },
   "pulls": [
+    {
+      "id": 589,
+      "name": "escavalier",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/589.png",
+      "types": [
+        "bug",
+        "steel"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-10-23T10:27:35.626Z"
+    },
     {
       "id": 59,
       "name": "arcanine",
@@ -115,18 +128,6 @@
       "totalStats": 270,
       "grade": "N",
       "pulledAt": "2026-10-21T22:40:47.845Z"
-    },
-    {
-      "id": 375,
-      "name": "metang",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/375.png",
-      "types": [
-        "steel",
-        "psychic"
-      ],
-      "totalStats": 420,
-      "grade": "R",
-      "pulledAt": "2026-10-21T19:32:22.356Z"
     }
   ],
   "pokemon": {
@@ -1980,10 +1981,10 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-10-18T00:25:17.219Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-18T00:25:17.219Z",
-      "lastPulledAt": "2026-10-18T00:25:17.219Z"
+      "lastPulledAt": "2026-10-23T10:27:35.626Z"
     },
     "597": {
       "id": 597,
