@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 219,
-  "updatedAt": "2026-10-24T00:51:58.855Z",
+  "totalPulls": 220,
+  "updatedAt": "2026-10-24T05:11:37.913Z",
   "lastPull": {
-    "id": 603,
-    "name": "eelektrik",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/603.png",
+    "id": 576,
+    "name": "gothitelle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/576.png",
     "types": [
-      "electric"
+      "psychic"
     ],
-    "totalStats": 405,
+    "totalStats": 490,
     "grade": "R",
-    "pulledAt": "2026-10-24T00:51:58.855Z"
+    "pulledAt": "2026-10-24T05:11:37.913Z"
   },
   "pulls": [
+    {
+      "id": 576,
+      "name": "gothitelle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/576.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-10-24T05:11:37.913Z"
+    },
     {
       "id": 603,
       "name": "eelektrik",
@@ -116,18 +127,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-10-22T19:25:33.410Z"
-    },
-    {
-      "id": 247,
-      "name": "pupitar",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/247.png",
-      "types": [
-        "rock",
-        "ground"
-      ],
-      "totalStats": 410,
-      "grade": "R",
-      "pulledAt": "2026-10-22T15:34:52.758Z"
     }
   ],
   "pokemon": {
@@ -1922,6 +1921,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T22:10:25.489Z",
       "lastPulledAt": "2026-09-22T22:10:25.489Z"
+    },
+    "576": {
+      "id": 576,
+      "name": "gothitelle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/576.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-10-24T05:11:37.913Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-24T05:11:37.913Z",
+      "lastPulledAt": "2026-10-24T05:11:37.913Z"
     },
     "578": {
       "id": 578,
