@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 223,
-  "updatedAt": "2026-10-24T16:53:44.507Z",
+  "totalPulls": 224,
+  "updatedAt": "2026-10-24T19:08:01.378Z",
   "lastPull": {
-    "id": 1016,
-    "name": "fezandipiti",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1016.png",
+    "id": 42,
+    "name": "golbat",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/42.png",
     "types": [
       "poison",
-      "fairy"
+      "flying"
     ],
-    "totalStats": 555,
-    "grade": "SR",
-    "pulledAt": "2026-10-24T16:53:44.507Z"
+    "totalStats": 455,
+    "grade": "R",
+    "pulledAt": "2026-10-24T19:08:01.378Z"
   },
   "pulls": [
+    {
+      "id": 42,
+      "name": "golbat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/42.png",
+      "types": [
+        "poison",
+        "flying"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-10-24T19:08:01.378Z"
+    },
     {
       "id": 1016,
       "name": "fezandipiti",
@@ -117,17 +129,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-10-23T10:27:35.626Z"
-    },
-    {
-      "id": 59,
-      "name": "arcanine",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 555,
-      "grade": "SR",
-      "pulledAt": "2026-10-23T05:32:40.304Z"
     }
   ],
   "pokemon": {
@@ -283,6 +284,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-19T22:45:14.968Z",
       "lastPulledAt": "2026-10-19T22:45:14.968Z"
+    },
+    "42": {
+      "id": 42,
+      "name": "golbat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/42.png",
+      "types": [
+        "poison",
+        "flying"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-10-24T19:08:01.378Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-24T19:08:01.378Z",
+      "lastPulledAt": "2026-10-24T19:08:01.378Z"
     },
     "48": {
       "id": 48,
