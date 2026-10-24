@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 220,
-  "updatedAt": "2026-10-24T05:11:37.913Z",
+  "totalPulls": 221,
+  "updatedAt": "2026-10-24T09:33:16.230Z",
   "lastPull": {
-    "id": 576,
-    "name": "gothitelle",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/576.png",
+    "id": 200,
+    "name": "misdreavus",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/200.png",
     "types": [
-      "psychic"
+      "ghost"
     ],
-    "totalStats": 490,
+    "totalStats": 435,
     "grade": "R",
-    "pulledAt": "2026-10-24T05:11:37.913Z"
+    "pulledAt": "2026-10-24T09:33:16.230Z"
   },
   "pulls": [
+    {
+      "id": 200,
+      "name": "misdreavus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/200.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 435,
+      "grade": "R",
+      "pulledAt": "2026-10-24T09:33:16.230Z"
+    },
     {
       "id": 576,
       "name": "gothitelle",
@@ -116,17 +127,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-10-22T22:32:19.986Z"
-    },
-    {
-      "id": 626,
-      "name": "bouffalant",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/626.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-10-22T19:25:33.410Z"
     }
   ],
   "pokemon": {
@@ -713,6 +713,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-30T21:05:16.641Z",
       "lastPulledAt": "2026-09-30T21:05:16.641Z"
+    },
+    "200": {
+      "id": 200,
+      "name": "misdreavus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/200.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 435,
+      "grade": "R",
+      "pulledAt": "2026-10-24T09:33:16.230Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-24T09:33:16.230Z",
+      "lastPulledAt": "2026-10-24T09:33:16.230Z"
     },
     "201": {
       "id": 201,
