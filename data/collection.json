@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 218,
-  "updatedAt": "2026-10-23T22:25:20.202Z",
+  "totalPulls": 219,
+  "updatedAt": "2026-10-24T00:51:58.855Z",
   "lastPull": {
-    "id": 293,
-    "name": "whismur",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/293.png",
+    "id": 603,
+    "name": "eelektrik",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/603.png",
     "types": [
-      "normal"
+      "electric"
     ],
-    "totalStats": 240,
-    "grade": "N",
-    "pulledAt": "2026-10-23T22:25:20.202Z"
+    "totalStats": 405,
+    "grade": "R",
+    "pulledAt": "2026-10-24T00:51:58.855Z"
   },
   "pulls": [
+    {
+      "id": 603,
+      "name": "eelektrik",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/603.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-10-24T00:51:58.855Z"
+    },
     {
       "id": 293,
       "name": "whismur",
@@ -117,17 +128,6 @@
       "totalStats": 410,
       "grade": "R",
       "pulledAt": "2026-10-22T15:34:52.758Z"
-    },
-    {
-      "id": 120,
-      "name": "staryu",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/120.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 340,
-      "grade": "N",
-      "pulledAt": "2026-10-22T10:35:16.174Z"
     }
   ],
   "pokemon": {
@@ -2027,10 +2027,10 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-09-21T22:43:26.172Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T22:43:26.172Z",
-      "lastPulledAt": "2026-09-21T22:43:26.172Z"
+      "lastPulledAt": "2026-10-24T00:51:58.855Z"
     },
     "605": {
       "id": 605,
