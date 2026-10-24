@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 222,
-  "updatedAt": "2026-10-24T13:33:06.668Z",
+  "totalPulls": 223,
+  "updatedAt": "2026-10-24T16:53:44.507Z",
   "lastPull": {
-    "id": 352,
-    "name": "kecleon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/352.png",
+    "id": 1016,
+    "name": "fezandipiti",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1016.png",
     "types": [
-      "normal"
+      "poison",
+      "fairy"
     ],
-    "totalStats": 440,
-    "grade": "R",
-    "pulledAt": "2026-10-24T13:33:06.668Z"
+    "totalStats": 555,
+    "grade": "SR",
+    "pulledAt": "2026-10-24T16:53:44.507Z"
   },
   "pulls": [
+    {
+      "id": 1016,
+      "name": "fezandipiti",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1016.png",
+      "types": [
+        "poison",
+        "fairy"
+      ],
+      "totalStats": 555,
+      "grade": "SR",
+      "pulledAt": "2026-10-24T16:53:44.507Z"
+    },
     {
       "id": 352,
       "name": "kecleon",
@@ -115,17 +128,6 @@
       "totalStats": 555,
       "grade": "SR",
       "pulledAt": "2026-10-23T05:32:40.304Z"
-    },
-    {
-      "id": 578,
-      "name": "duosion",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/578.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 370,
-      "grade": "N",
-      "pulledAt": "2026-10-23T00:53:16.618Z"
     }
   ],
   "pokemon": {
@@ -3209,6 +3211,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T17:23:38.105Z",
       "lastPulledAt": "2026-09-26T17:23:38.105Z"
+    },
+    "1016": {
+      "id": 1016,
+      "name": "fezandipiti",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1016.png",
+      "types": [
+        "poison",
+        "fairy"
+      ],
+      "totalStats": 555,
+      "grade": "SR",
+      "pulledAt": "2026-10-24T16:53:44.507Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-24T16:53:44.507Z",
+      "lastPulledAt": "2026-10-24T16:53:44.507Z"
     },
     "1023": {
       "id": 1023,
