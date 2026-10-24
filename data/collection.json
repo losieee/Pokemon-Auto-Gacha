@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 224,
-  "updatedAt": "2026-10-24T19:08:01.378Z",
+  "totalPulls": 225,
+  "updatedAt": "2026-10-24T21:33:49.621Z",
   "lastPull": {
-    "id": 42,
-    "name": "golbat",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/42.png",
+    "id": 514,
+    "name": "simisear",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/514.png",
     "types": [
-      "poison",
-      "flying"
+      "fire"
     ],
-    "totalStats": 455,
+    "totalStats": 498,
     "grade": "R",
-    "pulledAt": "2026-10-24T19:08:01.378Z"
+    "pulledAt": "2026-10-24T21:33:49.621Z"
   },
   "pulls": [
+    {
+      "id": 514,
+      "name": "simisear",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/514.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 498,
+      "grade": "R",
+      "pulledAt": "2026-10-24T21:33:49.621Z"
+    },
     {
       "id": 42,
       "name": "golbat",
@@ -117,18 +127,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-10-23T15:19:54.961Z"
-    },
-    {
-      "id": 589,
-      "name": "escavalier",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/589.png",
-      "types": [
-        "bug",
-        "steel"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-10-23T10:27:35.626Z"
     }
   ],
   "pokemon": {
@@ -1776,10 +1774,10 @@
       "totalStats": 498,
       "grade": "R",
       "pulledAt": "2026-09-24T03:15:20.116Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T03:15:20.116Z",
-      "lastPulledAt": "2026-09-24T03:15:20.116Z"
+      "lastPulledAt": "2026-10-24T21:33:49.621Z"
     },
     "519": {
       "id": 519,
