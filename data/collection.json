@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 225,
-  "updatedAt": "2026-10-24T21:33:49.621Z",
+  "totalPulls": 226,
+  "updatedAt": "2026-10-24T23:38:32.193Z",
   "lastPull": {
-    "id": 514,
-    "name": "simisear",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/514.png",
+    "id": 995,
+    "name": "iron-thorns",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/995.png",
     "types": [
-      "fire"
+      "rock",
+      "electric"
     ],
-    "totalStats": 498,
-    "grade": "R",
-    "pulledAt": "2026-10-24T21:33:49.621Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-10-24T23:38:32.193Z"
   },
   "pulls": [
+    {
+      "id": 995,
+      "name": "iron-thorns",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/995.png",
+      "types": [
+        "rock",
+        "electric"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-24T23:38:32.193Z"
+    },
     {
       "id": 514,
       "name": "simisear",
@@ -115,18 +128,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-10-23T19:20:26.985Z"
-    },
-    {
-      "id": 718,
-      "name": "zygarde-50",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/718.png",
-      "types": [
-        "dragon",
-        "ground"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-10-23T15:19:54.961Z"
     }
   ],
   "pokemon": {
@@ -3194,6 +3195,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T22:04:07.533Z",
       "lastPulledAt": "2026-09-16T22:04:07.533Z"
+    },
+    "995": {
+      "id": 995,
+      "name": "iron-thorns",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/995.png",
+      "types": [
+        "rock",
+        "electric"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-24T23:38:32.193Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-24T23:38:32.193Z",
+      "lastPulledAt": "2026-10-24T23:38:32.193Z"
     },
     "1000": {
       "id": 1000,
