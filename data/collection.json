@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 229,
-  "updatedAt": "2026-10-25T12:02:34.987Z",
+  "totalPulls": 230,
+  "updatedAt": "2026-10-25T16:02:26.218Z",
   "lastPull": {
-    "id": 646,
-    "name": "kyurem",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/646.png",
+    "id": 143,
+    "name": "snorlax",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png",
     "types": [
-      "dragon",
-      "ice"
+      "normal"
     ],
-    "totalStats": 660,
-    "grade": "SSR",
-    "pulledAt": "2026-10-25T12:02:34.987Z"
+    "totalStats": 540,
+    "grade": "SR",
+    "pulledAt": "2026-10-25T16:02:26.218Z"
   },
   "pulls": [
+    {
+      "id": 143,
+      "name": "snorlax",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 540,
+      "grade": "SR",
+      "pulledAt": "2026-10-25T16:02:26.218Z"
+    },
     {
       "id": 646,
       "name": "kyurem",
@@ -118,17 +128,6 @@
       "totalStats": 435,
       "grade": "R",
       "pulledAt": "2026-10-24T09:33:16.230Z"
-    },
-    {
-      "id": 576,
-      "name": "gothitelle",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/576.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-10-24T05:11:37.913Z"
     }
   ],
   "pokemon": {
@@ -577,6 +576,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-05T22:14:32.632Z",
       "lastPulledAt": "2026-10-05T22:14:32.632Z"
+    },
+    "143": {
+      "id": 143,
+      "name": "snorlax",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 540,
+      "grade": "SR",
+      "pulledAt": "2026-10-25T16:02:26.218Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-25T16:02:26.218Z",
+      "lastPulledAt": "2026-10-25T16:02:26.218Z"
     },
     "152": {
       "id": 152,
