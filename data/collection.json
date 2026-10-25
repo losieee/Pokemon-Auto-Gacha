@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 228,
-  "updatedAt": "2026-10-25T06:45:09.252Z",
+  "totalPulls": 229,
+  "updatedAt": "2026-10-25T12:02:34.987Z",
   "lastPull": {
-    "id": 533,
-    "name": "gurdurr",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/533.png",
+    "id": 646,
+    "name": "kyurem",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/646.png",
     "types": [
-      "fighting"
+      "dragon",
+      "ice"
     ],
-    "totalStats": 405,
-    "grade": "R",
-    "pulledAt": "2026-10-25T06:45:09.252Z"
+    "totalStats": 660,
+    "grade": "SSR",
+    "pulledAt": "2026-10-25T12:02:34.987Z"
   },
   "pulls": [
+    {
+      "id": 646,
+      "name": "kyurem",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/646.png",
+      "types": [
+        "dragon",
+        "ice"
+      ],
+      "totalStats": 660,
+      "grade": "SSR",
+      "pulledAt": "2026-10-25T12:02:34.987Z"
+    },
     {
       "id": 533,
       "name": "gurdurr",
@@ -116,17 +129,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-10-24T05:11:37.913Z"
-    },
-    {
-      "id": 603,
-      "name": "eelektrik",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/603.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-10-24T00:51:58.855Z"
     }
   ],
   "pokemon": {
@@ -2199,6 +2201,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T06:22:41.913Z",
       "lastPulledAt": "2026-10-04T06:22:41.913Z"
+    },
+    "646": {
+      "id": 646,
+      "name": "kyurem",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/646.png",
+      "types": [
+        "dragon",
+        "ice"
+      ],
+      "totalStats": 660,
+      "grade": "SSR",
+      "pulledAt": "2026-10-25T12:02:34.987Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-25T12:02:34.987Z",
+      "lastPulledAt": "2026-10-25T12:02:34.987Z"
     },
     "647": {
       "id": 647,
