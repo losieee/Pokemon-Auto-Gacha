@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 226,
-  "updatedAt": "2026-10-24T23:38:32.193Z",
+  "totalPulls": 227,
+  "updatedAt": "2026-10-25T01:35:40.810Z",
   "lastPull": {
-    "id": 995,
-    "name": "iron-thorns",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/995.png",
+    "id": 652,
+    "name": "chesnaught",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/652.png",
     "types": [
-      "rock",
-      "electric"
+      "grass",
+      "fighting"
     ],
-    "totalStats": 570,
+    "totalStats": 530,
     "grade": "SR",
-    "pulledAt": "2026-10-24T23:38:32.193Z"
+    "pulledAt": "2026-10-25T01:35:40.810Z"
   },
   "pulls": [
+    {
+      "id": 652,
+      "name": "chesnaught",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/652.png",
+      "types": [
+        "grass",
+        "fighting"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-10-25T01:35:40.810Z"
+    },
     {
       "id": 995,
       "name": "iron-thorns",
@@ -116,18 +128,6 @@
       "totalStats": 240,
       "grade": "N",
       "pulledAt": "2026-10-23T22:25:20.202Z"
-    },
-    {
-      "id": 902,
-      "name": "basculegion-male",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/902.png",
-      "types": [
-        "water",
-        "ghost"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-10-23T19:20:26.985Z"
     }
   ],
   "pokemon": {
@@ -2201,6 +2201,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-22T22:32:19.986Z",
       "lastPulledAt": "2026-10-22T22:32:19.986Z"
+    },
+    "652": {
+      "id": 652,
+      "name": "chesnaught",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/652.png",
+      "types": [
+        "grass",
+        "fighting"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-10-25T01:35:40.810Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-25T01:35:40.810Z",
+      "lastPulledAt": "2026-10-25T01:35:40.810Z"
     },
     "653": {
       "id": 653,
