@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 232,
-  "updatedAt": "2026-10-25T21:19:01.376Z",
+  "totalPulls": 233,
+  "updatedAt": "2026-10-25T23:19:49.991Z",
   "lastPull": {
-    "id": 677,
-    "name": "espurr",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/677.png",
+    "id": 303,
+    "name": "mawile",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/303.png",
     "types": [
-      "psychic"
+      "steel",
+      "fairy"
     ],
-    "totalStats": 355,
+    "totalStats": 380,
     "grade": "N",
-    "pulledAt": "2026-10-25T21:19:01.376Z"
+    "pulledAt": "2026-10-25T23:19:49.991Z"
   },
   "pulls": [
+    {
+      "id": 303,
+      "name": "mawile",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/303.png",
+      "types": [
+        "steel",
+        "fairy"
+      ],
+      "totalStats": 380,
+      "grade": "N",
+      "pulledAt": "2026-10-25T23:19:49.991Z"
+    },
     {
       "id": 677,
       "name": "espurr",
@@ -116,18 +129,6 @@
       "totalStats": 455,
       "grade": "R",
       "pulledAt": "2026-10-24T19:08:01.378Z"
-    },
-    {
-      "id": 1016,
-      "name": "fezandipiti",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1016.png",
-      "types": [
-        "poison",
-        "fairy"
-      ],
-      "totalStats": 555,
-      "grade": "SR",
-      "pulledAt": "2026-10-24T16:53:44.507Z"
     }
   ],
   "pokemon": {
@@ -1036,6 +1037,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T17:40:48.952Z",
       "lastPulledAt": "2026-09-20T17:40:48.952Z"
+    },
+    "303": {
+      "id": 303,
+      "name": "mawile",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/303.png",
+      "types": [
+        "steel",
+        "fairy"
+      ],
+      "totalStats": 380,
+      "grade": "N",
+      "pulledAt": "2026-10-25T23:19:49.991Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-25T23:19:49.991Z",
+      "lastPulledAt": "2026-10-25T23:19:49.991Z"
     },
     "304": {
       "id": 304,
