@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 230,
-  "updatedAt": "2026-10-25T16:02:26.218Z",
+  "totalPulls": 231,
+  "updatedAt": "2026-10-25T18:55:52.829Z",
   "lastPull": {
-    "id": 143,
-    "name": "snorlax",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png",
+    "id": 588,
+    "name": "karrablast",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/588.png",
     "types": [
-      "normal"
+      "bug"
     ],
-    "totalStats": 540,
-    "grade": "SR",
-    "pulledAt": "2026-10-25T16:02:26.218Z"
+    "totalStats": 315,
+    "grade": "N",
+    "pulledAt": "2026-10-25T18:55:52.829Z"
   },
   "pulls": [
+    {
+      "id": 588,
+      "name": "karrablast",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/588.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 315,
+      "grade": "N",
+      "pulledAt": "2026-10-25T18:55:52.829Z"
+    },
     {
       "id": 143,
       "name": "snorlax",
@@ -117,17 +128,6 @@
       "totalStats": 440,
       "grade": "R",
       "pulledAt": "2026-10-24T13:33:06.668Z"
-    },
-    {
-      "id": 200,
-      "name": "misdreavus",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/200.png",
-      "types": [
-        "ghost"
-      ],
-      "totalStats": 435,
-      "grade": "R",
-      "pulledAt": "2026-10-24T09:33:16.230Z"
     }
   ],
   "pokemon": {
@@ -2060,6 +2060,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T23:42:27.760Z",
       "lastPulledAt": "2026-10-15T11:47:37.654Z"
+    },
+    "588": {
+      "id": 588,
+      "name": "karrablast",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/588.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 315,
+      "grade": "N",
+      "pulledAt": "2026-10-25T18:55:52.829Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-25T18:55:52.829Z",
+      "lastPulledAt": "2026-10-25T18:55:52.829Z"
     },
     "589": {
       "id": 589,
