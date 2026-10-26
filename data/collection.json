@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 237,
-  "updatedAt": "2026-10-26T19:27:02.514Z",
+  "totalPulls": 238,
+  "updatedAt": "2026-10-26T23:14:02.547Z",
   "lastPull": {
-    "id": 255,
-    "name": "torchic",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/255.png",
+    "id": 167,
+    "name": "spinarak",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/167.png",
     "types": [
-      "fire"
+      "bug",
+      "poison"
     ],
-    "totalStats": 310,
+    "totalStats": 250,
     "grade": "N",
-    "pulledAt": "2026-10-26T19:27:02.514Z"
+    "pulledAt": "2026-10-26T23:14:02.547Z"
   },
   "pulls": [
+    {
+      "id": 167,
+      "name": "spinarak",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/167.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 250,
+      "grade": "N",
+      "pulledAt": "2026-10-26T23:14:02.547Z"
+    },
     {
       "id": 255,
       "name": "torchic",
@@ -114,17 +127,6 @@
       "totalStats": 660,
       "grade": "SSR",
       "pulledAt": "2026-10-25T12:02:34.987Z"
-    },
-    {
-      "id": 533,
-      "name": "gurdurr",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/533.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-10-25T06:45:09.252Z"
     }
   ],
   "pokemon": {
@@ -650,6 +652,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T11:42:44.153Z",
       "lastPulledAt": "2026-09-22T11:42:44.153Z"
+    },
+    "167": {
+      "id": 167,
+      "name": "spinarak",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/167.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 250,
+      "grade": "N",
+      "pulledAt": "2026-10-26T23:14:02.547Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-26T23:14:02.547Z",
+      "lastPulledAt": "2026-10-26T23:14:02.547Z"
     },
     "172": {
       "id": 172,
