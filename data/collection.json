@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 233,
-  "updatedAt": "2026-10-25T23:19:49.991Z",
+  "totalPulls": 234,
+  "updatedAt": "2026-10-26T01:18:47.415Z",
   "lastPull": {
-    "id": 303,
-    "name": "mawile",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/303.png",
+    "id": 467,
+    "name": "magmortar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/467.png",
     "types": [
-      "steel",
-      "fairy"
+      "fire"
     ],
-    "totalStats": 380,
-    "grade": "N",
-    "pulledAt": "2026-10-25T23:19:49.991Z"
+    "totalStats": 540,
+    "grade": "SR",
+    "pulledAt": "2026-10-26T01:18:47.415Z"
   },
   "pulls": [
+    {
+      "id": 467,
+      "name": "magmortar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/467.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 540,
+      "grade": "SR",
+      "pulledAt": "2026-10-26T01:18:47.415Z"
+    },
     {
       "id": 303,
       "name": "mawile",
@@ -117,18 +127,6 @@
       "totalStats": 498,
       "grade": "R",
       "pulledAt": "2026-10-24T21:33:49.621Z"
-    },
-    {
-      "id": 42,
-      "name": "golbat",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/42.png",
-      "types": [
-        "poison",
-        "flying"
-      ],
-      "totalStats": 455,
-      "grade": "R",
-      "pulledAt": "2026-10-24T19:08:01.378Z"
     }
   ],
   "pokemon": {
@@ -1625,6 +1623,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-28T19:45:49.434Z",
       "lastPulledAt": "2026-10-09T14:36:56.092Z"
+    },
+    "467": {
+      "id": 467,
+      "name": "magmortar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/467.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 540,
+      "grade": "SR",
+      "pulledAt": "2026-10-26T01:18:47.415Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-26T01:18:47.415Z",
+      "lastPulledAt": "2026-10-26T01:18:47.415Z"
     },
     "468": {
       "id": 468,
