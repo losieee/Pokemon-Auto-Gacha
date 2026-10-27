@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 242,
-  "updatedAt": "2026-10-27T18:55:36.691Z",
+  "totalPulls": 243,
+  "updatedAt": "2026-10-27T22:44:54.872Z",
   "lastPull": {
-    "id": 946,
-    "name": "bramblin",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/946.png",
+    "id": 974,
+    "name": "cetoddle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/974.png",
     "types": [
-      "grass",
-      "ghost"
+      "ice"
     ],
-    "totalStats": 275,
+    "totalStats": 334,
     "grade": "N",
-    "pulledAt": "2026-10-27T18:55:36.691Z"
+    "pulledAt": "2026-10-27T22:44:54.872Z"
   },
   "pulls": [
+    {
+      "id": 974,
+      "name": "cetoddle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/974.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 334,
+      "grade": "N",
+      "pulledAt": "2026-10-27T22:44:54.872Z"
+    },
     {
       "id": 946,
       "name": "bramblin",
@@ -117,18 +127,6 @@
       "totalStats": 540,
       "grade": "SR",
       "pulledAt": "2026-10-26T01:18:47.415Z"
-    },
-    {
-      "id": 303,
-      "name": "mawile",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/303.png",
-      "types": [
-        "steel",
-        "fairy"
-      ],
-      "totalStats": 380,
-      "grade": "N",
-      "pulledAt": "2026-10-25T23:19:49.991Z"
     }
   ],
   "pokemon": {
@@ -3287,6 +3285,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-20T19:37:15.166Z",
       "lastPulledAt": "2026-10-20T19:37:15.166Z"
+    },
+    "974": {
+      "id": 974,
+      "name": "cetoddle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/974.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 334,
+      "grade": "N",
+      "pulledAt": "2026-10-27T22:44:54.872Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-27T22:44:54.872Z",
+      "lastPulledAt": "2026-10-27T22:44:54.872Z"
     },
     "975": {
       "id": 975,
