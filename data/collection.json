@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 244,
-  "updatedAt": "2026-10-28T01:45:07.132Z",
+  "totalPulls": 245,
+  "updatedAt": "2026-10-28T07:28:58.324Z",
   "lastPull": {
-    "id": 495,
-    "name": "snivy",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/495.png",
+    "id": 464,
+    "name": "rhyperior",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/464.png",
     "types": [
-      "grass"
+      "ground",
+      "rock"
     ],
-    "totalStats": 308,
-    "grade": "N",
-    "pulledAt": "2026-10-28T01:45:07.132Z"
+    "totalStats": 535,
+    "grade": "SR",
+    "pulledAt": "2026-10-28T07:28:58.324Z"
   },
   "pulls": [
+    {
+      "id": 464,
+      "name": "rhyperior",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/464.png",
+      "types": [
+        "ground",
+        "rock"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-10-28T07:28:58.324Z"
+    },
     {
       "id": 495,
       "name": "snivy",
@@ -116,17 +129,6 @@
       "totalStats": 303,
       "grade": "N",
       "pulledAt": "2026-10-26T13:22:15.327Z"
-    },
-    {
-      "id": 10,
-      "name": "caterpie",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 195,
-      "grade": "N",
-      "pulledAt": "2026-10-26T06:22:25.490Z"
     }
   ],
   "pokemon": {
@@ -1670,6 +1672,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-28T19:45:49.434Z",
       "lastPulledAt": "2026-10-09T14:36:56.092Z"
+    },
+    "464": {
+      "id": 464,
+      "name": "rhyperior",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/464.png",
+      "types": [
+        "ground",
+        "rock"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-10-28T07:28:58.324Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-28T07:28:58.324Z",
+      "lastPulledAt": "2026-10-28T07:28:58.324Z"
     },
     "467": {
       "id": 467,
