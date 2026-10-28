@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 246,
-  "updatedAt": "2026-10-28T14:17:52.100Z",
+  "totalPulls": 247,
+  "updatedAt": "2026-10-28T19:37:33.548Z",
   "lastPull": {
-    "id": 223,
-    "name": "remoraid",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/223.png",
+    "id": 660,
+    "name": "diggersby",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/660.png",
     "types": [
-      "water"
+      "normal",
+      "ground"
     ],
-    "totalStats": 300,
-    "grade": "N",
-    "pulledAt": "2026-10-28T14:17:52.100Z"
+    "totalStats": 423,
+    "grade": "R",
+    "pulledAt": "2026-10-28T19:37:33.548Z"
   },
   "pulls": [
+    {
+      "id": 660,
+      "name": "diggersby",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/660.png",
+      "types": [
+        "normal",
+        "ground"
+      ],
+      "totalStats": 423,
+      "grade": "R",
+      "pulledAt": "2026-10-28T19:37:33.548Z"
+    },
     {
       "id": 223,
       "name": "remoraid",
@@ -117,17 +130,6 @@
       "totalStats": 250,
       "grade": "N",
       "pulledAt": "2026-10-26T23:14:02.547Z"
-    },
-    {
-      "id": 255,
-      "name": "torchic",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/255.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 310,
-      "grade": "N",
-      "pulledAt": "2026-10-26T19:27:02.514Z"
     }
   ],
   "pokemon": {
@@ -2432,6 +2434,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T08:00:49.722Z",
       "lastPulledAt": "2026-09-25T08:00:49.722Z"
+    },
+    "660": {
+      "id": 660,
+      "name": "diggersby",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/660.png",
+      "types": [
+        "normal",
+        "ground"
+      ],
+      "totalStats": 423,
+      "grade": "R",
+      "pulledAt": "2026-10-28T19:37:33.548Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-28T19:37:33.548Z",
+      "lastPulledAt": "2026-10-28T19:37:33.548Z"
     },
     "669": {
       "id": 669,
