@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 251,
-  "updatedAt": "2026-10-29T15:43:58.732Z",
+  "totalPulls": 252,
+  "updatedAt": "2026-10-29T20:39:12.326Z",
   "lastPull": {
-    "id": 83,
-    "name": "farfetchd",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/83.png",
+    "id": 750,
+    "name": "mudsdale",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/750.png",
     "types": [
-      "normal",
-      "flying"
+      "ground"
     ],
-    "totalStats": 377,
-    "grade": "N",
-    "pulledAt": "2026-10-29T15:43:58.732Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-10-29T20:39:12.326Z"
   },
   "pulls": [
+    {
+      "id": 750,
+      "name": "mudsdale",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/750.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-29T20:39:12.326Z"
+    },
     {
       "id": 83,
       "name": "farfetchd",
@@ -119,18 +129,6 @@
       "totalStats": 334,
       "grade": "N",
       "pulledAt": "2026-10-27T22:44:54.872Z"
-    },
-    {
-      "id": 946,
-      "name": "bramblin",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/946.png",
-      "types": [
-        "grass",
-        "ghost"
-      ],
-      "totalStats": 275,
-      "grade": "N",
-      "pulledAt": "2026-10-27T18:55:36.691Z"
     }
   ],
   "pokemon": {
@@ -2795,6 +2793,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T22:12:56.207Z",
       "lastPulledAt": "2026-09-27T22:12:56.207Z"
+    },
+    "750": {
+      "id": 750,
+      "name": "mudsdale",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/750.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-29T20:39:12.326Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-29T20:39:12.326Z",
+      "lastPulledAt": "2026-10-29T20:39:12.326Z"
     },
     "754": {
       "id": 754,
