@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 256,
-  "updatedAt": "2026-10-30T18:05:48.973Z",
+  "totalPulls": 257,
+  "updatedAt": "2026-10-30T22:13:16.925Z",
   "lastPull": {
-    "id": 537,
-    "name": "seismitoad",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/537.png",
+    "id": 572,
+    "name": "minccino",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/572.png",
     "types": [
-      "water",
-      "ground"
+      "normal"
     ],
-    "totalStats": 509,
-    "grade": "SR",
-    "pulledAt": "2026-10-30T18:05:48.973Z"
+    "totalStats": 300,
+    "grade": "N",
+    "pulledAt": "2026-10-30T22:13:16.925Z"
   },
   "pulls": [
+    {
+      "id": 572,
+      "name": "minccino",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/572.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-10-30T22:13:16.925Z"
+    },
     {
       "id": 537,
       "name": "seismitoad",
@@ -120,18 +130,6 @@
       "totalStats": 418,
       "grade": "R",
       "pulledAt": "2026-10-28T23:29:47.200Z"
-    },
-    {
-      "id": 660,
-      "name": "diggersby",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/660.png",
-      "types": [
-        "normal",
-        "ground"
-      ],
-      "totalStats": 423,
-      "grade": "R",
-      "pulledAt": "2026-10-28T19:37:33.548Z"
     }
   ],
   "pokemon": {
@@ -2159,6 +2157,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-16T14:17:31.373Z",
       "lastPulledAt": "2026-10-16T14:17:31.373Z"
+    },
+    "572": {
+      "id": 572,
+      "name": "minccino",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/572.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-10-30T22:13:16.925Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-30T22:13:16.925Z",
+      "lastPulledAt": "2026-10-30T22:13:16.925Z"
     },
     "575": {
       "id": 575,
