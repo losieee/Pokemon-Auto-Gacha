@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 254,
-  "updatedAt": "2026-10-30T05:59:11.108Z",
+  "totalPulls": 255,
+  "updatedAt": "2026-10-30T12:14:38.809Z",
   "lastPull": {
-    "id": 1,
-    "name": "bulbasaur",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png",
+    "id": 745,
+    "name": "lycanroc-midday",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/745.png",
     "types": [
-      "grass",
-      "poison"
+      "rock"
     ],
-    "totalStats": 318,
-    "grade": "N",
-    "pulledAt": "2026-10-30T05:59:11.108Z"
+    "totalStats": 487,
+    "grade": "R",
+    "pulledAt": "2026-10-30T12:14:38.809Z"
   },
   "pulls": [
+    {
+      "id": 745,
+      "name": "lycanroc-midday",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/745.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 487,
+      "grade": "R",
+      "pulledAt": "2026-10-30T12:14:38.809Z"
+    },
     {
       "id": 1,
       "name": "bulbasaur",
@@ -120,18 +130,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-10-28T14:17:52.100Z"
-    },
-    {
-      "id": 464,
-      "name": "rhyperior",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/464.png",
-      "types": [
-        "ground",
-        "rock"
-      ],
-      "totalStats": 535,
-      "grade": "SR",
-      "pulledAt": "2026-10-28T07:28:58.324Z"
     }
   ],
   "pokemon": {
@@ -2808,10 +2806,10 @@
       "totalStats": 487,
       "grade": "R",
       "pulledAt": "2026-09-27T22:12:56.207Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T22:12:56.207Z",
-      "lastPulledAt": "2026-09-27T22:12:56.207Z"
+      "lastPulledAt": "2026-10-30T12:14:38.809Z"
     },
     "750": {
       "id": 750,
