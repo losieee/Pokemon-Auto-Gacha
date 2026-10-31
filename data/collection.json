@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 259,
-  "updatedAt": "2026-10-31T07:27:46.182Z",
+  "totalPulls": 260,
+  "updatedAt": "2026-10-31T13:46:03.791Z",
   "lastPull": {
-    "id": 157,
-    "name": "typhlosion",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/157.png",
+    "id": 647,
+    "name": "keldeo-ordinary",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/647.png",
     "types": [
-      "fire"
+      "water",
+      "fighting"
     ],
-    "totalStats": 534,
+    "totalStats": 580,
     "grade": "SR",
-    "pulledAt": "2026-10-31T07:27:46.182Z"
+    "pulledAt": "2026-10-31T13:46:03.791Z"
   },
   "pulls": [
+    {
+      "id": 647,
+      "name": "keldeo-ordinary",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/647.png",
+      "types": [
+        "water",
+        "fighting"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-10-31T13:46:03.791Z"
+    },
     {
       "id": 157,
       "name": "typhlosion",
@@ -116,18 +129,6 @@
       "totalStats": 377,
       "grade": "N",
       "pulledAt": "2026-10-29T15:43:58.732Z"
-    },
-    {
-      "id": 662,
-      "name": "fletchinder",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/662.png",
-      "types": [
-        "fire",
-        "flying"
-      ],
-      "totalStats": 382,
-      "grade": "N",
-      "pulledAt": "2026-10-29T08:55:39.993Z"
     }
   ],
   "pokemon": {
@@ -2460,10 +2461,10 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-10-22T22:32:19.986Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-22T22:32:19.986Z",
-      "lastPulledAt": "2026-10-22T22:32:19.986Z"
+      "lastPulledAt": "2026-10-31T13:46:03.791Z"
     },
     "652": {
       "id": 652,
