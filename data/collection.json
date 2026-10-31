@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 260,
-  "updatedAt": "2026-10-31T13:46:03.791Z",
+  "totalPulls": 261,
+  "updatedAt": "2026-10-31T17:56:25.558Z",
   "lastPull": {
-    "id": 647,
-    "name": "keldeo-ordinary",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/647.png",
+    "id": 573,
+    "name": "cinccino",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/573.png",
     "types": [
-      "water",
-      "fighting"
+      "normal"
     ],
-    "totalStats": 580,
-    "grade": "SR",
-    "pulledAt": "2026-10-31T13:46:03.791Z"
+    "totalStats": 470,
+    "grade": "R",
+    "pulledAt": "2026-10-31T17:56:25.558Z"
   },
   "pulls": [
+    {
+      "id": 573,
+      "name": "cinccino",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/573.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-10-31T17:56:25.558Z"
+    },
     {
       "id": 647,
       "name": "keldeo-ordinary",
@@ -117,18 +127,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-10-29T20:39:12.326Z"
-    },
-    {
-      "id": 83,
-      "name": "farfetchd",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/83.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 377,
-      "grade": "N",
-      "pulledAt": "2026-10-29T15:43:58.732Z"
     }
   ],
   "pokemon": {
@@ -2186,6 +2184,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-30T22:13:16.925Z",
       "lastPulledAt": "2026-10-30T22:13:16.925Z"
+    },
+    "573": {
+      "id": 573,
+      "name": "cinccino",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/573.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-10-31T17:56:25.558Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-31T17:56:25.558Z",
+      "lastPulledAt": "2026-10-31T17:56:25.558Z"
     },
     "575": {
       "id": 575,
