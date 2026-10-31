@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 257,
-  "updatedAt": "2026-10-30T22:13:16.925Z",
+  "totalPulls": 258,
+  "updatedAt": "2026-10-31T01:36:17.738Z",
   "lastPull": {
-    "id": 572,
-    "name": "minccino",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/572.png",
+    "id": 869,
+    "name": "alcremie",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/869.png",
     "types": [
-      "normal"
+      "fairy"
     ],
-    "totalStats": 300,
-    "grade": "N",
-    "pulledAt": "2026-10-30T22:13:16.925Z"
+    "totalStats": 495,
+    "grade": "R",
+    "pulledAt": "2026-10-31T01:36:17.738Z"
   },
   "pulls": [
+    {
+      "id": 869,
+      "name": "alcremie",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/869.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-10-31T01:36:17.738Z"
+    },
     {
       "id": 572,
       "name": "minccino",
@@ -118,18 +129,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-10-29T02:40:12.366Z"
-    },
-    {
-      "id": 499,
-      "name": "pignite",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/499.png",
-      "types": [
-        "fire",
-        "fighting"
-      ],
-      "totalStats": 418,
-      "grade": "R",
-      "pulledAt": "2026-10-28T23:29:47.200Z"
     }
   ],
   "pokemon": {
@@ -3166,6 +3165,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-21T22:40:47.845Z",
       "lastPulledAt": "2026-10-21T22:40:47.845Z"
+    },
+    "869": {
+      "id": 869,
+      "name": "alcremie",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/869.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-10-31T01:36:17.738Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-31T01:36:17.738Z",
+      "lastPulledAt": "2026-10-31T01:36:17.738Z"
     },
     "870": {
       "id": 870,
