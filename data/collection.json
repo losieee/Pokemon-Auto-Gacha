@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 263,
-  "updatedAt": "2026-10-31T23:50:30.957Z",
+  "totalPulls": 264,
+  "updatedAt": "2026-11-01T03:01:31.070Z",
   "lastPull": {
-    "id": 387,
-    "name": "turtwig",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/387.png",
+    "id": 1017,
+    "name": "ogerpon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1017.png",
     "types": [
       "grass"
     ],
-    "totalStats": 318,
-    "grade": "N",
-    "pulledAt": "2026-10-31T23:50:30.957Z"
+    "totalStats": 550,
+    "grade": "SR",
+    "pulledAt": "2026-11-01T03:01:31.070Z"
   },
   "pulls": [
+    {
+      "id": 1017,
+      "name": "ogerpon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1017.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 550,
+      "grade": "SR",
+      "pulledAt": "2026-11-01T03:01:31.070Z"
+    },
     {
       "id": 387,
       "name": "turtwig",
@@ -114,18 +125,6 @@
       "totalStats": 487,
       "grade": "R",
       "pulledAt": "2026-10-30T12:14:38.809Z"
-    },
-    {
-      "id": 1,
-      "name": "bulbasaur",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png",
-      "types": [
-        "grass",
-        "poison"
-      ],
-      "totalStats": 318,
-      "grade": "N",
-      "pulledAt": "2026-10-30T05:59:11.108Z"
     }
   ],
   "pokemon": {
@@ -3690,6 +3689,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-24T16:53:44.507Z",
       "lastPulledAt": "2026-10-24T16:53:44.507Z"
+    },
+    "1017": {
+      "id": 1017,
+      "name": "ogerpon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1017.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 550,
+      "grade": "SR",
+      "pulledAt": "2026-11-01T03:01:31.070Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-01T03:01:31.070Z",
+      "lastPulledAt": "2026-11-01T03:01:31.070Z"
     },
     "1023": {
       "id": 1023,
