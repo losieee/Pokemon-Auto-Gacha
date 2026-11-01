@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 266,
-  "updatedAt": "2026-11-01T16:51:59.331Z",
+  "totalPulls": 267,
+  "updatedAt": "2026-11-01T20:53:39.109Z",
   "lastPull": {
-    "id": 291,
-    "name": "ninjask",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/291.png",
+    "id": 532,
+    "name": "timburr",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/532.png",
     "types": [
-      "bug",
-      "flying"
+      "fighting"
     ],
-    "totalStats": 456,
-    "grade": "R",
-    "pulledAt": "2026-11-01T16:51:59.331Z"
+    "totalStats": 305,
+    "grade": "N",
+    "pulledAt": "2026-11-01T20:53:39.109Z"
   },
   "pulls": [
+    {
+      "id": 532,
+      "name": "timburr",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/532.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-11-01T20:53:39.109Z"
+    },
     {
       "id": 291,
       "name": "ninjask",
@@ -115,17 +125,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-10-31T01:36:17.738Z"
-    },
-    {
-      "id": 572,
-      "name": "minccino",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/572.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-10-30T22:13:16.925Z"
     }
   ],
   "pokemon": {
@@ -2056,6 +2055,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-22T00:55:37.522Z",
       "lastPulledAt": "2026-10-22T00:55:37.522Z"
+    },
+    "532": {
+      "id": 532,
+      "name": "timburr",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/532.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-11-01T20:53:39.109Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-01T20:53:39.109Z",
+      "lastPulledAt": "2026-11-01T20:53:39.109Z"
     },
     "533": {
       "id": 533,
