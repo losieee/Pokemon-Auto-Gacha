@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 264,
-  "updatedAt": "2026-11-01T03:01:31.070Z",
+  "totalPulls": 265,
+  "updatedAt": "2026-11-01T10:20:32.256Z",
   "lastPull": {
-    "id": 1017,
-    "name": "ogerpon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1017.png",
+    "id": 404,
+    "name": "luxio",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/404.png",
     "types": [
-      "grass"
+      "electric"
     ],
-    "totalStats": 550,
-    "grade": "SR",
-    "pulledAt": "2026-11-01T03:01:31.070Z"
+    "totalStats": 363,
+    "grade": "N",
+    "pulledAt": "2026-11-01T10:20:32.256Z"
   },
   "pulls": [
+    {
+      "id": 404,
+      "name": "luxio",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/404.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 363,
+      "grade": "N",
+      "pulledAt": "2026-11-01T10:20:32.256Z"
+    },
     {
       "id": 1017,
       "name": "ogerpon",
@@ -114,17 +125,6 @@
       "totalStats": 509,
       "grade": "SR",
       "pulledAt": "2026-10-30T18:05:48.973Z"
-    },
-    {
-      "id": 745,
-      "name": "lycanroc-midday",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/745.png",
-      "types": [
-        "rock"
-      ],
-      "totalStats": 487,
-      "grade": "R",
-      "pulledAt": "2026-10-30T12:14:38.809Z"
     }
   ],
   "pokemon": {
@@ -1558,6 +1558,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T21:00:23.332Z",
       "lastPulledAt": "2026-09-29T21:00:23.332Z"
+    },
+    "404": {
+      "id": 404,
+      "name": "luxio",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/404.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 363,
+      "grade": "N",
+      "pulledAt": "2026-11-01T10:20:32.256Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-01T10:20:32.256Z",
+      "lastPulledAt": "2026-11-01T10:20:32.256Z"
     },
     "406": {
       "id": 406,
