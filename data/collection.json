@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 265,
-  "updatedAt": "2026-11-01T10:20:32.256Z",
+  "totalPulls": 266,
+  "updatedAt": "2026-11-01T16:51:59.331Z",
   "lastPull": {
-    "id": 404,
-    "name": "luxio",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/404.png",
+    "id": 291,
+    "name": "ninjask",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/291.png",
     "types": [
-      "electric"
+      "bug",
+      "flying"
     ],
-    "totalStats": 363,
-    "grade": "N",
-    "pulledAt": "2026-11-01T10:20:32.256Z"
+    "totalStats": 456,
+    "grade": "R",
+    "pulledAt": "2026-11-01T16:51:59.331Z"
   },
   "pulls": [
+    {
+      "id": 291,
+      "name": "ninjask",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/291.png",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "totalStats": 456,
+      "grade": "R",
+      "pulledAt": "2026-11-01T16:51:59.331Z"
+    },
     {
       "id": 404,
       "name": "luxio",
@@ -113,18 +126,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-10-30T22:13:16.925Z"
-    },
-    {
-      "id": 537,
-      "name": "seismitoad",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/537.png",
-      "types": [
-        "water",
-        "ground"
-      ],
-      "totalStats": 509,
-      "grade": "SR",
-      "pulledAt": "2026-10-30T18:05:48.973Z"
     }
   ],
   "pokemon": {
@@ -1128,6 +1129,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-27T13:37:50.888Z",
       "lastPulledAt": "2026-10-27T13:37:50.888Z"
+    },
+    "291": {
+      "id": 291,
+      "name": "ninjask",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/291.png",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "totalStats": 456,
+      "grade": "R",
+      "pulledAt": "2026-11-01T16:51:59.331Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-01T16:51:59.331Z",
+      "lastPulledAt": "2026-11-01T16:51:59.331Z"
     },
     "293": {
       "id": 293,
