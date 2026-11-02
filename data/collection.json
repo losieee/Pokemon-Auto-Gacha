@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 267,
-  "updatedAt": "2026-11-01T20:53:39.109Z",
+  "totalPulls": 268,
+  "updatedAt": "2026-11-02T00:00:20.334Z",
   "lastPull": {
-    "id": 532,
-    "name": "timburr",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/532.png",
+    "id": 893,
+    "name": "zarude",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/893.png",
     "types": [
-      "fighting"
+      "dark",
+      "grass"
     ],
-    "totalStats": 305,
-    "grade": "N",
-    "pulledAt": "2026-11-01T20:53:39.109Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-11-02T00:00:20.334Z"
   },
   "pulls": [
+    {
+      "id": 893,
+      "name": "zarude",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/893.png",
+      "types": [
+        "dark",
+        "grass"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-11-02T00:00:20.334Z"
+    },
     {
       "id": 532,
       "name": "timburr",
@@ -114,17 +127,6 @@
       "totalStats": 534,
       "grade": "SR",
       "pulledAt": "2026-10-31T07:27:46.182Z"
-    },
-    {
-      "id": 869,
-      "name": "alcremie",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/869.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-10-31T01:36:17.738Z"
     }
   ],
   "pokemon": {
@@ -3330,6 +3332,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-13T03:54:35.705Z",
       "lastPulledAt": "2026-10-13T03:54:35.705Z"
+    },
+    "893": {
+      "id": 893,
+      "name": "zarude",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/893.png",
+      "types": [
+        "dark",
+        "grass"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-11-02T00:00:20.334Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-02T00:00:20.334Z",
+      "lastPulledAt": "2026-11-02T00:00:20.334Z"
     },
     "901": {
       "id": 901,
