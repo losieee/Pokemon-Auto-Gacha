@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 269,
-  "updatedAt": "2026-11-02T05:50:34.443Z",
+  "totalPulls": 270,
+  "updatedAt": "2026-11-02T14:05:09.723Z",
   "lastPull": {
-    "id": 956,
-    "name": "espathra",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/956.png",
+    "id": 365,
+    "name": "walrein",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/365.png",
     "types": [
-      "psychic"
+      "ice",
+      "water"
     ],
-    "totalStats": 481,
-    "grade": "R",
-    "pulledAt": "2026-11-02T05:50:34.443Z"
+    "totalStats": 530,
+    "grade": "SR",
+    "pulledAt": "2026-11-02T14:05:09.723Z"
   },
   "pulls": [
+    {
+      "id": 365,
+      "name": "walrein",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/365.png",
+      "types": [
+        "ice",
+        "water"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-11-02T14:05:09.723Z"
+    },
     {
       "id": 956,
       "name": "espathra",
@@ -114,18 +127,6 @@
       "totalStats": 470,
       "grade": "R",
       "pulledAt": "2026-10-31T17:56:25.558Z"
-    },
-    {
-      "id": 647,
-      "name": "keldeo-ordinary",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/647.png",
-      "types": [
-        "water",
-        "fighting"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-10-31T13:46:03.791Z"
     }
   ],
   "pokemon": {
@@ -1406,6 +1407,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-07T12:02:13.541Z",
       "lastPulledAt": "2026-10-07T12:02:13.541Z"
+    },
+    "365": {
+      "id": 365,
+      "name": "walrein",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/365.png",
+      "types": [
+        "ice",
+        "water"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-11-02T14:05:09.723Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-02T14:05:09.723Z",
+      "lastPulledAt": "2026-11-02T14:05:09.723Z"
     },
     "370": {
       "id": 370,
