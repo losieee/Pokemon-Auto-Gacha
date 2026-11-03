@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 272,
-  "updatedAt": "2026-11-03T03:43:13.322Z",
+  "totalPulls": 273,
+  "updatedAt": "2026-11-03T11:22:23.152Z",
   "lastPull": {
-    "id": 396,
-    "name": "starly",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/396.png",
+    "id": 162,
+    "name": "furret",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/162.png",
     "types": [
-      "normal",
-      "flying"
+      "normal"
     ],
-    "totalStats": 245,
-    "grade": "N",
-    "pulledAt": "2026-11-03T03:43:13.322Z"
+    "totalStats": 415,
+    "grade": "R",
+    "pulledAt": "2026-11-03T11:22:23.152Z"
   },
   "pulls": [
+    {
+      "id": 162,
+      "name": "furret",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/162.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 415,
+      "grade": "R",
+      "pulledAt": "2026-11-03T11:22:23.152Z"
+    },
     {
       "id": 396,
       "name": "starly",
@@ -118,17 +128,6 @@
       "totalStats": 550,
       "grade": "SR",
       "pulledAt": "2026-11-01T03:01:31.070Z"
-    },
-    {
-      "id": 387,
-      "name": "turtwig",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/387.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 318,
-      "grade": "N",
-      "pulledAt": "2026-10-31T23:50:30.957Z"
     }
   ],
   "pokemon": {
@@ -684,6 +683,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-31T07:27:46.182Z",
       "lastPulledAt": "2026-10-31T07:27:46.182Z"
+    },
+    "162": {
+      "id": 162,
+      "name": "furret",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/162.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 415,
+      "grade": "R",
+      "pulledAt": "2026-11-03T11:22:23.152Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-03T11:22:23.152Z",
+      "lastPulledAt": "2026-11-03T11:22:23.152Z"
     },
     "165": {
       "id": 165,
