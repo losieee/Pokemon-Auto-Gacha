@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 276,
-  "updatedAt": "2026-11-04T03:12:18.247Z",
+  "totalPulls": 277,
+  "updatedAt": "2026-11-04T10:57:41.288Z",
   "lastPull": {
-    "id": 196,
-    "name": "espeon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/196.png",
+    "id": 483,
+    "name": "dialga",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png",
     "types": [
-      "psychic"
+      "steel",
+      "dragon"
     ],
-    "totalStats": 525,
-    "grade": "SR",
-    "pulledAt": "2026-11-04T03:12:18.247Z"
+    "totalStats": 680,
+    "grade": "SSR",
+    "pulledAt": "2026-11-04T10:57:41.288Z"
   },
   "pulls": [
+    {
+      "id": 483,
+      "name": "dialga",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png",
+      "types": [
+        "steel",
+        "dragon"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-11-04T10:57:41.288Z"
+    },
     {
       "id": 196,
       "name": "espeon",
@@ -117,17 +130,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-11-02T00:00:20.334Z"
-    },
-    {
-      "id": 532,
-      "name": "timburr",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/532.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-11-01T20:53:39.109Z"
     }
   ],
   "pokemon": {
@@ -1932,10 +1934,10 @@
       "totalStats": 680,
       "grade": "SSR",
       "pulledAt": "2026-09-17T05:02:59.163Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T05:02:59.163Z",
-      "lastPulledAt": "2026-09-17T05:02:59.163Z"
+      "lastPulledAt": "2026-11-04T10:57:41.288Z"
     },
     "489": {
       "id": 489,
