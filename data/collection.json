@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 278,
-  "updatedAt": "2026-11-04T18:24:30.022Z",
+  "totalPulls": 279,
+  "updatedAt": "2026-11-04T23:48:47.473Z",
   "lastPull": {
-    "id": 855,
-    "name": "polteageist",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/855.png",
+    "id": 527,
+    "name": "woobat",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/527.png",
     "types": [
-      "ghost"
+      "psychic",
+      "flying"
     ],
-    "totalStats": 508,
-    "grade": "SR",
-    "pulledAt": "2026-11-04T18:24:30.022Z"
+    "totalStats": 323,
+    "grade": "N",
+    "pulledAt": "2026-11-04T23:48:47.473Z"
   },
   "pulls": [
+    {
+      "id": 527,
+      "name": "woobat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/527.png",
+      "types": [
+        "psychic",
+        "flying"
+      ],
+      "totalStats": 323,
+      "grade": "N",
+      "pulledAt": "2026-11-04T23:48:47.473Z"
+    },
     {
       "id": 855,
       "name": "polteageist",
@@ -117,17 +130,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-11-02T14:05:09.723Z"
-    },
-    {
-      "id": 956,
-      "name": "espathra",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/956.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 481,
-      "grade": "R",
-      "pulledAt": "2026-11-02T05:50:34.443Z"
     }
   ],
   "pokemon": {
@@ -2089,6 +2091,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-18T13:13:58.071Z",
       "lastPulledAt": "2026-10-18T13:13:58.071Z"
+    },
+    "527": {
+      "id": 527,
+      "name": "woobat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/527.png",
+      "types": [
+        "psychic",
+        "flying"
+      ],
+      "totalStats": 323,
+      "grade": "N",
+      "pulledAt": "2026-11-04T23:48:47.473Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-04T23:48:47.473Z",
+      "lastPulledAt": "2026-11-04T23:48:47.473Z"
     },
     "529": {
       "id": 529,
