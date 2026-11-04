@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 275,
-  "updatedAt": "2026-11-03T23:37:33.877Z",
+  "totalPulls": 276,
+  "updatedAt": "2026-11-04T03:12:18.247Z",
   "lastPull": {
-    "id": 609,
-    "name": "chandelure",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/609.png",
+    "id": 196,
+    "name": "espeon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/196.png",
     "types": [
-      "ghost",
-      "fire"
+      "psychic"
     ],
-    "totalStats": 520,
+    "totalStats": 525,
     "grade": "SR",
-    "pulledAt": "2026-11-03T23:37:33.877Z"
+    "pulledAt": "2026-11-04T03:12:18.247Z"
   },
   "pulls": [
+    {
+      "id": 196,
+      "name": "espeon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/196.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-11-04T03:12:18.247Z"
+    },
     {
       "id": 609,
       "name": "chandelure",
@@ -118,18 +128,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-11-01T20:53:39.109Z"
-    },
-    {
-      "id": 291,
-      "name": "ninjask",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/291.png",
-      "types": [
-        "bug",
-        "flying"
-      ],
-      "totalStats": 456,
-      "grade": "R",
-      "pulledAt": "2026-11-01T16:51:59.331Z"
     }
   ],
   "pokemon": {
@@ -840,6 +838,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-30T21:05:16.641Z",
       "lastPulledAt": "2026-09-30T21:05:16.641Z"
+    },
+    "196": {
+      "id": 196,
+      "name": "espeon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/196.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-11-04T03:12:18.247Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-04T03:12:18.247Z",
+      "lastPulledAt": "2026-11-04T03:12:18.247Z"
     },
     "200": {
       "id": 200,
