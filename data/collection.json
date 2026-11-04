@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 277,
-  "updatedAt": "2026-11-04T10:57:41.288Z",
+  "totalPulls": 278,
+  "updatedAt": "2026-11-04T18:24:30.022Z",
   "lastPull": {
-    "id": 483,
-    "name": "dialga",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png",
+    "id": 855,
+    "name": "polteageist",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/855.png",
     "types": [
-      "steel",
-      "dragon"
+      "ghost"
     ],
-    "totalStats": 680,
-    "grade": "SSR",
-    "pulledAt": "2026-11-04T10:57:41.288Z"
+    "totalStats": 508,
+    "grade": "SR",
+    "pulledAt": "2026-11-04T18:24:30.022Z"
   },
   "pulls": [
+    {
+      "id": 855,
+      "name": "polteageist",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/855.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 508,
+      "grade": "SR",
+      "pulledAt": "2026-11-04T18:24:30.022Z"
+    },
     {
       "id": 483,
       "name": "dialga",
@@ -118,18 +128,6 @@
       "totalStats": 481,
       "grade": "R",
       "pulledAt": "2026-11-02T05:50:34.443Z"
-    },
-    {
-      "id": 893,
-      "name": "zarude",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/893.png",
-      "types": [
-        "dark",
-        "grass"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-11-02T00:00:20.334Z"
     }
   ],
   "pokemon": {
@@ -3268,10 +3266,10 @@
       "totalStats": 508,
       "grade": "SR",
       "pulledAt": "2026-10-21T00:52:15.210Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-21T00:52:15.210Z",
-      "lastPulledAt": "2026-10-21T00:52:15.210Z"
+      "lastPulledAt": "2026-11-04T18:24:30.022Z"
     },
     "862": {
       "id": 862,
