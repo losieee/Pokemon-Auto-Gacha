@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 279,
-  "updatedAt": "2026-11-04T23:48:47.473Z",
+  "totalPulls": 280,
+  "updatedAt": "2026-11-05T03:45:59.432Z",
   "lastPull": {
-    "id": 527,
-    "name": "woobat",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/527.png",
+    "id": 177,
+    "name": "natu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/177.png",
     "types": [
       "psychic",
       "flying"
     ],
-    "totalStats": 323,
+    "totalStats": 320,
     "grade": "N",
-    "pulledAt": "2026-11-04T23:48:47.473Z"
+    "pulledAt": "2026-11-05T03:45:59.432Z"
   },
   "pulls": [
+    {
+      "id": 177,
+      "name": "natu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/177.png",
+      "types": [
+        "psychic",
+        "flying"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-11-05T03:45:59.432Z"
+    },
     {
       "id": 527,
       "name": "woobat",
@@ -118,18 +130,6 @@
       "totalStats": 280,
       "grade": "N",
       "pulledAt": "2026-11-02T22:43:18.433Z"
-    },
-    {
-      "id": 365,
-      "name": "walrein",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/365.png",
-      "types": [
-        "ice",
-        "water"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-11-02T14:05:09.723Z"
     }
   ],
   "pokemon": {
@@ -778,6 +778,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T21:41:27.486Z",
       "lastPulledAt": "2026-09-17T21:41:27.486Z"
+    },
+    "177": {
+      "id": 177,
+      "name": "natu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/177.png",
+      "types": [
+        "psychic",
+        "flying"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-11-05T03:45:59.432Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-05T03:45:59.432Z",
+      "lastPulledAt": "2026-11-05T03:45:59.432Z"
     },
     "180": {
       "id": 180,
