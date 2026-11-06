@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 284,
-  "updatedAt": "2026-11-06T04:01:32.923Z",
+  "totalPulls": 285,
+  "updatedAt": "2026-11-06T11:59:16.587Z",
   "lastPull": {
-    "id": 199,
-    "name": "slowking",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/199.png",
+    "id": 107,
+    "name": "hitmonchan",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png",
     "types": [
-      "water",
-      "psychic"
+      "fighting"
     ],
-    "totalStats": 490,
+    "totalStats": 455,
     "grade": "R",
-    "pulledAt": "2026-11-06T04:01:32.923Z"
+    "pulledAt": "2026-11-06T11:59:16.587Z"
   },
   "pulls": [
+    {
+      "id": 107,
+      "name": "hitmonchan",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-11-06T11:59:16.587Z"
+    },
     {
       "id": 199,
       "name": "slowking",
@@ -120,18 +130,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-11-04T03:12:18.247Z"
-    },
-    {
-      "id": 609,
-      "name": "chandelure",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/609.png",
-      "types": [
-        "ghost",
-        "fire"
-      ],
-      "totalStats": 520,
-      "grade": "SR",
-      "pulledAt": "2026-11-03T23:37:33.877Z"
     }
   ],
   "pokemon": {
@@ -488,6 +486,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-15T06:23:20.259Z",
       "lastPulledAt": "2026-10-15T06:23:20.259Z"
+    },
+    "107": {
+      "id": 107,
+      "name": "hitmonchan",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-11-06T11:59:16.587Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-06T11:59:16.587Z",
+      "lastPulledAt": "2026-11-06T11:59:16.587Z"
     },
     "113": {
       "id": 113,
