@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 283,
-  "updatedAt": "2026-11-05T23:54:04.839Z",
+  "totalPulls": 284,
+  "updatedAt": "2026-11-06T04:01:32.923Z",
   "lastPull": {
-    "id": 374,
-    "name": "beldum",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/374.png",
+    "id": 199,
+    "name": "slowking",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/199.png",
     "types": [
-      "steel",
+      "water",
       "psychic"
     ],
-    "totalStats": 300,
-    "grade": "N",
-    "pulledAt": "2026-11-05T23:54:04.839Z"
+    "totalStats": 490,
+    "grade": "R",
+    "pulledAt": "2026-11-06T04:01:32.923Z"
   },
   "pulls": [
+    {
+      "id": 199,
+      "name": "slowking",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/199.png",
+      "types": [
+        "water",
+        "psychic"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-11-06T04:01:32.923Z"
+    },
     {
       "id": 374,
       "name": "beldum",
@@ -120,17 +132,6 @@
       "totalStats": 520,
       "grade": "SR",
       "pulledAt": "2026-11-03T23:37:33.877Z"
-    },
-    {
-      "id": 913,
-      "name": "quaxwell",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/913.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 410,
-      "grade": "R",
-      "pulledAt": "2026-11-03T18:30:32.284Z"
     }
   ],
   "pokemon": {
@@ -872,6 +873,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-04T03:12:18.247Z",
       "lastPulledAt": "2026-11-04T03:12:18.247Z"
+    },
+    "199": {
+      "id": 199,
+      "name": "slowking",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/199.png",
+      "types": [
+        "water",
+        "psychic"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-11-06T04:01:32.923Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-06T04:01:32.923Z",
+      "lastPulledAt": "2026-11-06T04:01:32.923Z"
     },
     "200": {
       "id": 200,
