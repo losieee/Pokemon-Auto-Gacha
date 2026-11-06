@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 285,
-  "updatedAt": "2026-11-06T11:59:16.587Z",
+  "totalPulls": 286,
+  "updatedAt": "2026-11-06T18:57:19.308Z",
   "lastPull": {
-    "id": 107,
-    "name": "hitmonchan",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png",
+    "id": 1009,
+    "name": "walking-wake",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1009.png",
     "types": [
-      "fighting"
+      "water",
+      "dragon"
     ],
-    "totalStats": 455,
-    "grade": "R",
-    "pulledAt": "2026-11-06T11:59:16.587Z"
+    "totalStats": 590,
+    "grade": "SR",
+    "pulledAt": "2026-11-06T18:57:19.308Z"
   },
   "pulls": [
+    {
+      "id": 1009,
+      "name": "walking-wake",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1009.png",
+      "types": [
+        "water",
+        "dragon"
+      ],
+      "totalStats": 590,
+      "grade": "SR",
+      "pulledAt": "2026-11-06T18:57:19.308Z"
+    },
     {
       "id": 107,
       "name": "hitmonchan",
@@ -119,17 +132,6 @@
       "totalStats": 680,
       "grade": "SSR",
       "pulledAt": "2026-11-04T10:57:41.288Z"
-    },
-    {
-      "id": 196,
-      "name": "espeon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/196.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-11-04T03:12:18.247Z"
     }
   ],
   "pokemon": {
@@ -3881,6 +3883,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T00:45:38.663Z",
       "lastPulledAt": "2026-09-27T00:45:38.663Z"
+    },
+    "1009": {
+      "id": 1009,
+      "name": "walking-wake",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1009.png",
+      "types": [
+        "water",
+        "dragon"
+      ],
+      "totalStats": 590,
+      "grade": "SR",
+      "pulledAt": "2026-11-06T18:57:19.308Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-06T18:57:19.308Z",
+      "lastPulledAt": "2026-11-06T18:57:19.308Z"
     },
     "1014": {
       "id": 1014,
