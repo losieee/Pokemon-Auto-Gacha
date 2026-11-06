@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 286,
-  "updatedAt": "2026-11-06T18:57:19.308Z",
+  "totalPulls": 287,
+  "updatedAt": "2026-11-06T23:36:39.060Z",
   "lastPull": {
-    "id": 1009,
-    "name": "walking-wake",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1009.png",
+    "id": 230,
+    "name": "kingdra",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/230.png",
     "types": [
       "water",
       "dragon"
     ],
-    "totalStats": 590,
+    "totalStats": 540,
     "grade": "SR",
-    "pulledAt": "2026-11-06T18:57:19.308Z"
+    "pulledAt": "2026-11-06T23:36:39.060Z"
   },
   "pulls": [
+    {
+      "id": 230,
+      "name": "kingdra",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/230.png",
+      "types": [
+        "water",
+        "dragon"
+      ],
+      "totalStats": 540,
+      "grade": "SR",
+      "pulledAt": "2026-11-06T23:36:39.060Z"
+    },
     {
       "id": 1009,
       "name": "walking-wake",
@@ -120,18 +132,6 @@
       "totalStats": 508,
       "grade": "SR",
       "pulledAt": "2026-11-04T18:24:30.022Z"
-    },
-    {
-      "id": 483,
-      "name": "dialga",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png",
-      "types": [
-        "steel",
-        "dragon"
-      ],
-      "totalStats": 680,
-      "grade": "SSR",
-      "pulledAt": "2026-11-04T10:57:41.288Z"
     }
   ],
   "pokemon": {
@@ -1072,6 +1072,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-29T02:40:12.366Z",
       "lastPulledAt": "2026-10-29T02:40:12.366Z"
+    },
+    "230": {
+      "id": 230,
+      "name": "kingdra",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/230.png",
+      "types": [
+        "water",
+        "dragon"
+      ],
+      "totalStats": 540,
+      "grade": "SR",
+      "pulledAt": "2026-11-06T23:36:39.060Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-06T23:36:39.060Z",
+      "lastPulledAt": "2026-11-06T23:36:39.060Z"
     },
     "232": {
       "id": 232,
