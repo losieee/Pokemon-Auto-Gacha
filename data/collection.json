@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 290,
-  "updatedAt": "2026-11-07T16:06:04.456Z",
+  "totalPulls": 291,
+  "updatedAt": "2026-11-07T20:09:32.073Z",
   "lastPull": {
-    "id": 6,
-    "name": "charizard",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
+    "id": 606,
+    "name": "beheeyem",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/606.png",
     "types": [
-      "fire",
-      "flying"
+      "psychic"
     ],
-    "totalStats": 534,
-    "grade": "SR",
-    "pulledAt": "2026-11-07T16:06:04.456Z"
+    "totalStats": 485,
+    "grade": "R",
+    "pulledAt": "2026-11-07T20:09:32.073Z"
   },
   "pulls": [
+    {
+      "id": 606,
+      "name": "beheeyem",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/606.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-11-07T20:09:32.073Z"
+    },
     {
       "id": 6,
       "name": "charizard",
@@ -120,18 +130,6 @@
       "totalStats": 479,
       "grade": "R",
       "pulledAt": "2026-11-05T18:56:13.663Z"
-    },
-    {
-      "id": 860,
-      "name": "morgrem",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/860.png",
-      "types": [
-        "dark",
-        "fairy"
-      ],
-      "totalStats": 370,
-      "grade": "N",
-      "pulledAt": "2026-11-05T11:34:49.745Z"
     }
   ],
   "pokemon": {
@@ -2622,6 +2620,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T22:28:10.671Z",
       "lastPulledAt": "2026-09-26T22:28:10.671Z"
+    },
+    "606": {
+      "id": 606,
+      "name": "beheeyem",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/606.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-11-07T20:09:32.073Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-07T20:09:32.073Z",
+      "lastPulledAt": "2026-11-07T20:09:32.073Z"
     },
     "609": {
       "id": 609,
