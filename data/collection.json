@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 289,
-  "updatedAt": "2026-11-07T09:58:28.225Z",
+  "totalPulls": 290,
+  "updatedAt": "2026-11-07T16:06:04.456Z",
   "lastPull": {
-    "id": 544,
-    "name": "whirlipede",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/544.png",
+    "id": 6,
+    "name": "charizard",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
     "types": [
-      "bug",
-      "poison"
+      "fire",
+      "flying"
     ],
-    "totalStats": 360,
-    "grade": "N",
-    "pulledAt": "2026-11-07T09:58:28.225Z"
+    "totalStats": 534,
+    "grade": "SR",
+    "pulledAt": "2026-11-07T16:06:04.456Z"
   },
   "pulls": [
+    {
+      "id": 6,
+      "name": "charizard",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "totalStats": 534,
+      "grade": "SR",
+      "pulledAt": "2026-11-07T16:06:04.456Z"
+    },
     {
       "id": 544,
       "name": "whirlipede",
@@ -120,18 +132,6 @@
       "totalStats": 370,
       "grade": "N",
       "pulledAt": "2026-11-05T11:34:49.745Z"
-    },
-    {
-      "id": 177,
-      "name": "natu",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/177.png",
-      "types": [
-        "psychic",
-        "flying"
-      ],
-      "totalStats": 320,
-      "grade": "N",
-      "pulledAt": "2026-11-05T03:45:59.432Z"
     }
   ],
   "pokemon": {
@@ -165,6 +165,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-18T21:09:22.206Z",
       "lastPulledAt": "2026-10-18T21:09:22.206Z"
+    },
+    "6": {
+      "id": 6,
+      "name": "charizard",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "totalStats": 534,
+      "grade": "SR",
+      "pulledAt": "2026-11-07T16:06:04.456Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-07T16:06:04.456Z",
+      "lastPulledAt": "2026-11-07T16:06:04.456Z"
     },
     "10": {
       "id": 10,
