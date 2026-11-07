@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 291,
-  "updatedAt": "2026-11-07T20:09:32.073Z",
+  "totalPulls": 292,
+  "updatedAt": "2026-11-07T23:37:06.285Z",
   "lastPull": {
-    "id": 606,
-    "name": "beheeyem",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/606.png",
+    "id": 782,
+    "name": "jangmo-o",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/782.png",
     "types": [
-      "psychic"
+      "dragon"
     ],
-    "totalStats": 485,
-    "grade": "R",
-    "pulledAt": "2026-11-07T20:09:32.073Z"
+    "totalStats": 300,
+    "grade": "N",
+    "pulledAt": "2026-11-07T23:37:06.285Z"
   },
   "pulls": [
+    {
+      "id": 782,
+      "name": "jangmo-o",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/782.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-11-07T23:37:06.285Z"
+    },
     {
       "id": 606,
       "name": "beheeyem",
@@ -118,18 +129,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-11-05T23:54:04.839Z"
-    },
-    {
-      "id": 18,
-      "name": "pidgeot",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 479,
-      "grade": "R",
-      "pulledAt": "2026-11-05T18:56:13.663Z"
     }
   ],
   "pokemon": {
@@ -3229,6 +3228,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-01T13:36:10.530Z",
       "lastPulledAt": "2026-10-07T18:51:02.124Z"
+    },
+    "782": {
+      "id": 782,
+      "name": "jangmo-o",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/782.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-11-07T23:37:06.285Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-07T23:37:06.285Z",
+      "lastPulledAt": "2026-11-07T23:37:06.285Z"
     },
     "811": {
       "id": 811,
