@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 294,
-  "updatedAt": "2026-11-08T09:29:54.973Z",
+  "totalPulls": 295,
+  "updatedAt": "2026-11-08T16:11:37.299Z",
   "lastPull": {
-    "id": 314,
-    "name": "illumise",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/314.png",
+    "id": 428,
+    "name": "lopunny",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/428.png",
     "types": [
-      "bug"
+      "normal"
     ],
-    "totalStats": 430,
+    "totalStats": 480,
     "grade": "R",
-    "pulledAt": "2026-11-08T09:29:54.973Z"
+    "pulledAt": "2026-11-08T16:11:37.299Z"
   },
   "pulls": [
+    {
+      "id": 428,
+      "name": "lopunny",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/428.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-11-08T16:11:37.299Z"
+    },
     {
       "id": 314,
       "name": "illumise",
@@ -116,17 +127,6 @@
       "totalStats": 590,
       "grade": "SR",
       "pulledAt": "2026-11-06T18:57:19.308Z"
-    },
-    {
-      "id": 107,
-      "name": "hitmonchan",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 455,
-      "grade": "R",
-      "pulledAt": "2026-11-06T11:59:16.587Z"
     }
   ],
   "pokemon": {
@@ -1870,6 +1870,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T18:30:13.418Z",
       "lastPulledAt": "2026-09-17T18:30:13.418Z"
+    },
+    "428": {
+      "id": 428,
+      "name": "lopunny",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/428.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-11-08T16:11:37.299Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-08T16:11:37.299Z",
+      "lastPulledAt": "2026-11-08T16:11:37.299Z"
     },
     "429": {
       "id": 429,
