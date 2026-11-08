@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 296,
-  "updatedAt": "2026-11-08T20:29:21.053Z",
+  "totalPulls": 297,
+  "updatedAt": "2026-11-08T23:53:45.391Z",
   "lastPull": {
-    "id": 630,
-    "name": "mandibuzz",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/630.png",
+    "id": 27,
+    "name": "sandshrew",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png",
     "types": [
-      "dark",
-      "flying"
+      "ground"
     ],
-    "totalStats": 510,
-    "grade": "SR",
-    "pulledAt": "2026-11-08T20:29:21.053Z"
+    "totalStats": 300,
+    "grade": "N",
+    "pulledAt": "2026-11-08T23:53:45.391Z"
   },
   "pulls": [
+    {
+      "id": 27,
+      "name": "sandshrew",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-11-08T23:53:45.391Z"
+    },
     {
       "id": 630,
       "name": "mandibuzz",
@@ -116,18 +126,6 @@
       "totalStats": 360,
       "grade": "N",
       "pulledAt": "2026-11-07T03:09:42.670Z"
-    },
-    {
-      "id": 230,
-      "name": "kingdra",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/230.png",
-      "types": [
-        "water",
-        "dragon"
-      ],
-      "totalStats": 540,
-      "grade": "SR",
-      "pulledAt": "2026-11-06T23:36:39.060Z"
     }
   ],
   "pokemon": {
@@ -269,6 +267,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T18:57:30.254Z",
       "lastPulledAt": "2026-09-19T18:57:30.254Z"
+    },
+    "27": {
+      "id": 27,
+      "name": "sandshrew",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-11-08T23:53:45.391Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-08T23:53:45.391Z",
+      "lastPulledAt": "2026-11-08T23:53:45.391Z"
     },
     "33": {
       "id": 33,
