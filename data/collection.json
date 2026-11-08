@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 293,
-  "updatedAt": "2026-11-08T02:40:28.761Z",
+  "totalPulls": 294,
+  "updatedAt": "2026-11-08T09:29:54.973Z",
   "lastPull": {
-    "id": 135,
-    "name": "jolteon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png",
+    "id": 314,
+    "name": "illumise",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/314.png",
     "types": [
-      "electric"
+      "bug"
     ],
-    "totalStats": 525,
-    "grade": "SR",
-    "pulledAt": "2026-11-08T02:40:28.761Z"
+    "totalStats": 430,
+    "grade": "R",
+    "pulledAt": "2026-11-08T09:29:54.973Z"
   },
   "pulls": [
+    {
+      "id": 314,
+      "name": "illumise",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/314.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 430,
+      "grade": "R",
+      "pulledAt": "2026-11-08T09:29:54.973Z"
+    },
     {
       "id": 135,
       "name": "jolteon",
@@ -116,18 +127,6 @@
       "totalStats": 455,
       "grade": "R",
       "pulledAt": "2026-11-06T11:59:16.587Z"
-    },
-    {
-      "id": 199,
-      "name": "slowking",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/199.png",
-      "types": [
-        "water",
-        "psychic"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-11-06T04:01:32.923Z"
     }
   ],
   "pokemon": {
@@ -1393,6 +1392,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-01T00:30:04.594Z",
       "lastPulledAt": "2026-10-01T00:30:04.594Z"
+    },
+    "314": {
+      "id": 314,
+      "name": "illumise",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/314.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 430,
+      "grade": "R",
+      "pulledAt": "2026-11-08T09:29:54.973Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-08T09:29:54.973Z",
+      "lastPulledAt": "2026-11-08T09:29:54.973Z"
     },
     "316": {
       "id": 316,
