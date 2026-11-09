@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 297,
-  "updatedAt": "2026-11-08T23:53:45.391Z",
+  "totalPulls": 298,
+  "updatedAt": "2026-11-09T03:31:11.582Z",
   "lastPull": {
-    "id": 27,
-    "name": "sandshrew",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png",
+    "id": 1019,
+    "name": "hydrapple",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1019.png",
     "types": [
-      "ground"
+      "grass",
+      "dragon"
     ],
-    "totalStats": 300,
-    "grade": "N",
-    "pulledAt": "2026-11-08T23:53:45.391Z"
+    "totalStats": 540,
+    "grade": "SR",
+    "pulledAt": "2026-11-09T03:31:11.582Z"
   },
   "pulls": [
+    {
+      "id": 1019,
+      "name": "hydrapple",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1019.png",
+      "types": [
+        "grass",
+        "dragon"
+      ],
+      "totalStats": 540,
+      "grade": "SR",
+      "pulledAt": "2026-11-09T03:31:11.582Z"
+    },
     {
       "id": 27,
       "name": "sandshrew",
@@ -115,17 +128,6 @@
       "totalStats": 360,
       "grade": "N",
       "pulledAt": "2026-11-07T09:58:28.225Z"
-    },
-    {
-      "id": 190,
-      "name": "aipom",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/190.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 360,
-      "grade": "N",
-      "pulledAt": "2026-11-07T03:09:42.670Z"
     }
   ],
   "pokemon": {
@@ -4109,6 +4111,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-01T03:01:31.070Z",
       "lastPulledAt": "2026-11-01T03:01:31.070Z"
+    },
+    "1019": {
+      "id": 1019,
+      "name": "hydrapple",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1019.png",
+      "types": [
+        "grass",
+        "dragon"
+      ],
+      "totalStats": 540,
+      "grade": "SR",
+      "pulledAt": "2026-11-09T03:31:11.582Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-09T03:31:11.582Z",
+      "lastPulledAt": "2026-11-09T03:31:11.582Z"
     },
     "1023": {
       "id": 1023,
