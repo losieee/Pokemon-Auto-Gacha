@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 298,
-  "updatedAt": "2026-11-09T03:31:11.582Z",
+  "totalPulls": 299,
+  "updatedAt": "2026-11-09T12:01:32.228Z",
   "lastPull": {
-    "id": 1019,
-    "name": "hydrapple",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1019.png",
+    "id": 786,
+    "name": "tapu-lele",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/786.png",
     "types": [
-      "grass",
-      "dragon"
+      "psychic",
+      "fairy"
     ],
-    "totalStats": 540,
+    "totalStats": 570,
     "grade": "SR",
-    "pulledAt": "2026-11-09T03:31:11.582Z"
+    "pulledAt": "2026-11-09T12:01:32.228Z"
   },
   "pulls": [
+    {
+      "id": 786,
+      "name": "tapu-lele",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/786.png",
+      "types": [
+        "psychic",
+        "fairy"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-09T12:01:32.228Z"
+    },
     {
       "id": 1019,
       "name": "hydrapple",
@@ -116,18 +128,6 @@
       "totalStats": 534,
       "grade": "SR",
       "pulledAt": "2026-11-07T16:06:04.456Z"
-    },
-    {
-      "id": 544,
-      "name": "whirlipede",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/544.png",
-      "types": [
-        "bug",
-        "poison"
-      ],
-      "totalStats": 360,
-      "grade": "N",
-      "pulledAt": "2026-11-07T09:58:28.225Z"
     }
   ],
   "pokemon": {
@@ -3318,6 +3318,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-07T23:37:06.285Z",
       "lastPulledAt": "2026-11-07T23:37:06.285Z"
+    },
+    "786": {
+      "id": 786,
+      "name": "tapu-lele",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/786.png",
+      "types": [
+        "psychic",
+        "fairy"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-09T12:01:32.228Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-09T12:01:32.228Z",
+      "lastPulledAt": "2026-11-09T12:01:32.228Z"
     },
     "811": {
       "id": 811,
