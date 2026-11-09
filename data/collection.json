@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 299,
-  "updatedAt": "2026-11-09T12:01:32.228Z",
+  "totalPulls": 300,
+  "updatedAt": "2026-11-09T22:14:41.116Z",
   "lastPull": {
-    "id": 786,
-    "name": "tapu-lele",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/786.png",
+    "id": 623,
+    "name": "golurk",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/623.png",
     "types": [
-      "psychic",
-      "fairy"
+      "ground",
+      "ghost"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-11-09T12:01:32.228Z"
+    "totalStats": 483,
+    "grade": "R",
+    "pulledAt": "2026-11-09T22:14:41.116Z"
   },
   "pulls": [
+    {
+      "id": 623,
+      "name": "golurk",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/623.png",
+      "types": [
+        "ground",
+        "ghost"
+      ],
+      "totalStats": 483,
+      "grade": "R",
+      "pulledAt": "2026-11-09T22:14:41.116Z"
+    },
     {
       "id": 786,
       "name": "tapu-lele",
@@ -116,18 +128,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-11-07T20:09:32.073Z"
-    },
-    {
-      "id": 6,
-      "name": "charizard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
-      "types": [
-        "fire",
-        "flying"
-      ],
-      "totalStats": 534,
-      "grade": "SR",
-      "pulledAt": "2026-11-07T16:06:04.456Z"
     }
   ],
   "pokemon": {
@@ -2740,6 +2740,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-22T05:36:14.732Z",
       "lastPulledAt": "2026-10-22T05:36:14.732Z"
+    },
+    "623": {
+      "id": 623,
+      "name": "golurk",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/623.png",
+      "types": [
+        "ground",
+        "ghost"
+      ],
+      "totalStats": 483,
+      "grade": "R",
+      "pulledAt": "2026-11-09T22:14:41.116Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-09T22:14:41.116Z",
+      "lastPulledAt": "2026-11-09T22:14:41.116Z"
     },
     "626": {
       "id": 626,
