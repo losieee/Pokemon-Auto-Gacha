@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 301,
-  "updatedAt": "2026-11-10T04:07:38.976Z",
+  "totalPulls": 302,
+  "updatedAt": "2026-11-10T12:30:47.335Z",
   "lastPull": {
-    "id": 492,
-    "name": "shaymin-land",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/492.png",
+    "id": 594,
+    "name": "alomomola",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/594.png",
     "types": [
-      "grass"
+      "water"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-11-10T04:07:38.976Z"
+    "totalStats": 470,
+    "grade": "R",
+    "pulledAt": "2026-11-10T12:30:47.335Z"
   },
   "pulls": [
+    {
+      "id": 594,
+      "name": "alomomola",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/594.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-11-10T12:30:47.335Z"
+    },
     {
       "id": 492,
       "name": "shaymin-land",
@@ -116,17 +127,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-11-08T02:40:28.761Z"
-    },
-    {
-      "id": 782,
-      "name": "jangmo-o",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/782.png",
-      "types": [
-        "dragon"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-11-07T23:37:06.285Z"
     }
   ],
   "pokemon": {
@@ -2631,6 +2631,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-18T00:25:17.219Z",
       "lastPulledAt": "2026-10-23T10:27:35.626Z"
+    },
+    "594": {
+      "id": 594,
+      "name": "alomomola",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/594.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-11-10T12:30:47.335Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-10T12:30:47.335Z",
+      "lastPulledAt": "2026-11-10T12:30:47.335Z"
     },
     "597": {
       "id": 597,
