@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 302,
-  "updatedAt": "2026-11-10T12:30:47.335Z",
+  "totalPulls": 303,
+  "updatedAt": "2026-11-10T19:58:04.441Z",
   "lastPull": {
-    "id": 594,
-    "name": "alomomola",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/594.png",
+    "id": 440,
+    "name": "happiny",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/440.png",
     "types": [
-      "water"
+      "normal"
     ],
-    "totalStats": 470,
-    "grade": "R",
-    "pulledAt": "2026-11-10T12:30:47.335Z"
+    "totalStats": 220,
+    "grade": "N",
+    "pulledAt": "2026-11-10T19:58:04.441Z"
   },
   "pulls": [
+    {
+      "id": 440,
+      "name": "happiny",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/440.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 220,
+      "grade": "N",
+      "pulledAt": "2026-11-10T19:58:04.441Z"
+    },
     {
       "id": 594,
       "name": "alomomola",
@@ -116,17 +127,6 @@
       "totalStats": 430,
       "grade": "R",
       "pulledAt": "2026-11-08T09:29:54.973Z"
-    },
-    {
-      "id": 135,
-      "name": "jolteon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-11-08T02:40:28.761Z"
     }
   ],
   "pokemon": {
@@ -1931,6 +1931,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T12:43:06.168Z",
       "lastPulledAt": "2026-10-03T12:43:06.168Z"
+    },
+    "440": {
+      "id": 440,
+      "name": "happiny",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/440.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 220,
+      "grade": "N",
+      "pulledAt": "2026-11-10T19:58:04.441Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-10T19:58:04.441Z",
+      "lastPulledAt": "2026-11-10T19:58:04.441Z"
     },
     "442": {
       "id": 442,
