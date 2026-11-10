@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 300,
-  "updatedAt": "2026-11-09T22:14:41.116Z",
+  "totalPulls": 301,
+  "updatedAt": "2026-11-10T04:07:38.976Z",
   "lastPull": {
-    "id": 623,
-    "name": "golurk",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/623.png",
+    "id": 492,
+    "name": "shaymin-land",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/492.png",
     "types": [
-      "ground",
-      "ghost"
+      "grass"
     ],
-    "totalStats": 483,
-    "grade": "R",
-    "pulledAt": "2026-11-09T22:14:41.116Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-11-10T04:07:38.976Z"
   },
   "pulls": [
+    {
+      "id": 492,
+      "name": "shaymin-land",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/492.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-11-10T04:07:38.976Z"
+    },
     {
       "id": 623,
       "name": "golurk",
@@ -117,17 +127,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-11-07T23:37:06.285Z"
-    },
-    {
-      "id": 606,
-      "name": "beheeyem",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/606.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-11-07T20:09:32.073Z"
     }
   ],
   "pokemon": {
@@ -2121,6 +2120,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-14T20:42:27.673Z",
       "lastPulledAt": "2026-10-14T20:42:27.673Z"
+    },
+    "492": {
+      "id": 492,
+      "name": "shaymin-land",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/492.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-11-10T04:07:38.976Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-10T04:07:38.976Z",
+      "lastPulledAt": "2026-11-10T04:07:38.976Z"
     },
     "493": {
       "id": 493,
