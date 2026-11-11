@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 306,
-  "updatedAt": "2026-11-11T14:47:36.928Z",
+  "totalPulls": 307,
+  "updatedAt": "2026-11-11T21:35:11.523Z",
   "lastPull": {
-    "id": 902,
-    "name": "basculegion-male",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/902.png",
+    "id": 470,
+    "name": "leafeon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/470.png",
     "types": [
-      "water",
-      "ghost"
+      "grass"
     ],
-    "totalStats": 530,
+    "totalStats": 525,
     "grade": "SR",
-    "pulledAt": "2026-11-11T14:47:36.928Z"
+    "pulledAt": "2026-11-11T21:35:11.523Z"
   },
   "pulls": [
+    {
+      "id": 470,
+      "name": "leafeon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/470.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-11-11T21:35:11.523Z"
+    },
     {
       "id": 902,
       "name": "basculegion-male",
@@ -119,17 +129,6 @@
       "totalStats": 540,
       "grade": "SR",
       "pulledAt": "2026-11-09T03:31:11.582Z"
-    },
-    {
-      "id": 27,
-      "name": "sandshrew",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png",
-      "types": [
-        "ground"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-11-08T23:53:45.391Z"
     }
   ],
   "pokemon": {
@@ -2075,6 +2074,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-10T19:17:24.897Z",
       "lastPulledAt": "2026-10-13T18:19:41.193Z"
+    },
+    "470": {
+      "id": 470,
+      "name": "leafeon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/470.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-11-11T21:35:11.523Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-11T21:35:11.523Z",
+      "lastPulledAt": "2026-11-11T21:35:11.523Z"
     },
     "472": {
       "id": 472,
