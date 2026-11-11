@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 304,
-  "updatedAt": "2026-11-11T00:24:07.411Z",
+  "totalPulls": 305,
+  "updatedAt": "2026-11-11T06:51:02.805Z",
   "lastPull": {
-    "id": 342,
-    "name": "crawdaunt",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/342.png",
+    "id": 1010,
+    "name": "iron-leaves",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1010.png",
     "types": [
-      "water",
-      "dark"
+      "grass",
+      "psychic"
     ],
-    "totalStats": 468,
-    "grade": "R",
-    "pulledAt": "2026-11-11T00:24:07.411Z"
+    "totalStats": 590,
+    "grade": "SR",
+    "pulledAt": "2026-11-11T06:51:02.805Z"
   },
   "pulls": [
+    {
+      "id": 1010,
+      "name": "iron-leaves",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1010.png",
+      "types": [
+        "grass",
+        "psychic"
+      ],
+      "totalStats": 590,
+      "grade": "SR",
+      "pulledAt": "2026-11-11T06:51:02.805Z"
+    },
     {
       "id": 342,
       "name": "crawdaunt",
@@ -118,17 +130,6 @@
       "totalStats": 510,
       "grade": "SR",
       "pulledAt": "2026-11-08T20:29:21.053Z"
-    },
-    {
-      "id": 428,
-      "name": "lopunny",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/428.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 480,
-      "grade": "R",
-      "pulledAt": "2026-11-08T16:11:37.299Z"
     }
   ],
   "pokemon": {
@@ -4142,6 +4143,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-06T18:57:19.308Z",
       "lastPulledAt": "2026-11-06T18:57:19.308Z"
+    },
+    "1010": {
+      "id": 1010,
+      "name": "iron-leaves",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1010.png",
+      "types": [
+        "grass",
+        "psychic"
+      ],
+      "totalStats": 590,
+      "grade": "SR",
+      "pulledAt": "2026-11-11T06:51:02.805Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-11T06:51:02.805Z",
+      "lastPulledAt": "2026-11-11T06:51:02.805Z"
     },
     "1014": {
       "id": 1014,
