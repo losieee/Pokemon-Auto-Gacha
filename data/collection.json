@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 310,
-  "updatedAt": "2026-11-12T18:10:03.019Z",
+  "totalPulls": 311,
+  "updatedAt": "2026-11-12T23:32:36.248Z",
   "lastPull": {
-    "id": 779,
-    "name": "bruxish",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/779.png",
+    "id": 486,
+    "name": "regigigas",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/486.png",
     "types": [
-      "water",
-      "psychic"
+      "normal"
     ],
-    "totalStats": 475,
-    "grade": "R",
-    "pulledAt": "2026-11-12T18:10:03.019Z"
+    "totalStats": 670,
+    "grade": "SSR",
+    "pulledAt": "2026-11-12T23:32:36.248Z"
   },
   "pulls": [
+    {
+      "id": 486,
+      "name": "regigigas",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/486.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 670,
+      "grade": "SSR",
+      "pulledAt": "2026-11-12T23:32:36.248Z"
+    },
     {
       "id": 779,
       "name": "bruxish",
@@ -118,17 +128,6 @@
       "totalStats": 470,
       "grade": "R",
       "pulledAt": "2026-11-10T12:30:47.335Z"
-    },
-    {
-      "id": 492,
-      "name": "shaymin-land",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/492.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-11-10T04:07:38.976Z"
     }
   ],
   "pokemon": {
@@ -2168,6 +2167,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T05:02:59.163Z",
       "lastPulledAt": "2026-11-04T10:57:41.288Z"
+    },
+    "486": {
+      "id": 486,
+      "name": "regigigas",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/486.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 670,
+      "grade": "SSR",
+      "pulledAt": "2026-11-12T23:32:36.248Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-12T23:32:36.248Z",
+      "lastPulledAt": "2026-11-12T23:32:36.248Z"
     },
     "489": {
       "id": 489,
