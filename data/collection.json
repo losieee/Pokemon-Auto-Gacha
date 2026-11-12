@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 307,
-  "updatedAt": "2026-11-11T21:35:11.523Z",
+  "totalPulls": 308,
+  "updatedAt": "2026-11-12T02:28:23.926Z",
   "lastPull": {
-    "id": 470,
-    "name": "leafeon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/470.png",
+    "id": 191,
+    "name": "sunkern",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/191.png",
     "types": [
       "grass"
     ],
-    "totalStats": 525,
-    "grade": "SR",
-    "pulledAt": "2026-11-11T21:35:11.523Z"
+    "totalStats": 180,
+    "grade": "N",
+    "pulledAt": "2026-11-12T02:28:23.926Z"
   },
   "pulls": [
+    {
+      "id": 191,
+      "name": "sunkern",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/191.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 180,
+      "grade": "N",
+      "pulledAt": "2026-11-12T02:28:23.926Z"
+    },
     {
       "id": 470,
       "name": "leafeon",
@@ -117,18 +128,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-11-09T12:01:32.228Z"
-    },
-    {
-      "id": 1019,
-      "name": "hydrapple",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1019.png",
-      "types": [
-        "grass",
-        "dragon"
-      ],
-      "totalStats": 540,
-      "grade": "SR",
-      "pulledAt": "2026-11-09T03:31:11.582Z"
     }
   ],
   "pokemon": {
@@ -915,6 +914,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-07T03:09:42.670Z",
       "lastPulledAt": "2026-11-07T03:09:42.670Z"
+    },
+    "191": {
+      "id": 191,
+      "name": "sunkern",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/191.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 180,
+      "grade": "N",
+      "pulledAt": "2026-11-12T02:28:23.926Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-12T02:28:23.926Z",
+      "lastPulledAt": "2026-11-12T02:28:23.926Z"
     },
     "195": {
       "id": 195,
