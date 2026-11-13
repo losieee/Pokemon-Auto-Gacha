@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 313,
-  "updatedAt": "2026-11-13T11:28:08.764Z",
+  "totalPulls": 314,
+  "updatedAt": "2026-11-13T18:38:33.238Z",
   "lastPull": {
-    "id": 759,
-    "name": "stufful",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/759.png",
+    "id": 198,
+    "name": "murkrow",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/198.png",
     "types": [
-      "normal",
-      "fighting"
+      "dark",
+      "flying"
     ],
-    "totalStats": 340,
-    "grade": "N",
-    "pulledAt": "2026-11-13T11:28:08.764Z"
+    "totalStats": 405,
+    "grade": "R",
+    "pulledAt": "2026-11-13T18:38:33.238Z"
   },
   "pulls": [
+    {
+      "id": 198,
+      "name": "murkrow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/198.png",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-11-13T18:38:33.238Z"
+    },
     {
       "id": 759,
       "name": "stufful",
@@ -119,18 +131,6 @@
       "totalStats": 590,
       "grade": "SR",
       "pulledAt": "2026-11-11T06:51:02.805Z"
-    },
-    {
-      "id": 342,
-      "name": "crawdaunt",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/342.png",
-      "types": [
-        "water",
-        "dark"
-      ],
-      "totalStats": 468,
-      "grade": "R",
-      "pulledAt": "2026-11-11T00:24:07.411Z"
     }
   ],
   "pokemon": {
@@ -963,6 +963,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-04T03:12:18.247Z",
       "lastPulledAt": "2026-11-04T03:12:18.247Z"
+    },
+    "198": {
+      "id": 198,
+      "name": "murkrow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/198.png",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-11-13T18:38:33.238Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-13T18:38:33.238Z",
+      "lastPulledAt": "2026-11-13T18:38:33.238Z"
     },
     "199": {
       "id": 199,
