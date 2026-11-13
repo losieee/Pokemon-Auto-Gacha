@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 312,
-  "updatedAt": "2026-11-13T03:33:07.689Z",
+  "totalPulls": 313,
+  "updatedAt": "2026-11-13T11:28:08.764Z",
   "lastPull": {
-    "id": 711,
-    "name": "gourgeist-average",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/711.png",
+    "id": 759,
+    "name": "stufful",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/759.png",
     "types": [
-      "ghost",
-      "grass"
+      "normal",
+      "fighting"
     ],
-    "totalStats": 494,
-    "grade": "R",
-    "pulledAt": "2026-11-13T03:33:07.689Z"
+    "totalStats": 340,
+    "grade": "N",
+    "pulledAt": "2026-11-13T11:28:08.764Z"
   },
   "pulls": [
+    {
+      "id": 759,
+      "name": "stufful",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/759.png",
+      "types": [
+        "normal",
+        "fighting"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-11-13T11:28:08.764Z"
+    },
     {
       "id": 711,
       "name": "gourgeist-average",
@@ -119,17 +131,6 @@
       "totalStats": 468,
       "grade": "R",
       "pulledAt": "2026-11-11T00:24:07.411Z"
-    },
-    {
-      "id": 440,
-      "name": "happiny",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/440.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 220,
-      "grade": "N",
-      "pulledAt": "2026-11-10T19:58:04.441Z"
     }
   ],
   "pokemon": {
@@ -3395,6 +3396,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-12T23:46:32.612Z",
       "lastPulledAt": "2026-10-12T23:46:32.612Z"
+    },
+    "759": {
+      "id": 759,
+      "name": "stufful",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/759.png",
+      "types": [
+        "normal",
+        "fighting"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-11-13T11:28:08.764Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-13T11:28:08.764Z",
+      "lastPulledAt": "2026-11-13T11:28:08.764Z"
     },
     "770": {
       "id": 770,
