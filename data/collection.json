@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 314,
-  "updatedAt": "2026-11-13T18:38:33.238Z",
+  "totalPulls": 315,
+  "updatedAt": "2026-11-13T23:50:43.501Z",
   "lastPull": {
-    "id": 198,
-    "name": "murkrow",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/198.png",
+    "id": 378,
+    "name": "regice",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/378.png",
     "types": [
-      "dark",
-      "flying"
+      "ice"
     ],
-    "totalStats": 405,
-    "grade": "R",
-    "pulledAt": "2026-11-13T18:38:33.238Z"
+    "totalStats": 580,
+    "grade": "SR",
+    "pulledAt": "2026-11-13T23:50:43.501Z"
   },
   "pulls": [
+    {
+      "id": 378,
+      "name": "regice",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/378.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-11-13T23:50:43.501Z"
+    },
     {
       "id": 198,
       "name": "murkrow",
@@ -119,18 +129,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-11-11T14:47:36.928Z"
-    },
-    {
-      "id": 1010,
-      "name": "iron-leaves",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1010.png",
-      "types": [
-        "grass",
-        "psychic"
-      ],
-      "totalStats": 590,
-      "grade": "SR",
-      "pulledAt": "2026-11-11T06:51:02.805Z"
     }
   ],
   "pokemon": {
@@ -1705,6 +1703,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T14:30:51.916Z",
       "lastPulledAt": "2026-09-23T14:30:51.916Z"
+    },
+    "378": {
+      "id": 378,
+      "name": "regice",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/378.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-11-13T23:50:43.501Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-13T23:50:43.501Z",
+      "lastPulledAt": "2026-11-13T23:50:43.501Z"
     },
     "382": {
       "id": 382,
