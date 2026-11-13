@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 311,
-  "updatedAt": "2026-11-12T23:32:36.248Z",
+  "totalPulls": 312,
+  "updatedAt": "2026-11-13T03:33:07.689Z",
   "lastPull": {
-    "id": 486,
-    "name": "regigigas",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/486.png",
+    "id": 711,
+    "name": "gourgeist-average",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/711.png",
     "types": [
-      "normal"
+      "ghost",
+      "grass"
     ],
-    "totalStats": 670,
-    "grade": "SSR",
-    "pulledAt": "2026-11-12T23:32:36.248Z"
+    "totalStats": 494,
+    "grade": "R",
+    "pulledAt": "2026-11-13T03:33:07.689Z"
   },
   "pulls": [
+    {
+      "id": 711,
+      "name": "gourgeist-average",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/711.png",
+      "types": [
+        "ghost",
+        "grass"
+      ],
+      "totalStats": 494,
+      "grade": "R",
+      "pulledAt": "2026-11-13T03:33:07.689Z"
+    },
     {
       "id": 486,
       "name": "regigigas",
@@ -117,17 +130,6 @@
       "totalStats": 220,
       "grade": "N",
       "pulledAt": "2026-11-10T19:58:04.441Z"
-    },
-    {
-      "id": 594,
-      "name": "alomomola",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/594.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 470,
-      "grade": "R",
-      "pulledAt": "2026-11-10T12:30:47.335Z"
     }
   ],
   "pokemon": {
@@ -3238,6 +3240,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-17T05:45:41.852Z",
       "lastPulledAt": "2026-10-17T05:45:41.852Z"
+    },
+    "711": {
+      "id": 711,
+      "name": "gourgeist-average",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/711.png",
+      "types": [
+        "ghost",
+        "grass"
+      ],
+      "totalStats": 494,
+      "grade": "R",
+      "pulledAt": "2026-11-13T03:33:07.689Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-13T03:33:07.689Z",
+      "lastPulledAt": "2026-11-13T03:33:07.689Z"
     },
     "712": {
       "id": 712,
