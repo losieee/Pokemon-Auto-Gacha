@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 318,
-  "updatedAt": "2026-11-14T16:59:17.353Z",
+  "totalPulls": 319,
+  "updatedAt": "2026-11-14T21:07:44.429Z",
   "lastPull": {
-    "id": 930,
-    "name": "arboliva",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/930.png",
+    "id": 866,
+    "name": "mr-rime",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/866.png",
     "types": [
-      "grass",
-      "normal"
+      "ice",
+      "psychic"
     ],
-    "totalStats": 510,
+    "totalStats": 520,
     "grade": "SR",
-    "pulledAt": "2026-11-14T16:59:17.353Z"
+    "pulledAt": "2026-11-14T21:07:44.429Z"
   },
   "pulls": [
+    {
+      "id": 866,
+      "name": "mr-rime",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/866.png",
+      "types": [
+        "ice",
+        "psychic"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-11-14T21:07:44.429Z"
+    },
     {
       "id": 930,
       "name": "arboliva",
@@ -120,18 +132,6 @@
       "totalStats": 475,
       "grade": "R",
       "pulledAt": "2026-11-12T18:10:03.019Z"
-    },
-    {
-      "id": 473,
-      "name": "mamoswine",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/473.png",
-      "types": [
-        "ice",
-        "ground"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-11-12T10:03:29.930Z"
     }
   ],
   "pokemon": {
@@ -3799,10 +3799,10 @@
       "totalStats": 520,
       "grade": "SR",
       "pulledAt": "2026-09-19T05:54:48.903Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T05:54:48.903Z",
-      "lastPulledAt": "2026-09-19T05:54:48.903Z"
+      "lastPulledAt": "2026-11-14T21:07:44.429Z"
     },
     "868": {
       "id": 868,
