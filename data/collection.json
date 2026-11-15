@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 319,
-  "updatedAt": "2026-11-14T21:07:44.429Z",
+  "totalPulls": 320,
+  "updatedAt": "2026-11-15T00:59:38.876Z",
   "lastPull": {
-    "id": 866,
-    "name": "mr-rime",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/866.png",
+    "id": 316,
+    "name": "gulpin",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/316.png",
     "types": [
-      "ice",
-      "psychic"
+      "poison"
     ],
-    "totalStats": 520,
-    "grade": "SR",
-    "pulledAt": "2026-11-14T21:07:44.429Z"
+    "totalStats": 302,
+    "grade": "N",
+    "pulledAt": "2026-11-15T00:59:38.876Z"
   },
   "pulls": [
+    {
+      "id": 316,
+      "name": "gulpin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/316.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 302,
+      "grade": "N",
+      "pulledAt": "2026-11-15T00:59:38.876Z"
+    },
     {
       "id": 866,
       "name": "mr-rime",
@@ -120,18 +130,6 @@
       "totalStats": 670,
       "grade": "SSR",
       "pulledAt": "2026-11-12T23:32:36.248Z"
-    },
-    {
-      "id": 779,
-      "name": "bruxish",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/779.png",
-      "types": [
-        "water",
-        "psychic"
-      ],
-      "totalStats": 475,
-      "grade": "R",
-      "pulledAt": "2026-11-12T18:10:03.019Z"
     }
   ],
   "pokemon": {
@@ -1469,10 +1467,10 @@
       "totalStats": 302,
       "grade": "N",
       "pulledAt": "2026-10-16T18:07:21.610Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-16T18:07:21.610Z",
-      "lastPulledAt": "2026-10-16T18:07:21.610Z"
+      "lastPulledAt": "2026-11-15T00:59:38.876Z"
     },
     "320": {
       "id": 320,
