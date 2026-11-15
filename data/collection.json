@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 322,
-  "updatedAt": "2026-11-15T14:56:27.831Z",
+  "totalPulls": 323,
+  "updatedAt": "2026-11-15T20:03:46.293Z",
   "lastPull": {
-    "id": 27,
-    "name": "sandshrew",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png",
+    "id": 117,
+    "name": "seadra",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png",
     "types": [
-      "ground"
+      "water"
     ],
-    "totalStats": 300,
-    "grade": "N",
-    "pulledAt": "2026-11-15T14:56:27.831Z"
+    "totalStats": 440,
+    "grade": "R",
+    "pulledAt": "2026-11-15T20:03:46.293Z"
   },
   "pulls": [
+    {
+      "id": 117,
+      "name": "seadra",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 440,
+      "grade": "R",
+      "pulledAt": "2026-11-15T20:03:46.293Z"
+    },
     {
       "id": 27,
       "name": "sandshrew",
@@ -118,18 +129,6 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-11-13T18:38:33.238Z"
-    },
-    {
-      "id": 759,
-      "name": "stufful",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/759.png",
-      "types": [
-        "normal",
-        "fighting"
-      ],
-      "totalStats": 340,
-      "grade": "N",
-      "pulledAt": "2026-11-13T11:28:08.764Z"
     }
   ],
   "pokemon": {
@@ -562,6 +561,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T07:39:45.864Z",
       "lastPulledAt": "2026-10-03T07:39:45.864Z"
+    },
+    "117": {
+      "id": 117,
+      "name": "seadra",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 440,
+      "grade": "R",
+      "pulledAt": "2026-11-15T20:03:46.293Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-15T20:03:46.293Z",
+      "lastPulledAt": "2026-11-15T20:03:46.293Z"
     },
     "120": {
       "id": 120,
