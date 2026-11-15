@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 323,
-  "updatedAt": "2026-11-15T20:03:46.293Z",
+  "totalPulls": 324,
+  "updatedAt": "2026-11-15T23:55:29.068Z",
   "lastPull": {
-    "id": 117,
-    "name": "seadra",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png",
+    "id": 471,
+    "name": "glaceon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/471.png",
     "types": [
-      "water"
+      "ice"
     ],
-    "totalStats": 440,
-    "grade": "R",
-    "pulledAt": "2026-11-15T20:03:46.293Z"
+    "totalStats": 525,
+    "grade": "SR",
+    "pulledAt": "2026-11-15T23:55:29.068Z"
   },
   "pulls": [
+    {
+      "id": 471,
+      "name": "glaceon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/471.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-11-15T23:55:29.068Z"
+    },
     {
       "id": 117,
       "name": "seadra",
@@ -117,18 +128,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-11-13T23:50:43.501Z"
-    },
-    {
-      "id": 198,
-      "name": "murkrow",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/198.png",
-      "types": [
-        "dark",
-        "flying"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-11-13T18:38:33.238Z"
     }
   ],
   "pokemon": {
@@ -2166,6 +2165,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-11T21:35:11.523Z",
       "lastPulledAt": "2026-11-11T21:35:11.523Z"
+    },
+    "471": {
+      "id": 471,
+      "name": "glaceon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/471.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-11-15T23:55:29.068Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-15T23:55:29.068Z",
+      "lastPulledAt": "2026-11-15T23:55:29.068Z"
     },
     "472": {
       "id": 472,
