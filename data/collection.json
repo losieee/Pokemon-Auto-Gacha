@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 321,
-  "updatedAt": "2026-11-15T07:37:00.307Z",
+  "totalPulls": 322,
+  "updatedAt": "2026-11-15T14:56:27.831Z",
   "lastPull": {
-    "id": 475,
-    "name": "gallade",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/475.png",
+    "id": 27,
+    "name": "sandshrew",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png",
     "types": [
-      "psychic",
-      "fighting"
+      "ground"
     ],
-    "totalStats": 518,
-    "grade": "SR",
-    "pulledAt": "2026-11-15T07:37:00.307Z"
+    "totalStats": 300,
+    "grade": "N",
+    "pulledAt": "2026-11-15T14:56:27.831Z"
   },
   "pulls": [
+    {
+      "id": 27,
+      "name": "sandshrew",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-11-15T14:56:27.831Z"
+    },
     {
       "id": 475,
       "name": "gallade",
@@ -120,18 +130,6 @@
       "totalStats": 340,
       "grade": "N",
       "pulledAt": "2026-11-13T11:28:08.764Z"
-    },
-    {
-      "id": 711,
-      "name": "gourgeist-average",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/711.png",
-      "types": [
-        "ghost",
-        "grass"
-      ],
-      "totalStats": 494,
-      "grade": "R",
-      "pulledAt": "2026-11-13T03:33:07.689Z"
     }
   ],
   "pokemon": {
@@ -284,10 +282,10 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-11-08T23:53:45.391Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-08T23:53:45.391Z",
-      "lastPulledAt": "2026-11-08T23:53:45.391Z"
+      "lastPulledAt": "2026-11-15T14:56:27.831Z"
     },
     "33": {
       "id": 33,
