@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 326,
-  "updatedAt": "2026-11-16T12:05:56.342Z",
+  "totalPulls": 327,
+  "updatedAt": "2026-11-16T21:55:52.533Z",
   "lastPull": {
-    "id": 85,
-    "name": "dodrio",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/85.png",
+    "id": 743,
+    "name": "ribombee",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/743.png",
     "types": [
-      "normal",
-      "flying"
+      "bug",
+      "fairy"
     ],
-    "totalStats": 470,
+    "totalStats": 464,
     "grade": "R",
-    "pulledAt": "2026-11-16T12:05:56.342Z"
+    "pulledAt": "2026-11-16T21:55:52.533Z"
   },
   "pulls": [
+    {
+      "id": 743,
+      "name": "ribombee",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/743.png",
+      "types": [
+        "bug",
+        "fairy"
+      ],
+      "totalStats": 464,
+      "grade": "R",
+      "pulledAt": "2026-11-16T21:55:52.533Z"
+    },
     {
       "id": 85,
       "name": "dodrio",
@@ -117,18 +129,6 @@
       "totalStats": 510,
       "grade": "SR",
       "pulledAt": "2026-11-14T16:59:17.353Z"
-    },
-    {
-      "id": 623,
-      "name": "golurk",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/623.png",
-      "types": [
-        "ground",
-        "ghost"
-      ],
-      "totalStats": 483,
-      "grade": "R",
-      "pulledAt": "2026-11-14T11:06:14.333Z"
     }
   ],
   "pokemon": {
@@ -3427,6 +3427,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-19T18:57:09.908Z",
       "lastPulledAt": "2026-10-19T18:57:09.908Z"
+    },
+    "743": {
+      "id": 743,
+      "name": "ribombee",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/743.png",
+      "types": [
+        "bug",
+        "fairy"
+      ],
+      "totalStats": 464,
+      "grade": "R",
+      "pulledAt": "2026-11-16T21:55:52.533Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-16T21:55:52.533Z",
+      "lastPulledAt": "2026-11-16T21:55:52.533Z"
     },
     "744": {
       "id": 744,
