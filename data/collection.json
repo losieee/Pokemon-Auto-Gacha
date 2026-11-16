@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 324,
-  "updatedAt": "2026-11-15T23:55:29.068Z",
+  "totalPulls": 325,
+  "updatedAt": "2026-11-16T03:47:03.779Z",
   "lastPull": {
-    "id": 471,
-    "name": "glaceon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/471.png",
+    "id": 971,
+    "name": "greavard",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/971.png",
     "types": [
-      "ice"
+      "ghost"
     ],
-    "totalStats": 525,
-    "grade": "SR",
-    "pulledAt": "2026-11-15T23:55:29.068Z"
+    "totalStats": 290,
+    "grade": "N",
+    "pulledAt": "2026-11-16T03:47:03.779Z"
   },
   "pulls": [
+    {
+      "id": 971,
+      "name": "greavard",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/971.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-11-16T03:47:03.779Z"
+    },
     {
       "id": 471,
       "name": "glaceon",
@@ -117,17 +128,6 @@
       "totalStats": 288,
       "grade": "N",
       "pulledAt": "2026-11-14T03:56:05.858Z"
-    },
-    {
-      "id": 378,
-      "name": "regice",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/378.png",
-      "types": [
-        "ice"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-11-13T23:50:43.501Z"
     }
   ],
   "pokemon": {
@@ -4186,6 +4186,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-20T19:37:15.166Z",
       "lastPulledAt": "2026-10-20T19:37:15.166Z"
+    },
+    "971": {
+      "id": 971,
+      "name": "greavard",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/971.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-11-16T03:47:03.779Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-16T03:47:03.779Z",
+      "lastPulledAt": "2026-11-16T03:47:03.779Z"
     },
     "974": {
       "id": 974,
