@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 331,
-  "updatedAt": "2026-11-18T03:13:57.818Z",
+  "totalPulls": 332,
+  "updatedAt": "2026-11-18T11:44:49.873Z",
   "lastPull": {
-    "id": 321,
-    "name": "wailord",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/321.png",
+    "id": 598,
+    "name": "ferrothorn",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/598.png",
     "types": [
-      "water"
+      "grass",
+      "steel"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-11-18T03:13:57.818Z"
+    "totalStats": 489,
+    "grade": "R",
+    "pulledAt": "2026-11-18T11:44:49.873Z"
   },
   "pulls": [
+    {
+      "id": 598,
+      "name": "ferrothorn",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/598.png",
+      "types": [
+        "grass",
+        "steel"
+      ],
+      "totalStats": 489,
+      "grade": "R",
+      "pulledAt": "2026-11-18T11:44:49.873Z"
+    },
     {
       "id": 321,
       "name": "wailord",
@@ -117,17 +130,6 @@
       "totalStats": 440,
       "grade": "R",
       "pulledAt": "2026-11-15T20:03:46.293Z"
-    },
-    {
-      "id": 27,
-      "name": "sandshrew",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png",
-      "types": [
-        "ground"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-11-15T14:56:27.831Z"
     }
   ],
   "pokemon": {
@@ -2879,6 +2881,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-14T12:13:00.901Z",
       "lastPulledAt": "2026-10-14T12:13:00.901Z"
+    },
+    "598": {
+      "id": 598,
+      "name": "ferrothorn",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/598.png",
+      "types": [
+        "grass",
+        "steel"
+      ],
+      "totalStats": 489,
+      "grade": "R",
+      "pulledAt": "2026-11-18T11:44:49.873Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-18T11:44:49.873Z",
+      "lastPulledAt": "2026-11-18T11:44:49.873Z"
     },
     "599": {
       "id": 599,
