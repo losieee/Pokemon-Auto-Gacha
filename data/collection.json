@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 332,
-  "updatedAt": "2026-11-18T11:44:49.873Z",
+  "totalPulls": 333,
+  "updatedAt": "2026-11-18T19:36:58.499Z",
   "lastPull": {
-    "id": 598,
-    "name": "ferrothorn",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/598.png",
+    "id": 561,
+    "name": "sigilyph",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/561.png",
     "types": [
-      "grass",
-      "steel"
+      "psychic",
+      "flying"
     ],
-    "totalStats": 489,
+    "totalStats": 490,
     "grade": "R",
-    "pulledAt": "2026-11-18T11:44:49.873Z"
+    "pulledAt": "2026-11-18T19:36:58.499Z"
   },
   "pulls": [
+    {
+      "id": 561,
+      "name": "sigilyph",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/561.png",
+      "types": [
+        "psychic",
+        "flying"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-11-18T19:36:58.499Z"
+    },
     {
       "id": 598,
       "name": "ferrothorn",
@@ -119,17 +131,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-11-15T23:55:29.068Z"
-    },
-    {
-      "id": 117,
-      "name": "seadra",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 440,
-      "grade": "R",
-      "pulledAt": "2026-11-15T20:03:46.293Z"
     }
   ],
   "pokemon": {
@@ -2681,6 +2682,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T07:12:52.781Z",
       "lastPulledAt": "2026-09-21T07:12:52.781Z"
+    },
+    "561": {
+      "id": 561,
+      "name": "sigilyph",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/561.png",
+      "types": [
+        "psychic",
+        "flying"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-11-18T19:36:58.499Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-18T19:36:58.499Z",
+      "lastPulledAt": "2026-11-18T19:36:58.499Z"
     },
     "565": {
       "id": 565,
