@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 330,
-  "updatedAt": "2026-11-17T21:51:01.916Z",
+  "totalPulls": 331,
+  "updatedAt": "2026-11-18T03:13:57.818Z",
   "lastPull": {
-    "id": 81,
-    "name": "magnemite",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png",
+    "id": 321,
+    "name": "wailord",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/321.png",
     "types": [
-      "electric",
-      "steel"
+      "water"
     ],
-    "totalStats": 325,
-    "grade": "N",
-    "pulledAt": "2026-11-17T21:51:01.916Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-11-18T03:13:57.818Z"
   },
   "pulls": [
+    {
+      "id": 321,
+      "name": "wailord",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/321.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-11-18T03:13:57.818Z"
+    },
     {
       "id": 81,
       "name": "magnemite",
@@ -118,18 +128,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-11-15T14:56:27.831Z"
-    },
-    {
-      "id": 475,
-      "name": "gallade",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/475.png",
-      "types": [
-        "psychic",
-        "fighting"
-      ],
-      "totalStats": 518,
-      "grade": "SR",
-      "pulledAt": "2026-11-15T07:37:00.307Z"
     }
   ],
   "pokemon": {
@@ -1533,6 +1531,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T16:46:05.158Z",
       "lastPulledAt": "2026-09-19T16:46:05.158Z"
+    },
+    "321": {
+      "id": 321,
+      "name": "wailord",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/321.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-11-18T03:13:57.818Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-18T03:13:57.818Z",
+      "lastPulledAt": "2026-11-18T03:13:57.818Z"
     },
     "326": {
       "id": 326,
