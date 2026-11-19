@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 335,
-  "updatedAt": "2026-11-19T09:01:31.638Z",
+  "totalPulls": 336,
+  "updatedAt": "2026-11-19T18:10:15.873Z",
   "lastPull": {
-    "id": 633,
-    "name": "deino",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/633.png",
+    "id": 135,
+    "name": "jolteon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png",
     "types": [
-      "dark",
-      "dragon"
+      "electric"
     ],
-    "totalStats": 300,
-    "grade": "N",
-    "pulledAt": "2026-11-19T09:01:31.638Z"
+    "totalStats": 525,
+    "grade": "SR",
+    "pulledAt": "2026-11-19T18:10:15.873Z"
   },
   "pulls": [
+    {
+      "id": 135,
+      "name": "jolteon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-11-19T18:10:15.873Z"
+    },
     {
       "id": 633,
       "name": "deino",
@@ -120,18 +130,6 @@
       "totalStats": 464,
       "grade": "R",
       "pulledAt": "2026-11-16T21:55:52.533Z"
-    },
-    {
-      "id": 85,
-      "name": "dodrio",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/85.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 470,
-      "grade": "R",
-      "pulledAt": "2026-11-16T12:05:56.342Z"
     }
   ],
   "pokemon": {
@@ -700,10 +698,10 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-11-08T02:40:28.761Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-08T02:40:28.761Z",
-      "lastPulledAt": "2026-11-08T02:40:28.761Z"
+      "lastPulledAt": "2026-11-19T18:10:15.873Z"
     },
     "136": {
       "id": 136,
