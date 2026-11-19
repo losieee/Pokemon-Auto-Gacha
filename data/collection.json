@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 333,
-  "updatedAt": "2026-11-18T19:36:58.499Z",
+  "totalPulls": 334,
+  "updatedAt": "2026-11-19T01:26:48.588Z",
   "lastPull": {
-    "id": 561,
-    "name": "sigilyph",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/561.png",
+    "id": 935,
+    "name": "charcadet",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/935.png",
     "types": [
-      "psychic",
-      "flying"
+      "fire"
     ],
-    "totalStats": 490,
-    "grade": "R",
-    "pulledAt": "2026-11-18T19:36:58.499Z"
+    "totalStats": 255,
+    "grade": "N",
+    "pulledAt": "2026-11-19T01:26:48.588Z"
   },
   "pulls": [
+    {
+      "id": 935,
+      "name": "charcadet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/935.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 255,
+      "grade": "N",
+      "pulledAt": "2026-11-19T01:26:48.588Z"
+    },
     {
       "id": 561,
       "name": "sigilyph",
@@ -120,17 +130,6 @@
       "totalStats": 290,
       "grade": "N",
       "pulledAt": "2026-11-16T03:47:03.779Z"
-    },
-    {
-      "id": 471,
-      "name": "glaceon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/471.png",
-      "types": [
-        "ice"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-11-15T23:55:29.068Z"
     }
   ],
   "pokemon": {
@@ -4208,6 +4207,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T12:36:18.569Z",
       "lastPulledAt": "2026-10-04T12:36:18.569Z"
+    },
+    "935": {
+      "id": 935,
+      "name": "charcadet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/935.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 255,
+      "grade": "N",
+      "pulledAt": "2026-11-19T01:26:48.588Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-19T01:26:48.588Z",
+      "lastPulledAt": "2026-11-19T01:26:48.588Z"
     },
     "939": {
       "id": 939,
