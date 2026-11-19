@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 334,
-  "updatedAt": "2026-11-19T01:26:48.588Z",
+  "totalPulls": 335,
+  "updatedAt": "2026-11-19T09:01:31.638Z",
   "lastPull": {
-    "id": 935,
-    "name": "charcadet",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/935.png",
+    "id": 633,
+    "name": "deino",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/633.png",
     "types": [
-      "fire"
+      "dark",
+      "dragon"
     ],
-    "totalStats": 255,
+    "totalStats": 300,
     "grade": "N",
-    "pulledAt": "2026-11-19T01:26:48.588Z"
+    "pulledAt": "2026-11-19T09:01:31.638Z"
   },
   "pulls": [
+    {
+      "id": 633,
+      "name": "deino",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/633.png",
+      "types": [
+        "dark",
+        "dragon"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-11-19T09:01:31.638Z"
+    },
     {
       "id": 935,
       "name": "charcadet",
@@ -119,17 +132,6 @@
       "totalStats": 470,
       "grade": "R",
       "pulledAt": "2026-11-16T12:05:56.342Z"
-    },
-    {
-      "id": 971,
-      "name": "greavard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/971.png",
-      "types": [
-        "ghost"
-      ],
-      "totalStats": 290,
-      "grade": "N",
-      "pulledAt": "2026-11-16T03:47:03.779Z"
     }
   ],
   "pokemon": {
@@ -3067,6 +3069,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-08T20:29:21.053Z",
       "lastPulledAt": "2026-11-08T20:29:21.053Z"
+    },
+    "633": {
+      "id": 633,
+      "name": "deino",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/633.png",
+      "types": [
+        "dark",
+        "dragon"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-11-19T09:01:31.638Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-19T09:01:31.638Z",
+      "lastPulledAt": "2026-11-19T09:01:31.638Z"
     },
     "637": {
       "id": 637,
