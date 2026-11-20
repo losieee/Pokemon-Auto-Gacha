@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 338,
-  "updatedAt": "2026-11-20T07:41:15.478Z",
+  "totalPulls": 339,
+  "updatedAt": "2026-11-20T16:23:10.866Z",
   "lastPull": {
-    "id": 515,
-    "name": "panpour",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/515.png",
+    "id": 151,
+    "name": "mew",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/151.png",
     "types": [
-      "water"
+      "psychic"
     ],
-    "totalStats": 316,
-    "grade": "N",
-    "pulledAt": "2026-11-20T07:41:15.478Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-11-20T16:23:10.866Z"
   },
   "pulls": [
+    {
+      "id": 151,
+      "name": "mew",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/151.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-11-20T16:23:10.866Z"
+    },
     {
       "id": 515,
       "name": "panpour",
@@ -116,18 +127,6 @@
       "totalStats": 325,
       "grade": "N",
       "pulledAt": "2026-11-17T21:51:01.916Z"
-    },
-    {
-      "id": 1005,
-      "name": "roaring-moon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1005.png",
-      "types": [
-        "dragon",
-        "dark"
-      ],
-      "totalStats": 590,
-      "grade": "SR",
-      "pulledAt": "2026-11-17T13:28:48.683Z"
     }
   ],
   "pokemon": {
@@ -746,6 +745,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-25T16:02:26.218Z",
       "lastPulledAt": "2026-10-25T16:02:26.218Z"
+    },
+    "151": {
+      "id": 151,
+      "name": "mew",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/151.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-11-20T16:23:10.866Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-20T16:23:10.866Z",
+      "lastPulledAt": "2026-11-20T16:23:10.866Z"
     },
     "152": {
       "id": 152,
