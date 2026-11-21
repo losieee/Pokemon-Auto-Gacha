@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 343,
-  "updatedAt": "2026-11-21T18:10:10.065Z",
+  "totalPulls": 344,
+  "updatedAt": "2026-11-21T23:09:14.232Z",
   "lastPull": {
-    "id": 348,
-    "name": "armaldo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/348.png",
+    "id": 194,
+    "name": "wooper",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/194.png",
     "types": [
-      "rock",
-      "bug"
+      "water",
+      "ground"
     ],
-    "totalStats": 495,
-    "grade": "R",
-    "pulledAt": "2026-11-21T18:10:10.065Z"
+    "totalStats": 210,
+    "grade": "N",
+    "pulledAt": "2026-11-21T23:09:14.232Z"
   },
   "pulls": [
+    {
+      "id": 194,
+      "name": "wooper",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/194.png",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "totalStats": 210,
+      "grade": "N",
+      "pulledAt": "2026-11-21T23:09:14.232Z"
+    },
     {
       "id": 348,
       "name": "armaldo",
@@ -116,17 +128,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-11-19T09:01:31.638Z"
-    },
-    {
-      "id": 935,
-      "name": "charcadet",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/935.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 255,
-      "grade": "N",
-      "pulledAt": "2026-11-19T01:26:48.588Z"
     }
   ],
   "pokemon": {
@@ -1021,6 +1022,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-12T02:28:23.926Z",
       "lastPulledAt": "2026-11-12T02:28:23.926Z"
+    },
+    "194": {
+      "id": 194,
+      "name": "wooper",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/194.png",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "totalStats": 210,
+      "grade": "N",
+      "pulledAt": "2026-11-21T23:09:14.232Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-21T23:09:14.232Z",
+      "lastPulledAt": "2026-11-21T23:09:14.232Z"
     },
     "195": {
       "id": 195,
