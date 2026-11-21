@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 341,
-  "updatedAt": "2026-11-21T03:30:05.709Z",
+  "totalPulls": 342,
+  "updatedAt": "2026-11-21T11:36:28.410Z",
   "lastPull": {
-    "id": 168,
-    "name": "ariados",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/168.png",
+    "id": 110,
+    "name": "weezing",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/110.png",
     "types": [
-      "bug",
       "poison"
     ],
-    "totalStats": 400,
+    "totalStats": 490,
     "grade": "R",
-    "pulledAt": "2026-11-21T03:30:05.709Z"
+    "pulledAt": "2026-11-21T11:36:28.410Z"
   },
   "pulls": [
+    {
+      "id": 110,
+      "name": "weezing",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/110.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-11-21T11:36:28.410Z"
+    },
     {
       "id": 168,
       "name": "ariados",
@@ -116,18 +126,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-11-18T19:36:58.499Z"
-    },
-    {
-      "id": 598,
-      "name": "ferrothorn",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/598.png",
-      "types": [
-        "grass",
-        "steel"
-      ],
-      "totalStats": 489,
-      "grade": "R",
-      "pulledAt": "2026-11-18T11:44:49.873Z"
     }
   ],
   "pokemon": {
@@ -562,6 +560,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-06T11:59:16.587Z",
       "lastPulledAt": "2026-11-06T11:59:16.587Z"
+    },
+    "110": {
+      "id": 110,
+      "name": "weezing",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/110.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-11-21T11:36:28.410Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-21T11:36:28.410Z",
+      "lastPulledAt": "2026-11-21T11:36:28.410Z"
     },
     "113": {
       "id": 113,
