@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 340,
-  "updatedAt": "2026-11-20T22:43:24.658Z",
+  "totalPulls": 341,
+  "updatedAt": "2026-11-21T03:30:05.709Z",
   "lastPull": {
-    "id": 918,
-    "name": "spidops",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/918.png",
+    "id": 168,
+    "name": "ariados",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/168.png",
     "types": [
-      "bug"
+      "bug",
+      "poison"
     ],
-    "totalStats": 404,
+    "totalStats": 400,
     "grade": "R",
-    "pulledAt": "2026-11-20T22:43:24.658Z"
+    "pulledAt": "2026-11-21T03:30:05.709Z"
   },
   "pulls": [
+    {
+      "id": 168,
+      "name": "ariados",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/168.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 400,
+      "grade": "R",
+      "pulledAt": "2026-11-21T03:30:05.709Z"
+    },
     {
       "id": 918,
       "name": "spidops",
@@ -115,17 +128,6 @@
       "totalStats": 489,
       "grade": "R",
       "pulledAt": "2026-11-18T11:44:49.873Z"
-    },
-    {
-      "id": 321,
-      "name": "wailord",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/321.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-11-18T03:13:57.818Z"
     }
   ],
   "pokemon": {
@@ -867,6 +869,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-26T23:14:02.547Z",
       "lastPulledAt": "2026-10-26T23:14:02.547Z"
+    },
+    "168": {
+      "id": 168,
+      "name": "ariados",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/168.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 400,
+      "grade": "R",
+      "pulledAt": "2026-11-21T03:30:05.709Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-21T03:30:05.709Z",
+      "lastPulledAt": "2026-11-21T03:30:05.709Z"
     },
     "172": {
       "id": 172,
