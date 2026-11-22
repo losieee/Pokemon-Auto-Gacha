@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 344,
-  "updatedAt": "2026-11-21T23:09:14.232Z",
+  "totalPulls": 345,
+  "updatedAt": "2026-11-22T03:03:28.996Z",
   "lastPull": {
-    "id": 194,
-    "name": "wooper",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/194.png",
+    "id": 930,
+    "name": "arboliva",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/930.png",
     "types": [
-      "water",
-      "ground"
+      "grass",
+      "normal"
     ],
-    "totalStats": 210,
-    "grade": "N",
-    "pulledAt": "2026-11-21T23:09:14.232Z"
+    "totalStats": 510,
+    "grade": "SR",
+    "pulledAt": "2026-11-22T03:03:28.996Z"
   },
   "pulls": [
+    {
+      "id": 930,
+      "name": "arboliva",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/930.png",
+      "types": [
+        "grass",
+        "normal"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-11-22T03:03:28.996Z"
+    },
     {
       "id": 194,
       "name": "wooper",
@@ -116,18 +128,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-11-19T18:10:15.873Z"
-    },
-    {
-      "id": 633,
-      "name": "deino",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/633.png",
-      "types": [
-        "dark",
-        "dragon"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-11-19T09:01:31.638Z"
     }
   ],
   "pokemon": {
@@ -4310,10 +4310,10 @@
       "totalStats": 510,
       "grade": "SR",
       "pulledAt": "2026-11-14T16:59:17.353Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-14T16:59:17.353Z",
-      "lastPulledAt": "2026-11-14T16:59:17.353Z"
+      "lastPulledAt": "2026-11-22T03:03:28.996Z"
     },
     "932": {
       "id": 932,
