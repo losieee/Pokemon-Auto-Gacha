@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 348,
-  "updatedAt": "2026-11-22T23:42:27.716Z",
+  "totalPulls": 349,
+  "updatedAt": "2026-11-23T04:01:25.195Z",
   "lastPull": {
-    "id": 344,
-    "name": "claydol",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/344.png",
+    "id": 275,
+    "name": "shiftry",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/275.png",
     "types": [
-      "ground",
-      "psychic"
+      "grass",
+      "dark"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-11-22T23:42:27.716Z"
+    "totalStats": 480,
+    "grade": "R",
+    "pulledAt": "2026-11-23T04:01:25.195Z"
   },
   "pulls": [
+    {
+      "id": 275,
+      "name": "shiftry",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/275.png",
+      "types": [
+        "grass",
+        "dark"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-11-23T04:01:25.195Z"
+    },
     {
       "id": 344,
       "name": "claydol",
@@ -119,17 +131,6 @@
       "totalStats": 404,
       "grade": "R",
       "pulledAt": "2026-11-20T22:43:24.658Z"
-    },
-    {
-      "id": 151,
-      "name": "mew",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/151.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-11-20T16:23:10.866Z"
     }
   ],
   "pokemon": {
@@ -1411,6 +1412,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T19:29:02.060Z",
       "lastPulledAt": "2026-09-21T19:29:02.060Z"
+    },
+    "275": {
+      "id": 275,
+      "name": "shiftry",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/275.png",
+      "types": [
+        "grass",
+        "dark"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-11-23T04:01:25.195Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-23T04:01:25.195Z",
+      "lastPulledAt": "2026-11-23T04:01:25.195Z"
     },
     "277": {
       "id": 277,
