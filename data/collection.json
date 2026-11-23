@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 349,
-  "updatedAt": "2026-11-23T04:01:25.195Z",
+  "totalPulls": 350,
+  "updatedAt": "2026-11-23T14:25:59.511Z",
   "lastPull": {
-    "id": 275,
-    "name": "shiftry",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/275.png",
+    "id": 825,
+    "name": "dottler",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/825.png",
     "types": [
-      "grass",
-      "dark"
+      "bug",
+      "psychic"
     ],
-    "totalStats": 480,
-    "grade": "R",
-    "pulledAt": "2026-11-23T04:01:25.195Z"
+    "totalStats": 335,
+    "grade": "N",
+    "pulledAt": "2026-11-23T14:25:59.511Z"
   },
   "pulls": [
+    {
+      "id": 825,
+      "name": "dottler",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/825.png",
+      "types": [
+        "bug",
+        "psychic"
+      ],
+      "totalStats": 335,
+      "grade": "N",
+      "pulledAt": "2026-11-23T14:25:59.511Z"
+    },
     {
       "id": 275,
       "name": "shiftry",
@@ -120,17 +132,6 @@
       "totalStats": 400,
       "grade": "R",
       "pulledAt": "2026-11-21T03:30:05.709Z"
-    },
-    {
-      "id": 918,
-      "name": "spidops",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/918.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 404,
-      "grade": "R",
-      "pulledAt": "2026-11-20T22:43:24.658Z"
     }
   ],
   "pokemon": {
@@ -3958,6 +3959,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-30T11:22:06.545Z",
       "lastPulledAt": "2026-09-30T11:22:06.545Z"
+    },
+    "825": {
+      "id": 825,
+      "name": "dottler",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/825.png",
+      "types": [
+        "bug",
+        "psychic"
+      ],
+      "totalStats": 335,
+      "grade": "N",
+      "pulledAt": "2026-11-23T14:25:59.511Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-23T14:25:59.511Z",
+      "lastPulledAt": "2026-11-23T14:25:59.511Z"
     },
     "831": {
       "id": 831,
