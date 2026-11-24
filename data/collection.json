@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 352,
-  "updatedAt": "2026-11-24T11:38:51.810Z",
+  "totalPulls": 353,
+  "updatedAt": "2026-11-24T21:29:35.078Z",
   "lastPull": {
-    "id": 573,
-    "name": "cinccino",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/573.png",
+    "id": 344,
+    "name": "claydol",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/344.png",
     "types": [
-      "normal"
+      "ground",
+      "psychic"
     ],
-    "totalStats": 470,
-    "grade": "R",
-    "pulledAt": "2026-11-24T11:38:51.810Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-11-24T21:29:35.078Z"
   },
   "pulls": [
+    {
+      "id": 344,
+      "name": "claydol",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/344.png",
+      "types": [
+        "ground",
+        "psychic"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-11-24T21:29:35.078Z"
+    },
     {
       "id": 573,
       "name": "cinccino",
@@ -119,18 +132,6 @@
       "totalStats": 210,
       "grade": "N",
       "pulledAt": "2026-11-21T23:09:14.232Z"
-    },
-    {
-      "id": 348,
-      "name": "armaldo",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/348.png",
-      "types": [
-        "rock",
-        "bug"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-11-21T18:10:10.065Z"
     }
   ],
   "pokemon": {
@@ -1748,10 +1749,10 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-11-22T23:42:27.716Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-22T23:42:27.716Z",
-      "lastPulledAt": "2026-11-22T23:42:27.716Z"
+      "lastPulledAt": "2026-11-24T21:29:35.078Z"
     },
     "348": {
       "id": 348,
