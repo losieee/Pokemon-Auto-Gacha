@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 351,
-  "updatedAt": "2026-11-24T01:45:52.878Z",
+  "totalPulls": 352,
+  "updatedAt": "2026-11-24T11:38:51.810Z",
   "lastPull": {
-    "id": 936,
-    "name": "armarouge",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/936.png",
+    "id": 573,
+    "name": "cinccino",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/573.png",
     "types": [
-      "fire",
-      "psychic"
+      "normal"
     ],
-    "totalStats": 525,
-    "grade": "SR",
-    "pulledAt": "2026-11-24T01:45:52.878Z"
+    "totalStats": 470,
+    "grade": "R",
+    "pulledAt": "2026-11-24T11:38:51.810Z"
   },
   "pulls": [
+    {
+      "id": 573,
+      "name": "cinccino",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/573.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-11-24T11:38:51.810Z"
+    },
     {
       "id": 936,
       "name": "armarouge",
@@ -121,17 +131,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-11-21T18:10:10.065Z"
-    },
-    {
-      "id": 110,
-      "name": "weezing",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/110.png",
-      "types": [
-        "poison"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-11-21T11:36:28.410Z"
     }
   ],
   "pokemon": {
@@ -2896,10 +2895,10 @@
       "totalStats": 470,
       "grade": "R",
       "pulledAt": "2026-10-31T17:56:25.558Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-31T17:56:25.558Z",
-      "lastPulledAt": "2026-10-31T17:56:25.558Z"
+      "lastPulledAt": "2026-11-24T11:38:51.810Z"
     },
     "575": {
       "id": 575,
