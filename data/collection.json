@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 350,
-  "updatedAt": "2026-11-23T14:25:59.511Z",
+  "totalPulls": 351,
+  "updatedAt": "2026-11-24T01:45:52.878Z",
   "lastPull": {
-    "id": 825,
-    "name": "dottler",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/825.png",
+    "id": 936,
+    "name": "armarouge",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/936.png",
     "types": [
-      "bug",
+      "fire",
       "psychic"
     ],
-    "totalStats": 335,
-    "grade": "N",
-    "pulledAt": "2026-11-23T14:25:59.511Z"
+    "totalStats": 525,
+    "grade": "SR",
+    "pulledAt": "2026-11-24T01:45:52.878Z"
   },
   "pulls": [
+    {
+      "id": 936,
+      "name": "armarouge",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/936.png",
+      "types": [
+        "fire",
+        "psychic"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-11-24T01:45:52.878Z"
+    },
     {
       "id": 825,
       "name": "dottler",
@@ -120,18 +132,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-11-21T11:36:28.410Z"
-    },
-    {
-      "id": 168,
-      "name": "ariados",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/168.png",
-      "types": [
-        "bug",
-        "poison"
-      ],
-      "totalStats": 400,
-      "grade": "R",
-      "pulledAt": "2026-11-21T03:30:05.709Z"
     }
   ],
   "pokemon": {
@@ -4427,6 +4427,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-19T01:26:48.588Z",
       "lastPulledAt": "2026-11-19T01:26:48.588Z"
+    },
+    "936": {
+      "id": 936,
+      "name": "armarouge",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/936.png",
+      "types": [
+        "fire",
+        "psychic"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-11-24T01:45:52.878Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-24T01:45:52.878Z",
+      "lastPulledAt": "2026-11-24T01:45:52.878Z"
     },
     "939": {
       "id": 939,
