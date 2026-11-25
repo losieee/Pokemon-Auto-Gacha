@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 354,
-  "updatedAt": "2026-11-25T04:29:04.414Z",
+  "totalPulls": 355,
+  "updatedAt": "2026-11-25T14:47:35.064Z",
   "lastPull": {
-    "id": 775,
-    "name": "komala",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/775.png",
+    "id": 798,
+    "name": "kartana",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/798.png",
     "types": [
-      "normal"
+      "grass",
+      "steel"
     ],
-    "totalStats": 480,
-    "grade": "R",
-    "pulledAt": "2026-11-25T04:29:04.414Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-11-25T14:47:35.064Z"
   },
   "pulls": [
+    {
+      "id": 798,
+      "name": "kartana",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/798.png",
+      "types": [
+        "grass",
+        "steel"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-25T14:47:35.064Z"
+    },
     {
       "id": 775,
       "name": "komala",
@@ -118,18 +131,6 @@
       "totalStats": 303,
       "grade": "N",
       "pulledAt": "2026-11-22T11:05:56.590Z"
-    },
-    {
-      "id": 930,
-      "name": "arboliva",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/930.png",
-      "types": [
-        "grass",
-        "normal"
-      ],
-      "totalStats": 510,
-      "grade": "SR",
-      "pulledAt": "2026-11-22T03:03:28.996Z"
     }
   ],
   "pokemon": {
@@ -3897,6 +3898,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-09T12:01:32.228Z",
       "lastPulledAt": "2026-11-09T12:01:32.228Z"
+    },
+    "798": {
+      "id": 798,
+      "name": "kartana",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/798.png",
+      "types": [
+        "grass",
+        "steel"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-25T14:47:35.064Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-25T14:47:35.064Z",
+      "lastPulledAt": "2026-11-25T14:47:35.064Z"
     },
     "811": {
       "id": 811,
