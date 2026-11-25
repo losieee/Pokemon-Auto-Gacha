@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 355,
-  "updatedAt": "2026-11-25T14:47:35.064Z",
+  "totalPulls": 356,
+  "updatedAt": "2026-11-25T23:22:14.453Z",
   "lastPull": {
-    "id": 798,
-    "name": "kartana",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/798.png",
+    "id": 182,
+    "name": "bellossom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/182.png",
     "types": [
-      "grass",
-      "steel"
+      "grass"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-11-25T14:47:35.064Z"
+    "totalStats": 490,
+    "grade": "R",
+    "pulledAt": "2026-11-25T23:22:14.453Z"
   },
   "pulls": [
+    {
+      "id": 182,
+      "name": "bellossom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/182.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-11-25T23:22:14.453Z"
+    },
     {
       "id": 798,
       "name": "kartana",
@@ -120,17 +130,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-11-22T18:26:31.204Z"
-    },
-    {
-      "id": 562,
-      "name": "yamask",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/562.png",
-      "types": [
-        "ghost"
-      ],
-      "totalStats": 303,
-      "grade": "N",
-      "pulledAt": "2026-11-22T11:05:56.590Z"
     }
   ],
   "pokemon": {
@@ -975,10 +974,10 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-10-21T15:33:05.572Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-21T15:33:05.572Z",
-      "lastPulledAt": "2026-10-21T15:33:05.572Z"
+      "lastPulledAt": "2026-11-25T23:22:14.453Z"
     },
     "187": {
       "id": 187,
