@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 353,
-  "updatedAt": "2026-11-24T21:29:35.078Z",
+  "totalPulls": 354,
+  "updatedAt": "2026-11-25T04:29:04.414Z",
   "lastPull": {
-    "id": 344,
-    "name": "claydol",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/344.png",
+    "id": 775,
+    "name": "komala",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/775.png",
     "types": [
-      "ground",
-      "psychic"
+      "normal"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-11-24T21:29:35.078Z"
+    "totalStats": 480,
+    "grade": "R",
+    "pulledAt": "2026-11-25T04:29:04.414Z"
   },
   "pulls": [
+    {
+      "id": 775,
+      "name": "komala",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/775.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-11-25T04:29:04.414Z"
+    },
     {
       "id": 344,
       "name": "claydol",
@@ -120,18 +130,6 @@
       "totalStats": 510,
       "grade": "SR",
       "pulledAt": "2026-11-22T03:03:28.996Z"
-    },
-    {
-      "id": 194,
-      "name": "wooper",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/194.png",
-      "types": [
-        "water",
-        "ground"
-      ],
-      "totalStats": 210,
-      "grade": "N",
-      "pulledAt": "2026-11-21T23:09:14.232Z"
     }
   ],
   "pokemon": {
@@ -3821,6 +3819,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T06:05:38.138Z",
       "lastPulledAt": "2026-09-20T06:05:38.138Z"
+    },
+    "775": {
+      "id": 775,
+      "name": "komala",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/775.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-11-25T04:29:04.414Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-25T04:29:04.414Z",
+      "lastPulledAt": "2026-11-25T04:29:04.414Z"
     },
     "776": {
       "id": 776,
