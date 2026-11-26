@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 356,
-  "updatedAt": "2026-11-25T23:22:14.453Z",
+  "totalPulls": 357,
+  "updatedAt": "2026-11-26T05:13:47.034Z",
   "lastPull": {
-    "id": 182,
-    "name": "bellossom",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/182.png",
+    "id": 1020,
+    "name": "gouging-fire",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1020.png",
     "types": [
-      "grass"
+      "fire",
+      "dragon"
     ],
-    "totalStats": 490,
-    "grade": "R",
-    "pulledAt": "2026-11-25T23:22:14.453Z"
+    "totalStats": 590,
+    "grade": "SR",
+    "pulledAt": "2026-11-26T05:13:47.034Z"
   },
   "pulls": [
+    {
+      "id": 1020,
+      "name": "gouging-fire",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1020.png",
+      "types": [
+        "fire",
+        "dragon"
+      ],
+      "totalStats": 590,
+      "grade": "SR",
+      "pulledAt": "2026-11-26T05:13:47.034Z"
+    },
     {
       "id": 182,
       "name": "bellossom",
@@ -118,18 +131,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-11-22T23:42:27.716Z"
-    },
-    {
-      "id": 719,
-      "name": "diancie",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/719.png",
-      "types": [
-        "rock",
-        "fairy"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-11-22T18:26:31.204Z"
     }
   ],
   "pokemon": {
@@ -4847,6 +4848,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-09T03:31:11.582Z",
       "lastPulledAt": "2026-11-09T03:31:11.582Z"
+    },
+    "1020": {
+      "id": 1020,
+      "name": "gouging-fire",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1020.png",
+      "types": [
+        "fire",
+        "dragon"
+      ],
+      "totalStats": 590,
+      "grade": "SR",
+      "pulledAt": "2026-11-26T05:13:47.034Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-26T05:13:47.034Z",
+      "lastPulledAt": "2026-11-26T05:13:47.034Z"
     },
     "1023": {
       "id": 1023,
