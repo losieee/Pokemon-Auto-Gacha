@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 358,
-  "updatedAt": "2026-11-26T15:19:02.052Z",
+  "totalPulls": 359,
+  "updatedAt": "2026-11-26T23:54:20.518Z",
   "lastPull": {
-    "id": 771,
-    "name": "pyukumuku",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/771.png",
+    "id": 662,
+    "name": "fletchinder",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/662.png",
     "types": [
-      "water"
+      "fire",
+      "flying"
     ],
-    "totalStats": 410,
-    "grade": "R",
-    "pulledAt": "2026-11-26T15:19:02.052Z"
+    "totalStats": 382,
+    "grade": "N",
+    "pulledAt": "2026-11-26T23:54:20.518Z"
   },
   "pulls": [
+    {
+      "id": 662,
+      "name": "fletchinder",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/662.png",
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "totalStats": 382,
+      "grade": "N",
+      "pulledAt": "2026-11-26T23:54:20.518Z"
+    },
     {
       "id": 771,
       "name": "pyukumuku",
@@ -117,18 +130,6 @@
       "totalStats": 335,
       "grade": "N",
       "pulledAt": "2026-11-23T14:25:59.511Z"
-    },
-    {
-      "id": 275,
-      "name": "shiftry",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/275.png",
-      "types": [
-        "grass",
-        "dark"
-      ],
-      "totalStats": 480,
-      "grade": "R",
-      "pulledAt": "2026-11-23T04:01:25.195Z"
     }
   ],
   "pokemon": {
@@ -3360,10 +3361,10 @@
       "totalStats": 382,
       "grade": "N",
       "pulledAt": "2026-10-29T08:55:39.993Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-29T08:55:39.993Z",
-      "lastPulledAt": "2026-10-29T08:55:39.993Z"
+      "lastPulledAt": "2026-11-26T23:54:20.518Z"
     },
     "669": {
       "id": 669,
