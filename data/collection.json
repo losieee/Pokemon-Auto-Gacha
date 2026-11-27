@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 361,
-  "updatedAt": "2026-11-27T15:37:20.438Z",
+  "totalPulls": 362,
+  "updatedAt": "2026-11-27T23:42:23.739Z",
   "lastPull": {
-    "id": 704,
-    "name": "goomy",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/704.png",
+    "id": 852,
+    "name": "clobbopus",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/852.png",
     "types": [
-      "dragon"
+      "fighting"
     ],
-    "totalStats": 300,
+    "totalStats": 310,
     "grade": "N",
-    "pulledAt": "2026-11-27T15:37:20.438Z"
+    "pulledAt": "2026-11-27T23:42:23.739Z"
   },
   "pulls": [
+    {
+      "id": 852,
+      "name": "clobbopus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/852.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-11-27T23:42:23.739Z"
+    },
     {
       "id": 704,
       "name": "goomy",
@@ -117,17 +128,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-11-24T21:29:35.078Z"
-    },
-    {
-      "id": 573,
-      "name": "cinccino",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/573.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 470,
-      "grade": "R",
-      "pulledAt": "2026-11-24T11:38:51.810Z"
     }
   ],
   "pokemon": {
@@ -4142,6 +4142,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T01:12:00.316Z",
       "lastPulledAt": "2026-09-24T13:42:18.000Z"
+    },
+    "852": {
+      "id": 852,
+      "name": "clobbopus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/852.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-11-27T23:42:23.739Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-27T23:42:23.739Z",
+      "lastPulledAt": "2026-11-27T23:42:23.739Z"
     },
     "855": {
       "id": 855,
