@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 359,
-  "updatedAt": "2026-11-26T23:54:20.518Z",
+  "totalPulls": 360,
+  "updatedAt": "2026-11-27T05:44:15.388Z",
   "lastPull": {
-    "id": 662,
-    "name": "fletchinder",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/662.png",
+    "id": 1007,
+    "name": "koraidon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1007.png",
     "types": [
-      "fire",
-      "flying"
+      "fighting",
+      "dragon"
     ],
-    "totalStats": 382,
-    "grade": "N",
-    "pulledAt": "2026-11-26T23:54:20.518Z"
+    "totalStats": 670,
+    "grade": "SSR",
+    "pulledAt": "2026-11-27T05:44:15.388Z"
   },
   "pulls": [
+    {
+      "id": 1007,
+      "name": "koraidon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1007.png",
+      "types": [
+        "fighting",
+        "dragon"
+      ],
+      "totalStats": 670,
+      "grade": "SSR",
+      "pulledAt": "2026-11-27T05:44:15.388Z"
+    },
     {
       "id": 662,
       "name": "fletchinder",
@@ -118,18 +130,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-11-24T01:45:52.878Z"
-    },
-    {
-      "id": 825,
-      "name": "dottler",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/825.png",
-      "types": [
-        "bug",
-        "psychic"
-      ],
-      "totalStats": 335,
-      "grade": "N",
-      "pulledAt": "2026-11-23T14:25:59.511Z"
     }
   ],
   "pokemon": {
@@ -4767,6 +4767,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-17T13:28:48.683Z",
       "lastPulledAt": "2026-11-17T13:28:48.683Z"
+    },
+    "1007": {
+      "id": 1007,
+      "name": "koraidon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1007.png",
+      "types": [
+        "fighting",
+        "dragon"
+      ],
+      "totalStats": 670,
+      "grade": "SSR",
+      "pulledAt": "2026-11-27T05:44:15.388Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-27T05:44:15.388Z",
+      "lastPulledAt": "2026-11-27T05:44:15.388Z"
     },
     "1009": {
       "id": 1009,
