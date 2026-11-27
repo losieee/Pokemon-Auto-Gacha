@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 360,
-  "updatedAt": "2026-11-27T05:44:15.388Z",
+  "totalPulls": 361,
+  "updatedAt": "2026-11-27T15:37:20.438Z",
   "lastPull": {
-    "id": 1007,
-    "name": "koraidon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1007.png",
+    "id": 704,
+    "name": "goomy",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/704.png",
     "types": [
-      "fighting",
       "dragon"
     ],
-    "totalStats": 670,
-    "grade": "SSR",
-    "pulledAt": "2026-11-27T05:44:15.388Z"
+    "totalStats": 300,
+    "grade": "N",
+    "pulledAt": "2026-11-27T15:37:20.438Z"
   },
   "pulls": [
+    {
+      "id": 704,
+      "name": "goomy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/704.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-11-27T15:37:20.438Z"
+    },
     {
       "id": 1007,
       "name": "koraidon",
@@ -118,18 +128,6 @@
       "totalStats": 470,
       "grade": "R",
       "pulledAt": "2026-11-24T11:38:51.810Z"
-    },
-    {
-      "id": 936,
-      "name": "armarouge",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/936.png",
-      "types": [
-        "fire",
-        "psychic"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-11-24T01:45:52.878Z"
     }
   ],
   "pokemon": {
@@ -3537,6 +3535,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-17T04:15:22.527Z",
       "lastPulledAt": "2026-11-17T04:15:22.527Z"
+    },
+    "704": {
+      "id": 704,
+      "name": "goomy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/704.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-11-27T15:37:20.438Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-27T15:37:20.438Z",
+      "lastPulledAt": "2026-11-27T15:37:20.438Z"
     },
     "705": {
       "id": 705,
